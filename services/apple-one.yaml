@@ -1,0 +1,16 @@
+id: apple-one
+name: Apple One
+category: streaming
+plan: Individual
+priceUsd: 19.95
+billing: month
+monthlyUsd: 19.95
+url: "https://www.apple.com/apple-one/"
+sourceUrl: "https://www.apple.com/apple-one/"
+priceCheckedAt: 2026-08-21
+domain: apple.com
+blurb: Bundle of Apple Music, TV+, Arcade, and 50GB iCloud+ at a lower combined price.
+rank: 9
+color: "#000000"
+simpleIconsSlug: apple
+logo: logos/apple-one.svg
