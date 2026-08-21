@@ -1,0 +1,16 @@
+id: claude-pro
+name: Claude Pro
+category: ai
+plan: Pro
+priceUsd: 20
+billing: month
+monthlyUsd: 20
+url: "https://claude.ai"
+sourceUrl: "https://claude.ai"
+priceCheckedAt: 2026-08-21
+domain: claude.ai
+blurb: Anthropic’s paid tier — higher limits and priority access to Claude.
+rank: 88
+color: "#D97757"
+simpleIconsSlug: claude
+logo: logos/claude-pro.svg

@@ -1,0 +1,16 @@
+id: apple-tv
+name: Apple TV+
+category: streaming
+plan: Monthly
+priceUsd: 12.99
+billing: month
+monthlyUsd: 12.99
+url: "https://www.apple.com/apple-tv-plus"
+sourceUrl: "https://www.apple.com/apple-tv-plus"
+priceCheckedAt: 2026-08-21
+domain: tv.apple.com
+blurb: A small, expensive-looking originals slate. Often bundled with Apple One.
+rank: 87
+color: "#000000"
+simpleIconsSlug: appletv
+logo: logos/apple-tv.svg

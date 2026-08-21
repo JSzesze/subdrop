@@ -1,0 +1,16 @@
+id: icloud
+name: iCloud+
+category: cloud
+plan: 200 GB
+priceUsd: 2.99
+billing: month
+monthlyUsd: 2.99
+url: "https://www.apple.com/icloud"
+sourceUrl: "https://www.apple.com/icloud"
+priceCheckedAt: 2026-08-21
+domain: icloud.com
+blurb: Photos, device backup, Hide My Email, and extra storage for Apple IDs.
+rank: 91
+color: "#3693F3"
+simpleIconsSlug: icloud
+logo: logos/icloud.svg

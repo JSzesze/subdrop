@@ -1,0 +1,16 @@
+id: robinhood-gold
+name: Robinhood Gold
+category: finance
+plan: Gold
+priceUsd: 5
+billing: month
+monthlyUsd: 5
+url: "https://robinhood.com/us/en/about/gold"
+sourceUrl: "https://robinhood.com/us/en/about/gold"
+priceCheckedAt: 2026-08-21
+domain: robinhood.com
+blurb: Boosted IRA match, higher yields, and bigger instant deposits.
+rank: 12
+color: "#CCFF00"
+simpleIconsSlug: robinhood
+logo: logos/robinhood-gold.svg

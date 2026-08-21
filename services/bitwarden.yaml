@@ -1,0 +1,16 @@
+id: bitwarden
+name: Bitwarden
+category: security
+plan: Premium
+priceUsd: 10
+billing: year
+monthlyUsd: 0.83
+url: "https://bitwarden.com"
+sourceUrl: "https://bitwarden.com"
+priceCheckedAt: 2026-08-21
+domain: bitwarden.com
+blurb: Open-source password manager. Premium is a rounding error for 2FA and vault.
+rank: 42
+color: "#175DDC"
+simpleIconsSlug: bitwarden
+logo: logos/bitwarden.svg

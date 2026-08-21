@@ -1,0 +1,16 @@
+id: strava
+name: Strava
+category: fitness
+plan: Premium
+priceUsd: 79.99
+billing: year
+monthlyUsd: 6.67
+url: "https://www.strava.com"
+sourceUrl: "https://www.strava.com"
+priceCheckedAt: 2026-08-21
+domain: strava.com
+blurb: The social layer for running and cycling. Premium unlocks deeper training.
+rank: 56
+color: "#FC4C02"
+simpleIconsSlug: strava
+logo: logos/strava.svg

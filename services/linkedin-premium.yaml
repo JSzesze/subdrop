@@ -1,0 +1,16 @@
+id: linkedin-premium
+name: LinkedIn Premium
+category: social
+plan: Career
+priceUsd: 29.99
+billing: month
+monthlyUsd: 29.99
+url: "https://premium.linkedin.com"
+sourceUrl: "https://premium.linkedin.com"
+priceCheckedAt: 2026-08-21
+domain: linkedin.com
+blurb: InMail, who-viewed-your-profile, and LinkedIn Learning on the Career plan.
+rank: 50
+color: "#0A66C2"
+simpleIconsSlug: linkedin
+logo: logos/linkedin-premium.png

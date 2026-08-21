@@ -1,0 +1,16 @@
+id: headspace
+name: Headspace
+category: fitness
+plan: Annual
+priceUsd: 69.99
+billing: year
+monthlyUsd: 5.83
+url: "https://www.headspace.com"
+sourceUrl: "https://www.headspace.com"
+priceCheckedAt: 2026-08-21
+domain: headspace.com
+blurb: Guided meditation and sleep. Cheapest when you pay the year up front.
+rank: 57
+color: "#F47D31"
+simpleIconsSlug: headspace
+logo: logos/headspace.svg

@@ -1,0 +1,16 @@
+id: coursera
+name: Coursera Plus
+category: education
+plan: Annual
+priceUsd: 399
+billing: year
+monthlyUsd: 33.25
+url: "https://www.coursera.org/courseraplus"
+sourceUrl: "https://www.coursera.org/courseraplus"
+priceCheckedAt: 2026-08-21
+domain: coursera.org
+blurb: Unlimited certificate courses from universities and companies for a year.
+rank: 24
+color: "#0056D2"
+simpleIconsSlug: coursera
+logo: logos/coursera.svg

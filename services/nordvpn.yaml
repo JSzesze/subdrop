@@ -1,0 +1,16 @@
+id: nordvpn
+name: NordVPN
+category: security
+plan: Plus (annual)
+priceUsd: 59.88
+billing: year
+monthlyUsd: 4.99
+url: "https://nordvpn.com"
+sourceUrl: "https://nordvpn.com"
+priceCheckedAt: 2026-08-21
+domain: nordvpn.com
+blurb: A mass-market VPN. The advertised rate assumes an annual prepay.
+rank: 62
+color: "#4687FF"
+simpleIconsSlug: nordvpn
+logo: logos/nordvpn.svg

@@ -1,0 +1,7 @@
+name: Subdrop
+description: Hand-curated catalog of popular US consumer subscriptions with typical advertised prices.
+schemaVersion: 1
+region: US
+currency: USD
+license: CC0-1.0
+licenseNote: Catalog data is dedicated to the public domain (CC0-1.0). Brand names and logos are trademarks of their owners and are included only to identify the service.

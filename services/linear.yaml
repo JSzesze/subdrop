@@ -1,0 +1,16 @@
+id: linear
+name: Linear
+category: productivity
+plan: Standard
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://linear.app"
+sourceUrl: "https://linear.app"
+priceCheckedAt: 2026-08-21
+domain: linear.app
+blurb: Issue tracking for product teams. Standard is per user.
+rank: 30
+color: "#5E6AD2"
+simpleIconsSlug: linear
+logo: logos/linear.svg

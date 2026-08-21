@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://subdrop.dev/schema/service.schema.json",
+  "title": "Subdrop Service",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "category",
+    "plan",
+    "priceUsd",
+    "billing",
+    "monthlyUsd",
+    "url",
+    "sourceUrl",
+    "priceCheckedAt",
+    "domain",
+    "logo"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "category": {
+      "type": "string",
+      "minLength": 1
+    },
+    "plan": {
+      "type": "string",
+      "minLength": 1
+    },
+    "priceUsd": {
+      "type": "number",
+      "minimum": 0
+    },
+    "billing": {
+      "type": "string",
+      "enum": ["month", "year", "week"]
+    },
+    "billingMonth": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 12
+    },
+    "monthlyUsd": {
+      "type": "number",
+      "minimum": 0
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "sourceUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "priceCheckedAt": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "domain": {
+      "type": "string",
+      "minLength": 1
+    },
+    "blurb": {
+      "type": "string"
+    },
+    "rank": {
+      "type": "integer"
+    },
+    "color": {
+      "type": "string"
+    },
+    "simpleIconsSlug": {
+      "type": "string"
+    },
+    "logo": {
+      "type": "string",
+      "pattern": "^logos/[a-z0-9._-]+\\.(svg|png|webp)$"
+    }
+  }
+}

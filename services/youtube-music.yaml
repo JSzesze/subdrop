@@ -1,0 +1,16 @@
+id: youtube-music
+name: YouTube Music
+category: music
+plan: Individual
+priceUsd: 11.99
+billing: month
+monthlyUsd: 11.99
+url: "https://music.youtube.com"
+sourceUrl: "https://music.youtube.com"
+priceCheckedAt: 2026-08-21
+domain: music.youtube.com
+blurb: Standalone music plan if you don’t want full YouTube Premium.
+rank: 59
+color: "#FF0000"
+simpleIconsSlug: youtubemusic
+logo: logos/youtube-music.svg

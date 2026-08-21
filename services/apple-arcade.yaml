@@ -1,0 +1,16 @@
+id: apple-arcade
+name: Apple Arcade
+category: gaming
+plan: Monthly
+priceUsd: 6.99
+billing: month
+monthlyUsd: 6.99
+url: "https://www.apple.com/apple-arcade"
+sourceUrl: "https://www.apple.com/apple-arcade"
+priceCheckedAt: 2026-08-21
+domain: apple.com
+blurb: A curated, ad-free game catalog across iPhone, Mac, and Apple TV.
+rank: 46
+color: "#000000"
+simpleIconsSlug: applearcade
+logo: logos/apple-arcade.svg

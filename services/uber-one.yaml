@@ -1,0 +1,16 @@
+id: uber-one
+name: Uber One
+category: food
+plan: Monthly
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.uber.com/uber-one"
+sourceUrl: "https://www.uber.com/uber-one"
+priceCheckedAt: 2026-08-21
+domain: uber.com
+blurb: Membership across Uber rides and Uber Eats — fee discounts and perks.
+rank: 73
+color: "#000000"
+simpleIconsSlug: uber
+logo: logos/uber-one.svg

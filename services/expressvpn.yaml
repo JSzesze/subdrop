@@ -1,0 +1,16 @@
+id: expressvpn
+name: ExpressVPN
+category: security
+plan: Monthly
+priceUsd: 12.95
+billing: month
+monthlyUsd: 12.95
+url: "https://www.expressvpn.com"
+sourceUrl: "https://www.expressvpn.com"
+priceCheckedAt: 2026-08-21
+domain: expressvpn.com
+blurb: A premium-priced VPN with simple apps. Annual billing cuts this sharply.
+rank: 39
+color: "#DA3940"
+simpleIconsSlug: expressvpn
+logo: logos/expressvpn.svg

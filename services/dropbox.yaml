@@ -1,0 +1,16 @@
+id: dropbox
+name: Dropbox
+category: cloud
+plan: Plus
+priceUsd: 11.99
+billing: month
+monthlyUsd: 11.99
+url: "https://www.dropbox.com"
+sourceUrl: "https://www.dropbox.com"
+priceCheckedAt: 2026-08-21
+domain: dropbox.com
+blurb: 2 TB of file sync. Still the cross-platform folder people remember.
+rank: 81
+color: "#0061FF"
+simpleIconsSlug: dropbox
+logo: logos/dropbox.svg

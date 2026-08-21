@@ -1,0 +1,16 @@
+id: slack
+name: Slack
+category: productivity
+plan: Pro
+priceUsd: 7.25
+billing: month
+monthlyUsd: 7.25
+url: "https://slack.com"
+sourceUrl: "https://slack.com"
+priceCheckedAt: 2026-08-21
+domain: slack.com
+blurb: The workplace chat that outlived its hype. Pro unlocks history and huddles.
+rank: 77
+color: "#4A154B"
+simpleIconsSlug: slack
+logo: logos/slack.svg

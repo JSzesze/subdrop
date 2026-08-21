@@ -1,0 +1,16 @@
+id: instacart
+name: Instacart+
+category: food
+plan: Annual
+priceUsd: 99
+billing: year
+monthlyUsd: 8.25
+url: "https://www.instacart.com"
+sourceUrl: "https://www.instacart.com"
+priceCheckedAt: 2026-08-21
+domain: instacart.com
+blurb: Free delivery on qualifying grocery orders from local stores.
+rank: 48
+color: "#43B02A"
+simpleIconsSlug: instacart
+logo: logos/instacart.svg

@@ -1,0 +1,16 @@
+id: discord-nitro
+name: Discord Nitro
+category: gaming
+plan: Nitro
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://discord.com/nitro"
+sourceUrl: "https://discord.com/nitro"
+priceCheckedAt: 2026-08-21
+domain: discord.com
+blurb: HD streaming, bigger uploads, and emoji across servers.
+rank: 58
+color: "#5865F2"
+simpleIconsSlug: discord
+logo: logos/discord-nitro.svg

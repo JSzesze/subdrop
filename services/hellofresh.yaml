@@ -1,0 +1,16 @@
+id: hellofresh
+name: HelloFresh
+category: food
+plan: Typical box
+priceUsd: 80
+billing: week
+monthlyUsd: 346.67
+url: "https://www.hellofresh.com"
+sourceUrl: "https://www.hellofresh.com"
+priceCheckedAt: 2026-08-21
+domain: hellofresh.com
+blurb: Meal kits, not a flat membership. Price is a typical two-person weekly box.
+rank: 13
+color: "#99CC33"
+simpleIconsSlug: hellofresh
+logo: logos/hellofresh.svg

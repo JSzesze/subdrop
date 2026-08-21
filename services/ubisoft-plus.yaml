@@ -1,0 +1,16 @@
+id: ubisoft-plus
+name: Ubisoft+
+category: gaming
+plan: Classic
+priceUsd: 17.99
+billing: month
+monthlyUsd: 17.99
+url: "https://www.ubisoft.com/ubisoftplus"
+sourceUrl: "https://www.ubisoft.com/ubisoftplus"
+priceCheckedAt: 2026-08-21
+domain: ubisoft.com
+blurb: Assassin’s Creed, Far Cry, and the rest of Ubisoft’s back catalog.
+rank: 37
+color: "#000000"
+simpleIconsSlug: ubisoft
+logo: logos/ubisoft-plus.svg

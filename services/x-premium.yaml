@@ -1,0 +1,16 @@
+id: x-premium
+name: X Premium
+category: social
+plan: Premium
+priceUsd: 8
+billing: month
+monthlyUsd: 8
+url: "https://x.com/premium"
+sourceUrl: "https://x.com/premium"
+priceCheckedAt: 2026-08-21
+domain: x.com
+blurb: Blue check, fewer ads, and longer posts. Premium+ and SuperGrok sit above it.
+rank: 53
+color: "#000000"
+simpleIconsSlug: x
+logo: logos/x-premium.svg

@@ -1,0 +1,16 @@
+id: notion
+name: Notion
+category: productivity
+plan: Plus
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://www.notion.so"
+sourceUrl: "https://www.notion.so"
+priceCheckedAt: 2026-08-21
+domain: notion.so
+blurb: Docs, wikis, and light databases. Plus is the personal paid floor.
+rank: 79
+color: "#000000"
+simpleIconsSlug: notion
+logo: logos/notion.svg

@@ -1,0 +1,16 @@
+id: asana
+name: Asana
+category: productivity
+plan: Starter
+priceUsd: 10.99
+billing: month
+monthlyUsd: 10.99
+url: "https://asana.com"
+sourceUrl: "https://asana.com"
+priceCheckedAt: 2026-08-21
+domain: asana.com
+blurb: Team tasks and timelines. Starter is per user, billed monthly.
+rank: 31
+color: "#F06A6A"
+simpleIconsSlug: asana
+logo: logos/asana.svg

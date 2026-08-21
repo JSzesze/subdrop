@@ -1,0 +1,16 @@
+id: kindle-unlimited
+name: Kindle Unlimited
+category: news
+plan: Monthly
+priceUsd: 11.99
+billing: month
+monthlyUsd: 11.99
+url: "https://www.amazon.com/kindle-unlimited"
+sourceUrl: "https://www.amazon.com/kindle-unlimited"
+priceCheckedAt: 2026-08-21
+domain: amazon.com
+blurb: A flat-rate library of ebooks and some audiobooks on Kindle devices.
+rank: 71
+color: "#FF9900"
+simpleIconsSlug: amazon
+logo: logos/kindle-unlimited.svg

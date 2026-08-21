@@ -1,0 +1,16 @@
+id: box
+name: Box
+category: cloud
+plan: Personal Pro
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://www.box.com"
+sourceUrl: "https://www.box.com"
+priceCheckedAt: 2026-08-21
+domain: box.com
+blurb: 100 GB of file storage with sharing controls aimed at work documents.
+rank: 29
+color: "#0061D5"
+simpleIconsSlug: box
+logo: logos/box.svg

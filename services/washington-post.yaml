@@ -1,0 +1,16 @@
+id: washington-post
+name: Washington Post
+category: news
+plan: Digital
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://www.washingtonpost.com/subscribe"
+sourceUrl: "https://www.washingtonpost.com/subscribe"
+priceCheckedAt: 2026-08-21
+domain: washingtonpost.com
+blurb: National politics and investigations. Digital is the standard reader plan.
+rank: 49
+color: "#231F20"
+simpleIconsSlug: thewashingtonpost
+logo: logos/washington-post.svg

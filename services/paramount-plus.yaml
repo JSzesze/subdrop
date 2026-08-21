@@ -1,0 +1,16 @@
+id: paramount-plus
+name: Paramount+
+category: streaming
+plan: Essential
+priceUsd: 7.99
+billing: month
+monthlyUsd: 7.99
+url: "https://www.paramountplus.com"
+sourceUrl: "https://www.paramountplus.com"
+priceCheckedAt: 2026-08-21
+domain: paramountplus.com
+blurb: CBS, Paramount films, and sports add-ons. Essential still carries ads.
+rank: 84
+color: "#0064FF"
+simpleIconsSlug: paramountplus
+logo: logos/paramount-plus.svg

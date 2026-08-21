@@ -1,0 +1,16 @@
+id: gemini-advanced
+name: Gemini Advanced
+category: ai
+plan: Google AI Plus
+priceUsd: 19.99
+billing: month
+monthlyUsd: 19.99
+url: "https://gemini.google.com"
+sourceUrl: "https://gemini.google.com"
+priceCheckedAt: 2026-08-21
+domain: gemini.google.com
+blurb: Google’s paid Gemini tier, bundled with extra Google One storage.
+rank: 67
+color: "#8E75B2"
+simpleIconsSlug: googlegemini
+logo: logos/gemini-advanced.svg

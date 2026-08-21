@@ -1,0 +1,16 @@
+id: geforce-now
+name: GeForce Now
+category: gaming
+plan: Priority
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.nvidia.com/geforce-now"
+sourceUrl: "https://www.nvidia.com/geforce-now"
+priceCheckedAt: 2026-08-21
+domain: nvidia.com
+blurb: Cloud gaming on NVIDIA hardware. You still need to own (or subscribe to) the game.
+rank: 36
+color: "#76B900"
+simpleIconsSlug: nvidia
+logo: logos/geforce-now.svg

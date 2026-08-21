@@ -1,0 +1,16 @@
+id: duolingo
+name: Duolingo Super
+category: education
+plan: Super
+priceUsd: 6.99
+billing: month
+monthlyUsd: 6.99
+url: "https://www.duolingo.com"
+sourceUrl: "https://www.duolingo.com"
+priceCheckedAt: 2026-08-21
+domain: duolingo.com
+blurb: Unlimited hearts, no ads, and practice reviews. Super is the consumer plan.
+rank: 54
+color: "#58CC02"
+simpleIconsSlug: duolingo
+logo: logos/duolingo.svg

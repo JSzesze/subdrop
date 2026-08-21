@@ -1,0 +1,16 @@
+id: nintendo-online
+name: Nintendo Switch Online
+category: gaming
+plan: Individual
+priceUsd: 19.99
+billing: year
+monthlyUsd: 1.67
+url: "https://www.nintendo.com/switch/online"
+sourceUrl: "https://www.nintendo.com/switch/online"
+priceCheckedAt: 2026-08-21
+domain: nintendo.com
+blurb: Online play, classic NES/SNES games, and cloud saves. Cheap on purpose.
+rank: 65
+color: "#E60012"
+simpleIconsSlug: nintendo
+logo: logos/nintendo-online.png

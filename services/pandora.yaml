@@ -1,0 +1,16 @@
+id: pandora
+name: Pandora
+category: music
+plan: Premium
+priceUsd: 10.99
+billing: month
+monthlyUsd: 10.99
+url: "https://www.pandora.com"
+sourceUrl: "https://www.pandora.com"
+priceCheckedAt: 2026-08-21
+domain: pandora.com
+blurb: Radio-style listening with on-demand on Premium.
+rank: 17
+color: "#224099"
+simpleIconsSlug: pandora
+logo: logos/pandora.svg

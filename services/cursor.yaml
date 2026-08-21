@@ -1,0 +1,16 @@
+id: cursor
+name: Cursor
+category: ai
+plan: Pro
+priceUsd: 20
+billing: month
+monthlyUsd: 20
+url: "https://cursor.com"
+sourceUrl: "https://cursor.com"
+priceCheckedAt: 2026-08-21
+domain: cursor.com
+blurb: The AI-native code editor. Pro is the plan most working engineers land on.
+rank: 66
+color: "#000000"
+simpleIconsSlug: cursor
+logo: logos/cursor.svg

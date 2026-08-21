@@ -1,0 +1,16 @@
+id: trello
+name: Trello
+category: productivity
+plan: Standard
+priceUsd: 5
+billing: month
+monthlyUsd: 5
+url: "https://trello.com"
+sourceUrl: "https://trello.com"
+priceCheckedAt: 2026-08-21
+domain: trello.com
+blurb: Kanban boards. Standard is the first paid step past the free board limit.
+rank: 32
+color: "#0052CC"
+simpleIconsSlug: trello
+logo: logos/trello.svg

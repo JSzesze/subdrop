@@ -1,0 +1,16 @@
+id: nyt
+name: New York Times
+category: news
+plan: All Access
+priceUsd: 25
+billing: month
+monthlyUsd: 25
+url: "https://www.nytimes.com/subscription"
+sourceUrl: "https://www.nytimes.com/subscription"
+priceCheckedAt: 2026-08-21
+domain: nytimes.com
+blurb: News, Cooking, Games, The Athletic, and Wirecutter in the bundle.
+rank: 72
+color: "#000000"
+simpleIconsSlug: newyorktimes
+logo: logos/nyt.svg

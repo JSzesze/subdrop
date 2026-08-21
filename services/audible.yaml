@@ -1,0 +1,16 @@
+id: audible
+name: Audible
+category: news
+plan: Premium Plus
+priceUsd: 14.95
+billing: month
+monthlyUsd: 14.95
+url: "https://www.audible.com"
+sourceUrl: "https://www.audible.com"
+priceCheckedAt: 2026-08-21
+domain: audible.com
+blurb: One credit a month for audiobooks, plus the Plus catalog.
+rank: 76
+color: "#F8991C"
+simpleIconsSlug: audible
+logo: logos/audible.svg

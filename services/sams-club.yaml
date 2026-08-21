@@ -1,0 +1,16 @@
+id: sams-club
+name: "Sam's Club"
+category: shopping
+plan: Club
+priceUsd: 50
+billing: year
+monthlyUsd: 4.17
+url: "https://www.samsclub.com"
+sourceUrl: "https://www.samsclub.com"
+priceCheckedAt: 2026-08-21
+domain: samsclub.com
+blurb: Walmart’s warehouse club. Club is the door-fee; Plus adds cash back.
+rank: 35
+color: "#0067A0"
+simpleIconsSlug: samsclub
+logo: logos/sams-club.svg

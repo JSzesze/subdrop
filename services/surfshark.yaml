@@ -1,0 +1,16 @@
+id: surfshark
+name: Surfshark
+category: security
+plan: Starter (annual)
+priceUsd: 47.88
+billing: year
+monthlyUsd: 3.99
+url: "https://surfshark.com"
+sourceUrl: "https://surfshark.com"
+priceCheckedAt: 2026-08-21
+domain: surfshark.com
+blurb: Unlimited-device VPN. The public price assumes you prepay a year.
+rank: 27
+color: "#1EBFBF"
+simpleIconsSlug: surfshark
+logo: logos/surfshark.svg

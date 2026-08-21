@@ -1,0 +1,16 @@
+id: crunchyroll
+name: Crunchyroll
+category: streaming
+plan: Fan
+priceUsd: 11.99
+billing: month
+monthlyUsd: 11.99
+url: "https://www.crunchyroll.com"
+sourceUrl: "https://www.crunchyroll.com"
+priceCheckedAt: 2026-08-21
+domain: crunchyroll.com
+blurb: The mainstream anime subscription. Fan drops most ads.
+rank: 70
+color: "#FF5E00"
+simpleIconsSlug: crunchyroll
+logo: logos/crunchyroll.svg

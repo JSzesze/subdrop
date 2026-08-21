@@ -1,0 +1,16 @@
+id: lastpass
+name: LastPass
+category: security
+plan: Premium
+priceUsd: 36
+billing: year
+monthlyUsd: 3
+url: "https://www.lastpass.com"
+sourceUrl: "https://www.lastpass.com"
+priceCheckedAt: 2026-08-21
+domain: lastpass.com
+blurb: A long-running password manager. Premium is the individual paid plan.
+rank: 25
+color: "#D32D27"
+simpleIconsSlug: lastpass
+logo: logos/lastpass.svg
