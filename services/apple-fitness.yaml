@@ -1,0 +1,16 @@
+id: apple-fitness
+name: Apple Fitness+
+category: fitness
+plan: Monthly
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.apple.com/apple-fitness-plus"
+sourceUrl: "https://www.apple.com/apple-fitness-plus"
+priceCheckedAt: 2026-08-21
+domain: apple.com
+blurb: Studio classes on iPhone, iPad, and Apple TV, with Watch rings built in.
+rank: 47
+color: "#000000"
+simpleIconsSlug: apple
+logo: logos/apple-fitness.svg

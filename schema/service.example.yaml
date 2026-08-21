@@ -1,0 +1,16 @@
+id: netflix
+name: Netflix
+category: streaming
+plan: Standard
+priceUsd: 17.99
+billing: month
+monthlyUsd: 17.99
+url: "https://www.netflix.com"
+sourceUrl: "https://www.netflix.com"
+priceCheckedAt: 2026-08-21
+domain: netflix.com
+blurb: The default streaming catalog. Standard is Full HD on two screens at once.
+rank: 100
+color: "#E50914"
+simpleIconsSlug: netflix
+logo: logos/netflix.svg

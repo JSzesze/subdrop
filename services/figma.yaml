@@ -1,0 +1,16 @@
+id: figma
+name: Figma
+category: productivity
+plan: Professional
+priceUsd: 16
+billing: month
+monthlyUsd: 16
+url: "https://www.figma.com"
+sourceUrl: "https://www.figma.com"
+priceCheckedAt: 2026-08-21
+domain: figma.com
+blurb: The collaborative design tool. Professional is per editor, billed monthly.
+rank: 63
+color: "#F24E1E"
+simpleIconsSlug: figma
+logo: logos/figma.svg

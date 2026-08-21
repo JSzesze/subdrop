@@ -1,0 +1,16 @@
+id: perplexity
+name: Perplexity Pro
+category: ai
+plan: Pro
+priceUsd: 20
+billing: month
+monthlyUsd: 20
+url: "https://www.perplexity.ai"
+sourceUrl: "https://www.perplexity.ai"
+priceCheckedAt: 2026-08-21
+domain: perplexity.ai
+blurb: A research-flavored answer engine with extra model choice and file uploads.
+rank: 51
+color: "#1FB8CD"
+simpleIconsSlug: perplexity
+logo: logos/perplexity.svg

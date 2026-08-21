@@ -1,0 +1,16 @@
+id: tidal
+name: TIDAL
+category: music
+plan: HiFi
+priceUsd: 10.99
+billing: month
+monthlyUsd: 10.99
+url: "https://tidal.com"
+sourceUrl: "https://tidal.com"
+priceCheckedAt: 2026-08-21
+domain: tidal.com
+blurb: Hi-res music with a slightly more artist-forward pitch than the majors.
+rank: 45
+color: "#000000"
+simpleIconsSlug: tidal
+logo: logos/tidal.svg

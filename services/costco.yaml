@@ -1,0 +1,16 @@
+id: costco
+name: Costco
+category: shopping
+plan: Gold Star
+priceUsd: 65
+billing: year
+monthlyUsd: 5.42
+url: "https://www.costco.com"
+sourceUrl: "https://www.costco.com"
+priceCheckedAt: 2026-08-21
+domain: costco.com
+blurb: The warehouse card. Gold Star is the household default; Executive is extra.
+rank: 75
+color: "#E31837"
+simpleIconsSlug: costco
+logo: logos/costco.png

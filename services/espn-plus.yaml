@@ -1,0 +1,16 @@
+id: espn-plus
+name: ESPN+
+category: streaming
+plan: Monthly
+priceUsd: 11.99
+billing: month
+monthlyUsd: 11.99
+url: "https://plus.espn.com"
+sourceUrl: "https://plus.espn.com"
+priceCheckedAt: 2026-08-21
+domain: espn.com
+blurb: MMA, hockey, soccer, and a pile of exclusive games. Often in a Disney bundle.
+rank: 69
+color: "#FF0000"
+simpleIconsSlug: espn
+logo: logos/espn-plus.png

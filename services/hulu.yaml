@@ -1,0 +1,16 @@
+id: hulu
+name: Hulu
+category: streaming
+plan: With Ads
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.hulu.com"
+sourceUrl: "https://www.hulu.com"
+priceCheckedAt: 2026-08-21
+domain: hulu.com
+blurb: Current TV and a deep on-demand library. The ad tier is the common plan.
+rank: 94
+color: "#1CE783"
+simpleIconsSlug: hulu
+logo: logos/hulu.png

@@ -1,0 +1,28 @@
+- id: streaming
+  label: Streaming
+- id: music
+  label: Music
+- id: gaming
+  label: Gaming
+- id: ai
+  label: AI
+- id: productivity
+  label: Productivity
+- id: cloud
+  label: Cloud
+- id: news
+  label: News & reading
+- id: fitness
+  label: Fitness
+- id: food
+  label: Food & delivery
+- id: shopping
+  label: Shopping
+- id: security
+  label: Security
+- id: education
+  label: Education
+- id: social
+  label: Social
+- id: finance
+  label: Finance

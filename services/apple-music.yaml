@@ -1,0 +1,16 @@
+id: apple-music
+name: Apple Music
+category: music
+plan: Individual
+priceUsd: 10.99
+billing: month
+monthlyUsd: 10.99
+url: "https://www.apple.com/apple-music"
+sourceUrl: "https://www.apple.com/apple-music"
+priceCheckedAt: 2026-08-21
+domain: music.apple.com
+blurb: Lossless and spatial audio, tightly tied to the Apple ecosystem.
+rank: 92
+color: "#FA243C"
+simpleIconsSlug: applemusic
+logo: logos/apple-music.svg

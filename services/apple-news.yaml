@@ -1,0 +1,16 @@
+id: apple-news
+name: Apple News+
+category: news
+plan: Monthly
+priceUsd: 12.99
+billing: month
+monthlyUsd: 12.99
+url: "https://www.apple.com/apple-news"
+sourceUrl: "https://www.apple.com/apple-news"
+priceCheckedAt: 2026-08-21
+domain: apple.com
+blurb: Magazines and a few papers inside the News app, including some exclusives.
+rank: 60
+color: "#FD415E"
+simpleIconsSlug: applenews
+logo: logos/apple-news.svg

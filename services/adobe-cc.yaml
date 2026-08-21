@@ -1,0 +1,16 @@
+id: adobe-cc
+name: Adobe Creative Cloud
+category: productivity
+plan: All Apps
+priceUsd: 69.99
+billing: month
+monthlyUsd: 69.99
+url: "https://www.adobe.com/creativecloud.html"
+sourceUrl: "https://www.adobe.com/creativecloud.html"
+priceCheckedAt: 2026-08-21
+domain: adobe.com
+blurb: Photoshop, Illustrator, Premiere, and the rest of the Adobe suite.
+rank: 82
+color: "#FF0000"
+simpleIconsSlug: adobe
+logo: logos/adobe-cc.svg

@@ -1,0 +1,16 @@
+id: twitch-turbo
+name: Twitch Turbo
+category: social
+plan: Turbo
+priceUsd: 13.99
+billing: month
+monthlyUsd: 13.99
+url: "https://www.twitch.tv/turbo"
+sourceUrl: "https://www.twitch.tv/turbo"
+priceCheckedAt: 2026-08-21
+domain: twitch.tv
+blurb: Ad-free viewing and extra storage. Separate from channel subs.
+rank: 20
+color: "#9146FF"
+simpleIconsSlug: twitch
+logo: logos/twitch-turbo.svg

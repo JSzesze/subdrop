@@ -1,0 +1,16 @@
+id: substack
+name: Substack
+category: news
+plan: Typical writer
+priceUsd: 7
+billing: month
+monthlyUsd: 7
+url: "https://substack.com"
+sourceUrl: "https://substack.com"
+priceCheckedAt: 2026-08-21
+domain: substack.com
+blurb: Not one product — a typical paid newsletter. Price is a median, not a plan.
+rank: 40
+color: "#FF6719"
+simpleIconsSlug: substack
+logo: logos/substack.svg

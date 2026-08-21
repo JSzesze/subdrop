@@ -1,0 +1,16 @@
+id: fubo
+name: Fubo
+category: streaming
+plan: Pro
+priceUsd: 94.99
+billing: month
+monthlyUsd: 94.99
+url: "https://www.fubo.tv"
+sourceUrl: "https://www.fubo.tv"
+priceCheckedAt: 2026-08-21
+domain: fubo.tv
+blurb: Sports-heavy live TV. Pro is the common starting bundle.
+rank: 19
+color: "#C83D1E"
+simpleIconsSlug: fubo
+logo: logos/fubo.svg

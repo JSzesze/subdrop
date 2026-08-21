@@ -1,0 +1,16 @@
+id: coinbase-one
+name: Coinbase One
+category: finance
+plan: Monthly
+priceUsd: 29.99
+billing: month
+monthlyUsd: 29.99
+url: "https://www.coinbase.com/one"
+sourceUrl: "https://www.coinbase.com/one"
+priceCheckedAt: 2026-08-21
+domain: coinbase.com
+blurb: Zero trading fees on a subset of pairs, plus extra support.
+rank: 11
+color: "#0052FF"
+simpleIconsSlug: coinbase
+logo: logos/coinbase-one.svg

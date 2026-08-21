@@ -1,0 +1,16 @@
+id: canva
+name: Canva
+category: productivity
+plan: Pro
+priceUsd: 14.99
+billing: month
+monthlyUsd: 14.99
+url: "https://www.canva.com"
+sourceUrl: "https://www.canva.com"
+priceCheckedAt: 2026-08-21
+domain: canva.com
+blurb: Templates, Brand Kit, and background remover for non-designers.
+rank: 78
+color: "#00C4CC"
+simpleIconsSlug: canva
+logo: logos/canva.png

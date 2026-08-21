@@ -1,0 +1,16 @@
+id: spotify
+name: Spotify
+category: music
+plan: Individual
+priceUsd: 11.99
+billing: month
+monthlyUsd: 11.99
+url: "https://www.spotify.com"
+sourceUrl: "https://www.spotify.com"
+priceCheckedAt: 2026-08-21
+domain: spotify.com
+blurb: The most common music subscription. Ad-free listening and offline downloads.
+rank: 98
+color: "#1ED760"
+simpleIconsSlug: spotify
+logo: logos/spotify.svg

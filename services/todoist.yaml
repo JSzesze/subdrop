@@ -1,0 +1,16 @@
+id: todoist
+name: Todoist
+category: productivity
+plan: Pro
+priceUsd: 4
+billing: month
+monthlyUsd: 4
+url: "https://todoist.com"
+sourceUrl: "https://todoist.com"
+priceCheckedAt: 2026-08-21
+domain: todoist.com
+blurb: A fast to-do list with filters and reminders. Pro is billed ~$48 a year.
+rank: 34
+color: "#E44332"
+simpleIconsSlug: todoist
+logo: logos/todoist.svg

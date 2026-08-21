@@ -1,0 +1,16 @@
+id: medium
+name: Medium
+category: news
+plan: Membership
+priceUsd: 5
+billing: month
+monthlyUsd: 5
+url: "https://medium.com/plans"
+sourceUrl: "https://medium.com/plans"
+priceCheckedAt: 2026-08-21
+domain: medium.com
+blurb: Member-only essays and a reading list. Cheap, and easy to forget you have.
+rank: 41
+color: "#000000"
+simpleIconsSlug: medium
+logo: logos/medium.svg

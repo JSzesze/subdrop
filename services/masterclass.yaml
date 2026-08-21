@@ -1,0 +1,16 @@
+id: masterclass
+name: MasterClass
+category: education
+plan: Standard (annual)
+priceUsd: 120
+billing: year
+monthlyUsd: 10
+url: "https://www.masterclass.com"
+sourceUrl: "https://www.masterclass.com"
+priceCheckedAt: 2026-08-21
+domain: masterclass.com
+blurb: Celebrity-taught video classes. Standard is the individual annual pass.
+rank: 22
+color: "#000000"
+simpleIconsSlug: masterclass
+logo: logos/masterclass.png

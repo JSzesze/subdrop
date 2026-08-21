@@ -1,0 +1,16 @@
+id: grammarly
+name: Grammarly
+category: productivity
+plan: Premium
+priceUsd: 12
+billing: month
+monthlyUsd: 12
+url: "https://www.grammarly.com"
+sourceUrl: "https://www.grammarly.com"
+priceCheckedAt: 2026-08-21
+domain: grammarly.com
+blurb: Writing suggestions in the browser and docs. Premium is the individual plan.
+rank: 43
+color: "#027E6F"
+simpleIconsSlug: grammarly
+logo: logos/grammarly.svg

@@ -1,0 +1,16 @@
+id: youtube-premium
+name: YouTube Premium
+category: streaming
+plan: Individual
+priceUsd: 13.99
+billing: month
+monthlyUsd: 13.99
+url: "https://www.youtube.com/premium"
+sourceUrl: "https://www.youtube.com/premium"
+priceCheckedAt: 2026-08-21
+domain: youtube.com
+blurb: Ad-free YouTube, background play, and YouTube Music included.
+rank: 96
+color: "#FF0000"
+simpleIconsSlug: youtube
+logo: logos/youtube-premium.svg

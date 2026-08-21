@@ -1,0 +1,16 @@
+id: microsoft-365
+name: Microsoft 365
+category: productivity
+plan: Personal
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.microsoft.com/microsoft-365"
+sourceUrl: "https://www.microsoft.com/microsoft-365"
+priceCheckedAt: 2026-08-21
+domain: microsoft.com
+blurb: Word, Excel, PowerPoint, Outlook, and 1 TB of OneDrive.
+rank: 90
+color: "#00A4EF"
+simpleIconsSlug: microsoft
+logo: logos/microsoft-365.png

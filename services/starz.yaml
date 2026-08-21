@@ -1,0 +1,16 @@
+id: starz
+name: STARZ
+category: streaming
+plan: Monthly
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.starz.com"
+sourceUrl: "https://www.starz.com"
+priceCheckedAt: 2026-08-21
+domain: starz.com
+blurb: A premium extras channel that migrated to its own app.
+rank: 18
+color: "#082125"
+simpleIconsSlug: starz
+logo: logos/starz.svg

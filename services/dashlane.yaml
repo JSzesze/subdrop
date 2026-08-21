@@ -1,0 +1,16 @@
+id: dashlane
+name: Dashlane
+category: security
+plan: Premium
+priceUsd: 59.99
+billing: year
+monthlyUsd: 5
+url: "https://www.dashlane.com"
+sourceUrl: "https://www.dashlane.com"
+priceCheckedAt: 2026-08-21
+domain: dashlane.com
+blurb: Password manager with a built-in VPN on Premium.
+rank: 26
+color: "#0E353D"
+simpleIconsSlug: dashlane
+logo: logos/dashlane.svg

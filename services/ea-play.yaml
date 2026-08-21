@@ -1,0 +1,16 @@
+id: ea-play
+name: EA Play
+category: gaming
+plan: Pro
+priceUsd: 19.99
+billing: month
+monthlyUsd: 19.99
+url: "https://www.ea.com/ea-play"
+sourceUrl: "https://www.ea.com/ea-play"
+priceCheckedAt: 2026-08-21
+domain: ea.com
+blurb: EA’s game catalog and early trials. A cheaper Basic tier exists at $5.99.
+rank: 38
+color: "#000000"
+simpleIconsSlug: ea
+logo: logos/ea-play.svg

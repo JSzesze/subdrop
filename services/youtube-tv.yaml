@@ -1,0 +1,16 @@
+id: youtube-tv
+name: YouTube TV
+category: streaming
+plan: Base
+priceUsd: 82.99
+billing: month
+monthlyUsd: 82.99
+url: "https://tv.youtube.com"
+sourceUrl: "https://tv.youtube.com"
+priceCheckedAt: 2026-08-21
+domain: tv.youtube.com
+blurb: A live-TV bundle with unlimited DVR. The price tracks cable, not Netflix.
+rank: 44
+color: "#FF0000"
+simpleIconsSlug: youtubetv
+logo: logos/youtube-tv.svg

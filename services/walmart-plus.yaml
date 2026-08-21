@@ -1,0 +1,16 @@
+id: walmart-plus
+name: Walmart+
+category: shopping
+plan: Monthly
+priceUsd: 12.95
+billing: month
+monthlyUsd: 12.95
+url: "https://www.walmart.com/plus"
+sourceUrl: "https://www.walmart.com/plus"
+priceCheckedAt: 2026-08-21
+domain: walmart.com
+blurb: Free shipping, fuel discounts, and Paramount+ Essential included.
+rank: 68
+color: "#0071CE"
+simpleIconsSlug: walmart
+logo: logos/walmart-plus.svg

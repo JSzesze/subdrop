@@ -1,0 +1,16 @@
+id: xbox-game-pass
+name: Xbox Game Pass
+category: gaming
+plan: Ultimate
+priceUsd: 19.99
+billing: month
+monthlyUsd: 19.99
+url: "https://www.xbox.com/xbox-game-pass"
+sourceUrl: "https://www.xbox.com/xbox-game-pass"
+priceCheckedAt: 2026-08-21
+domain: xbox.com
+blurb: Day-one Xbox and PC games, plus cloud streaming on Ultimate.
+rank: 86
+color: "#107C10"
+simpleIconsSlug: xbox
+logo: logos/xbox-game-pass.png

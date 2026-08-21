@@ -1,0 +1,16 @@
+id: peloton
+name: Peloton App
+category: fitness
+plan: App
+priceUsd: 24
+billing: month
+monthlyUsd: 24
+url: "https://www.onepeloton.com"
+sourceUrl: "https://www.onepeloton.com"
+priceCheckedAt: 2026-08-21
+domain: onepeloton.com
+blurb: Classes without the bike. The app membership is the software-only plan.
+rank: 55
+color: "#181A1D"
+simpleIconsSlug: peloton
+logo: logos/peloton.svg

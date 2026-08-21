@@ -1,0 +1,16 @@
+id: github-pro
+name: GitHub Pro
+category: productivity
+plan: Pro
+priceUsd: 4
+billing: month
+monthlyUsd: 4
+url: "https://github.com/pricing"
+sourceUrl: "https://github.com/pricing"
+priceCheckedAt: 2026-08-21
+domain: github.com
+blurb: Advanced pull requests and private-repo features for individuals.
+rank: 10
+color: "#181717"
+simpleIconsSlug: github
+logo: logos/github-pro.svg

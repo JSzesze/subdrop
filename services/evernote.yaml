@@ -1,0 +1,16 @@
+id: evernote
+name: Evernote
+category: productivity
+plan: Personal
+priceUsd: 14.99
+billing: month
+monthlyUsd: 14.99
+url: "https://evernote.com"
+sourceUrl: "https://evernote.com"
+priceCheckedAt: 2026-08-21
+domain: evernote.com
+blurb: The original web clipper notebook. Personal unlocks devices and bigger uploads.
+rank: 33
+color: "#00A82D"
+simpleIconsSlug: evernote
+logo: logos/evernote.svg

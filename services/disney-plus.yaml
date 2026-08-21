@@ -1,0 +1,16 @@
+id: disney-plus
+name: Disney+
+category: streaming
+plan: Premium
+priceUsd: 15.99
+billing: month
+monthlyUsd: 15.99
+url: "https://www.disneyplus.com"
+sourceUrl: "https://www.disneyplus.com"
+priceCheckedAt: 2026-08-21
+domain: disneyplus.com
+blurb: Disney, Pixar, Marvel, Star Wars, and National Geographic in one app.
+rank: 97
+color: "#113CCF"
+simpleIconsSlug: disneyplus
+logo: logos/disney-plus.png

@@ -1,0 +1,16 @@
+id: soundcloud
+name: SoundCloud Go+
+category: music
+plan: Go+
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://soundcloud.com/go"
+sourceUrl: "https://soundcloud.com/go"
+priceCheckedAt: 2026-08-21
+domain: soundcloud.com
+blurb: Independent tracks and DJ sets you will not find on Spotify.
+rank: 16
+color: "#FF5500"
+simpleIconsSlug: soundcloud
+logo: logos/soundcloud.svg

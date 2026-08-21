@@ -1,0 +1,16 @@
+id: reddit-premium
+name: Reddit Premium
+category: social
+plan: Monthly
+priceUsd: 5.99
+billing: month
+monthlyUsd: 5.99
+url: "https://www.reddit.com/premium"
+sourceUrl: "https://www.reddit.com/premium"
+priceCheckedAt: 2026-08-21
+domain: reddit.com
+blurb: Ad-free Reddit, avatars, and a monthly coins stipend.
+rank: 21
+color: "#FF4500"
+simpleIconsSlug: reddit
+logo: logos/reddit-premium.svg

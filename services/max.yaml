@@ -1,0 +1,16 @@
+id: max
+name: HBO Max
+category: streaming
+plan: Standard
+priceUsd: 16.99
+billing: month
+monthlyUsd: 16.99
+url: "https://www.max.com"
+sourceUrl: "https://www.max.com"
+priceCheckedAt: 2026-08-21
+domain: max.com
+blurb: HBO originals, Warner films, and a growing reality catalog.
+rank: 93
+color: "#000000"
+simpleIconsSlug: hbomax
+logo: logos/max.svg

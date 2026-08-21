@@ -1,0 +1,38 @@
+name: Publish
+
+on:
+  push:
+    branches:
+      - main
+
+# Stub workflow — publishing to Cloudflare R2 is not wired yet.
+# When ready, set jobs.publish.if to a real condition and add secrets:
+#   R2_ACCOUNT_ID
+#   R2_ACCESS_KEY_ID
+#   R2_SECRET_ACCESS_KEY
+#   R2_BUCKET_NAME
+#   R2_PUBLIC_HOST (CDN origin for logoUrl in published catalog.json)
+
+jobs:
+  publish:
+    if: false
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate
+        run: python3 scripts/validate.py
+
+      - name: Build catalog with CDN host
+        run: python3 scripts/build-catalog.py -o dist/catalog.json --host "${{ secrets.R2_PUBLIC_HOST }}"
+
+      # - name: Upload catalog.json to R2
+      #   uses: ... (aws s3 cp or rclone with R2 endpoint)
+
+      # - name: Sync logos/ to R2
+      #   run: ... sync logos/ prefix to bucket

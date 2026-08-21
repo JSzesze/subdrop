@@ -1,0 +1,16 @@
+id: calm
+name: Calm
+category: fitness
+plan: Annual
+priceUsd: 69.99
+billing: year
+monthlyUsd: 5.83
+url: "https://www.calm.com"
+sourceUrl: "https://www.calm.com"
+priceCheckedAt: 2026-08-21
+domain: calm.com
+blurb: Sleep stories and meditation. Almost always sold as a yearly pass.
+rank: 15
+color: "#2EB5C0"
+simpleIconsSlug: calm
+logo: logos/calm.png

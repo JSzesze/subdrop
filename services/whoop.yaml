@@ -1,0 +1,16 @@
+id: whoop
+name: WHOOP
+category: fitness
+plan: One
+priceUsd: 199
+billing: year
+monthlyUsd: 16.58
+url: "https://www.whoop.com"
+sourceUrl: "https://www.whoop.com"
+priceCheckedAt: 2026-08-21
+domain: whoop.com
+blurb: "Hardware membership: the band is free, the recovery data is the product."
+rank: 14
+color: "#000000"
+simpleIconsSlug: whoop
+logo: logos/whoop.svg

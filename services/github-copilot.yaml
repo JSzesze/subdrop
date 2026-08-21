@@ -1,0 +1,16 @@
+id: github-copilot
+name: GitHub Copilot
+category: ai
+plan: Pro
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://github.com/features/copilot"
+sourceUrl: "https://github.com/features/copilot"
+priceCheckedAt: 2026-08-21
+domain: github.com
+blurb: Inline code completion and chat in the editor, billed through GitHub.
+rank: 80
+color: "#000000"
+simpleIconsSlug: githubcopilot
+logo: logos/github-copilot.svg

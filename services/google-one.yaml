@@ -1,0 +1,16 @@
+id: google-one
+name: Google One
+category: cloud
+plan: 2 TB
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://one.google.com"
+sourceUrl: "https://one.google.com"
+priceCheckedAt: 2026-08-21
+domain: one.google.com
+blurb: Storage across Drive, Gmail, and Photos. The 2 TB plan is the family default.
+rank: 89
+color: "#4285F4"
+simpleIconsSlug: google
+logo: logos/google-one.svg

@@ -1,0 +1,16 @@
+id: playstation-plus
+name: PlayStation Plus
+category: gaming
+plan: Extra
+priceUsd: 17.99
+billing: month
+monthlyUsd: 17.99
+url: "https://www.playstation.com/ps-plus"
+sourceUrl: "https://www.playstation.com/ps-plus"
+priceCheckedAt: 2026-08-21
+domain: playstation.com
+blurb: Online play plus a rotating catalog. Extra is the usual sweet spot.
+rank: 85
+color: "#0070D1"
+simpleIconsSlug: playstation
+logo: logos/playstation-plus.svg

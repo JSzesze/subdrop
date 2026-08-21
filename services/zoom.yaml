@@ -1,0 +1,16 @@
+id: zoom
+name: Zoom
+category: productivity
+plan: Pro
+priceUsd: 15.99
+billing: month
+monthlyUsd: 15.99
+url: "https://www.zoom.com"
+sourceUrl: "https://www.zoom.com"
+priceCheckedAt: 2026-08-21
+domain: zoom.us
+blurb: Removes the 40-minute cap on group meetings and adds cloud recording.
+rank: 64
+color: "#0B5CFF"
+simpleIconsSlug: zoom
+logo: logos/zoom.svg

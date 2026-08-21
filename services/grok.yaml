@@ -1,0 +1,16 @@
+id: grok
+name: SuperGrok
+category: ai
+plan: SuperGrok
+priceUsd: 30
+billing: month
+monthlyUsd: 30
+url: "https://grok.com"
+sourceUrl: "https://grok.com"
+priceCheckedAt: 2026-08-21
+domain: grok.com
+blurb: xAI’s higher Grok tier — more usage, Imagine, and the latest models.
+rank: 52
+color: "#E8E8E6"
+simpleIconsSlug: xai
+logo: logos/grok.png

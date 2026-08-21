@@ -1,0 +1,16 @@
+id: doordash
+name: DoorDash DashPass
+category: food
+plan: DashPass
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.doordash.com"
+sourceUrl: "https://www.doordash.com"
+priceCheckedAt: 2026-08-21
+domain: doordash.com
+blurb: Reduced delivery fees and member pricing on a lot of local restaurants.
+rank: 74
+color: "#FF3008"
+simpleIconsSlug: doordash
+logo: logos/doordash.svg

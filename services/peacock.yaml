@@ -1,0 +1,16 @@
+id: peacock
+name: Peacock
+category: streaming
+plan: Premium
+priceUsd: 7.99
+billing: month
+monthlyUsd: 7.99
+url: "https://www.peacocktv.com"
+sourceUrl: "https://www.peacocktv.com"
+priceCheckedAt: 2026-08-21
+domain: peacocktv.com
+blurb: NBCUniversal’s streaming home — live sports, Bravo, and originals.
+rank: 83
+color: "#F02AA6"
+simpleIconsSlug: peacock
+logo: logos/peacock.png

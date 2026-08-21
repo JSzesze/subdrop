@@ -1,0 +1,16 @@
+id: skillshare
+name: Skillshare
+category: education
+plan: Premium
+priceUsd: 13.99
+billing: month
+monthlyUsd: 13.99
+url: "https://www.skillshare.com"
+sourceUrl: "https://www.skillshare.com"
+priceCheckedAt: 2026-08-21
+domain: skillshare.com
+blurb: Short creative classes. Annual billing is the rate Skillshare pushes.
+rank: 23
+color: "#00FF84"
+simpleIconsSlug: skillshare
+logo: logos/skillshare.svg
