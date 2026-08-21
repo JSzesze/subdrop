@@ -1,0 +1,15 @@
+id: siriusxm
+name: SiriusXM
+category: music
+plan: All Music (Car + app)
+priceUsd: 11.99
+billing: month
+monthlyUsd: 11.99
+url: "https://www.siriusxm.com"
+sourceUrl: "https://www.siriusxm.com/plans"
+priceCheckedAt: 2026-08-21
+domain: siriusxm.com
+blurb: Satellite radio and streaming with curated music channels for the car and app.
+rank: 9
+color: "#0033A0"
+logo: logos/siriusxm.svg
