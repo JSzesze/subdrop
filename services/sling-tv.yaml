@@ -1,0 +1,15 @@
+id: sling-tv
+name: Sling TV
+category: streaming
+plan: Essentials
+priceUsd: 19.99
+billing: month
+monthlyUsd: 19.99
+url: "https://www.sling.com"
+sourceUrl: "https://www.sling.com"
+priceCheckedAt: 2026-08-21
+domain: sling.com
+blurb: Budget live TV over the internet. Essentials is the advertised starting plan with ESPN and local FOX/NBC.
+rank: 9
+color: "#F99600"
+logo: logos/sling-tv.svg
