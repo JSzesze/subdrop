@@ -1,0 +1,18 @@
+id: panera-sip-club
+name: Panera Sip Club
+category: food
+plan: Monthly
+priceUsd: 14.99
+billing: month
+monthlyUsd: 14.99
+url: "https://www.panerabread.com/en-us/mypanera/subscription.html"
+sourceUrl: "https://www.panerabread.com/en-us/mypanera/subscription.html"
+priceCheckedAt: 2026-08-22
+domain: panerabread.com
+blurb: Beverage subscription with up to 30 eligible drinks per month (Aug 2026 terms).
+rank: 8
+color: "#687818"
+logo: logos/panera-sip-club.png
+aliases:
+  - panera_sip_club
+  - sip_club
