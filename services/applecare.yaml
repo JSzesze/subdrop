@@ -1,0 +1,19 @@
+id: applecare
+name: AppleCare
+category: security
+plan: AppleCare One
+priceUsd: 19.99
+billing: month
+monthlyUsd: 19.99
+url: "https://www.apple.com/applecare/"
+sourceUrl: "https://www.apple.com/applecare/"
+priceCheckedAt: 2026-08-22
+domain: apple.com
+blurb: Device protection for up to three Apple products; includes theft and loss coverage for iPhone, iPad, and Apple Watch.
+rank: 8
+color: "#E31837"
+logo: logos/apple-one.svg
+aliases:
+  - apple_care
+  - applecare_plus
+  - applecare_one
