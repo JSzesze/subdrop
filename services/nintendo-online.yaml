@@ -14,3 +14,5 @@ rank: 65
 color: "#E60012"
 simpleIconsSlug: nintendo
 logo: logos/nintendo-online.png
+aliases:
+  - nintendo_online

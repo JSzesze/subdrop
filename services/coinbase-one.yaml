@@ -14,3 +14,5 @@ rank: 11
 color: "#0052FF"
 simpleIconsSlug: coinbase
 logo: logos/coinbase-one.svg
+aliases:
+  - coinbase_one

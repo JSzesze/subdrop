@@ -14,3 +14,5 @@ rank: 86
 color: "#107C10"
 simpleIconsSlug: xbox
 logo: logos/xbox-game-pass.png
+aliases:
+  - xbox_game_pass

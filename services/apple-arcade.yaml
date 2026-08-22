@@ -14,3 +14,5 @@ rank: 46
 color: "#000000"
 simpleIconsSlug: applearcade
 logo: logos/apple-arcade.svg
+aliases:
+  - apple_arcade

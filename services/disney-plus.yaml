@@ -14,3 +14,5 @@ rank: 97
 color: "#113CCF"
 simpleIconsSlug: disneyplus
 logo: logos/disney-plus.png
+aliases:
+  - disney_plus

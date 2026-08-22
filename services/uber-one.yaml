@@ -14,3 +14,5 @@ rank: 73
 color: "#000000"
 simpleIconsSlug: uber
 logo: logos/uber-one.svg
+aliases:
+  - uber_one

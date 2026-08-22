@@ -13,3 +13,5 @@ blurb: Budget live TV over the internet. Essentials is the advertised starting p
 rank: 9
 color: "#F99600"
 logo: logos/sling-tv.svg
+aliases:
+  - sling_tv

@@ -14,3 +14,5 @@ rank: 10
 color: "#181717"
 simpleIconsSlug: github
 logo: logos/github-pro.svg
+aliases:
+  - github_pro

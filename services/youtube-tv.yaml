@@ -14,3 +14,5 @@ rank: 44
 color: "#FF0000"
 simpleIconsSlug: youtubetv
 logo: logos/youtube-tv.svg
+aliases:
+  - youtube_tv

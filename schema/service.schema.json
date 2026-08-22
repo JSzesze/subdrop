@@ -83,6 +83,14 @@
     "logo": {
       "type": "string",
       "pattern": "^logos/[a-z0-9._-]+\\.(svg|png|webp)$"
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
     }
   }
 }

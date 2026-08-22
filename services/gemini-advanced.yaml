@@ -14,3 +14,5 @@ rank: 67
 color: "#8E75B2"
 simpleIconsSlug: googlegemini
 logo: logos/gemini-advanced.svg
+aliases:
+  - gemini_advanced

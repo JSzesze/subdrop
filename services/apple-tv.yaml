@@ -14,3 +14,5 @@ rank: 87
 color: "#000000"
 simpleIconsSlug: appletv
 logo: logos/apple-tv.svg
+aliases:
+  - apple_tv

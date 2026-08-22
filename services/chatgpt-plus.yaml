@@ -14,3 +14,5 @@ rank: 95
 color: "#000000"
 simpleIconsSlug: openai
 logo: logos/chatgpt-plus.svg
+aliases:
+  - chatgpt_plus

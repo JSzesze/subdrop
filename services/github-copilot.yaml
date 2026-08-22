@@ -14,3 +14,5 @@ rank: 80
 color: "#000000"
 simpleIconsSlug: githubcopilot
 logo: logos/github-copilot.svg
+aliases:
+  - github_copilot

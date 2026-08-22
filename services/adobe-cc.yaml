@@ -14,3 +14,5 @@ rank: 82
 color: "#FF0000"
 simpleIconsSlug: adobe
 logo: logos/adobe-cc.svg
+aliases:
+  - adobe_cc
