@@ -1,0 +1,18 @@
+id: obsidian
+name: Obsidian Sync
+category: productivity
+plan: Sync Standard
+priceUsd: 48
+billing: year
+monthlyUsd: 4
+url: "https://obsidian.md/sync"
+sourceUrl: "https://obsidian.md/sync"
+priceCheckedAt: 2026-08-22
+domain: obsidian.md
+blurb: End-to-end encrypted note sync across devices. The Obsidian app itself is free.
+rank: 8
+color: "#7C3AED"
+simpleIconsSlug: obsidian
+logo: logos/obsidian.svg
+aliases:
+  - obsidian_sync
