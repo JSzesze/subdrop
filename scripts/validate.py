@@ -136,6 +136,44 @@ def validate_service(
                 f"for priceUsd={price_usd} billing={billing}"
             )
 
+    aliases = data.get("aliases")
+    if aliases is not None:
+        if not isinstance(aliases, list):
+            errors.append(f"{path}: aliases must be an array of strings")
+        else:
+            seen_aliases: set[str] = set()
+            for i, alias in enumerate(aliases):
+                if not isinstance(alias, str) or not alias.strip():
+                    errors.append(f"{path}: aliases[{i}] must be a non-empty string")
+                    continue
+                if alias == sid:
+                    errors.append(f"{path}: aliases[{i}] must not duplicate service id {sid!r}")
+                elif alias in seen_aliases:
+                    errors.append(f"{path}: duplicate alias {alias!r}")
+                else:
+                    seen_aliases.add(alias)
+
+
+def validate_alias_uniqueness(
+    services: list[tuple[Path, dict]],
+    errors: list[str],
+) -> None:
+    reserved: dict[str, str] = {}
+    for path, data in services:
+        sid = data.get("id")
+        if sid:
+            reserved[sid] = sid
+        for alias in data.get("aliases") or []:
+            if not isinstance(alias, str):
+                continue
+            owner = reserved.get(alias)
+            if owner and owner != sid:
+                errors.append(
+                    f"{path}: alias {alias!r} conflicts with service id or alias owned by {owner!r}"
+                )
+            else:
+                reserved[alias] = sid or path.stem
+
 
 def main() -> int:
     errors: list[str] = []
@@ -153,9 +191,14 @@ def main() -> int:
     if not service_files:
         errors.append("services/: no service files found")
 
+    loaded_services: list[tuple[Path, dict]] = []
     for path in service_files:
         data = load(path.read_text())
-        validate_service(path.relative_to(ROOT), data, schema, category_ids, seen_ids, errors)
+        rel = path.relative_to(ROOT)
+        validate_service(rel, data, schema, category_ids, seen_ids, errors)
+        loaded_services.append((rel, data))
+
+    validate_alias_uniqueness(loaded_services, errors)
 
     if errors:
         print("Validation failed:", file=sys.stderr)

@@ -14,3 +14,5 @@ rank: 96
 color: "#FF0000"
 simpleIconsSlug: youtube
 logo: logos/youtube-premium.svg
+aliases:
+  - youtube_premium

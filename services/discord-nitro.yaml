@@ -14,3 +14,5 @@ rank: 58
 color: "#5865F2"
 simpleIconsSlug: discord
 logo: logos/discord-nitro.svg
+aliases:
+  - discord_nitro

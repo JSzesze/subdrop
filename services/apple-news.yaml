@@ -14,3 +14,5 @@ rank: 60
 color: "#FD415E"
 simpleIconsSlug: applenews
 logo: logos/apple-news.svg
+aliases:
+  - apple_news

@@ -14,3 +14,5 @@ rank: 69
 color: "#FF0000"
 simpleIconsSlug: espn
 logo: logos/espn-plus.png
+aliases:
+  - espn_plus

@@ -66,14 +66,26 @@ def load(text: str) -> Any:
         return items
 
     doc: dict[str, Any] = {}
+    current_list_key: str | None = None
     for line in lines:
         stripped = line.strip()
         if not stripped or stripped.startswith("#"):
             continue
+        if stripped.startswith("- ") and current_list_key is not None:
+            doc.setdefault(current_list_key, [])
+            doc[current_list_key].append(_parse_scalar(stripped[2:]))
+            continue
         if ":" not in stripped:
             raise ValueError(f"Invalid YAML line: {line!r}")
         key, _, value = stripped.partition(":")
-        doc[key.strip()] = _parse_scalar(value)
+        key = key.strip()
+        value = value.strip()
+        if not value:
+            current_list_key = key
+            doc[key] = []
+            continue
+        current_list_key = None
+        doc[key] = _parse_scalar(value)
     return doc
 
 
@@ -92,6 +104,17 @@ def dump(data: dict[str, Any]) -> str:
                 lines.append(f'{key}: "{escaped}"')
             else:
                 lines.append(f"{key}: {value}")
+        elif isinstance(value, list):
+            lines.append(f"{key}:")
+            for item in value:
+                if isinstance(item, str):
+                    if re.search(r'[:#{}\[\],&*!|>\'"@`]', item) or item.startswith(" "):
+                        escaped = item.replace("\\", "\\\\").replace('"', '\\"')
+                        lines.append(f'  - "{escaped}"')
+                    else:
+                        lines.append(f"  - {item}")
+                else:
+                    raise TypeError(f"Unsupported list item for key {key!r}: {type(item)}")
         else:
             raise TypeError(f"Unsupported type for key {key!r}: {type(value)}")
     return "\n".join(lines) + "\n"

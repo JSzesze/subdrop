@@ -14,3 +14,5 @@ rank: 99
 color: "#FF9900"
 simpleIconsSlug: prime
 logo: logos/amazon-prime.svg
+aliases:
+  - amazon_prime

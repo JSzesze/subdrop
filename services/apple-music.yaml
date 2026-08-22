@@ -14,3 +14,5 @@ rank: 92
 color: "#FA243C"
 simpleIconsSlug: applemusic
 logo: logos/apple-music.svg
+aliases:
+  - apple_music

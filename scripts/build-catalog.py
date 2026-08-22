@@ -23,6 +23,7 @@ def build(host: str | None) -> dict:
     for path in sorted((ROOT / "services").glob("*.yaml")):
         svc = load(path.read_text())
         entry = dict(svc)
+        entry["aliases"] = list(entry.get("aliases") or [])
         if host:
             logo = entry.get("logo")
             if logo:

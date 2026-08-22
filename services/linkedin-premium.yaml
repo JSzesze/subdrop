@@ -14,3 +14,5 @@ rank: 50
 color: "#0A66C2"
 simpleIconsSlug: linkedin
 logo: logos/linkedin-premium.png
+aliases:
+  - linkedin_premium

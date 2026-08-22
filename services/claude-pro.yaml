@@ -14,3 +14,5 @@ rank: 88
 color: "#D97757"
 simpleIconsSlug: claude
 logo: logos/claude-pro.svg
+aliases:
+  - claude_pro

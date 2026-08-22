@@ -14,3 +14,5 @@ rank: 71
 color: "#FF9900"
 simpleIconsSlug: amazon
 logo: logos/kindle-unlimited.svg
+aliases:
+  - kindle_unlimited

@@ -14,3 +14,5 @@ rank: 90
 color: "#00A4EF"
 simpleIconsSlug: microsoft
 logo: logos/microsoft-365.png
+aliases:
+  - microsoft_365

@@ -14,3 +14,6 @@ rank: 93
 color: "#000000"
 simpleIconsSlug: hbomax
 logo: logos/max.svg
+aliases:
+  - hbo_max
+  - hbomax

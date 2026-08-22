@@ -14,3 +14,5 @@ rank: 35
 color: "#0067A0"
 simpleIconsSlug: samsclub
 logo: logos/sams-club.svg
+aliases:
+  - sams_club

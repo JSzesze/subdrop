@@ -14,3 +14,5 @@ rank: 12
 color: "#CCFF00"
 simpleIconsSlug: robinhood
 logo: logos/robinhood-gold.svg
+aliases:
+  - robinhood_gold

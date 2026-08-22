@@ -14,3 +14,5 @@ rank: 98
 color: "#1ED760"
 simpleIconsSlug: spotify
 logo: logos/spotify.svg
+aliases:
+  - SPOTIFY

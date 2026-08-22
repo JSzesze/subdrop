@@ -14,3 +14,5 @@ rank: 37
 color: "#000000"
 simpleIconsSlug: ubisoft
 logo: logos/ubisoft-plus.svg
+aliases:
+  - ubisoft_plus

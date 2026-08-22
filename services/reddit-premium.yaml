@@ -14,3 +14,5 @@ rank: 21
 color: "#FF4500"
 simpleIconsSlug: reddit
 logo: logos/reddit-premium.svg
+aliases:
+  - reddit_premium
