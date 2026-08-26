@@ -1,0 +1,18 @@
+id: readwise
+name: Readwise
+category: productivity
+plan: Full (annual)
+priceUsd: 119.88
+billing: year
+monthlyUsd: 9.99
+url: "https://readwise.io"
+sourceUrl: "https://readwise.io/pricing"
+priceCheckedAt: 2026-08-26
+domain: readwise.io
+blurb: Daily highlight review plus Reader. Full is the advertised annual default.
+rank: 18
+color: "#000000"
+logo: logos/readwise.svg
+aliases:
+  - readwise_reader
+  - READWISE.IO
