@@ -1,0 +1,18 @@
+id: airtable
+name: Airtable
+category: productivity
+plan: Team (annual)
+priceUsd: 240
+billing: year
+monthlyUsd: 20
+url: "https://www.airtable.com"
+sourceUrl: "https://airtable.com/pricing"
+priceCheckedAt: 2026-08-27
+domain: airtable.com
+blurb: Spreadsheet-database for teams. Team is the advertised paid default, billed annually per collaborator.
+rank: 79
+color: "#18BFFF"
+simpleIconsSlug: airtable
+logo: logos/airtable.svg
+aliases:
+  - AIRTABLE.COM
