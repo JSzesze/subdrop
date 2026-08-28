@@ -1,0 +1,20 @@
+id: plex
+name: Plex
+category: streaming
+plan: Monthly
+priceUsd: 6.99
+billing: month
+monthlyUsd: 6.99
+url: "https://www.plex.tv"
+sourceUrl: "https://www.plex.tv/plans/"
+priceCheckedAt: 2026-08-28
+domain: plex.tv
+blurb: Personal media server extras. Monthly Plex Pass is the advertised US default.
+rank: 22
+color: "#EBAF00"
+simpleIconsSlug: plex
+logo: logos/plex.svg
+aliases:
+  - plex_pass
+  - plex-pass
+  - PLEX.TV
