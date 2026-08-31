@@ -1,0 +1,14 @@
+id: lucidchart
+name: Lucidchart
+category: productivity
+plan: Individual
+priceUsd: 9
+billing: month
+monthlyUsd: 9
+url: "https://www.lucidchart.com"
+sourceUrl: "https://lucid.co/lucidchart/trial"
+priceCheckedAt: 2026-08-31
+domain: lucidchart.com
+blurb: Intelligent diagramming for flowcharts, org charts, and systems. Individual is the advertised US personal paid plan at $9.00/month.
+color: "#F96B13"
+logo: logos/lucidchart.svg
