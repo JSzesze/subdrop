@@ -1,0 +1,17 @@
+id: lifelock
+name: LifeLock
+category: security
+plan: Core (annual)
+priceUsd: 124.99
+billing: year
+monthlyUsd: 10.42
+url: "https://www.lifelock.com"
+sourceUrl: "https://www.lifelock.com/"
+priceCheckedAt: 2026-08-31
+domain: lifelock.com
+blurb: Identity theft protection. Core is the advertised US starting individual plan, billed annually.
+color: "#00445A"
+logo: logos/lifelock.svg
+aliases:
+  - LIFELOCK.COM
+  - Norton LifeLock
