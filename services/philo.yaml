@@ -1,0 +1,14 @@
+id: philo
+name: Philo
+category: streaming
+plan: Essential
+priceUsd: 25
+billing: month
+monthlyUsd: 25
+url: "https://www.philo.com"
+sourceUrl: "https://www.philo.com"
+priceCheckedAt: 2026-08-31
+domain: philo.com
+blurb: Budget live TV with 70+ channels and unlimited DVR. Essential is the advertised US starting plan.
+color: "#0F0E0E"
+logo: logos/philo.svg
