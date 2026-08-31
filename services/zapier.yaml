@@ -1,0 +1,17 @@
+id: zapier
+name: Zapier
+category: productivity
+plan: Professional (annual)
+priceUsd: 239.88
+billing: year
+monthlyUsd: 19.99
+url: "https://zapier.com"
+sourceUrl: "https://zapier.com/pricing"
+priceCheckedAt: 2026-08-31
+domain: zapier.com
+blurb: App automation across thousands of tools. Professional is the advertised individual paid floor (750 tasks/mo), billed yearly.
+color: "#FF4F00"
+simpleIconsSlug: zapier
+logo: logos/zapier.svg
+aliases:
+  - ZAPIER.COM
