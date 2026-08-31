@@ -1,0 +1,15 @@
+id: basecamp
+name: Basecamp
+category: productivity
+plan: Studio
+priceUsd: 59
+billing: month
+monthlyUsd: 59
+url: "https://basecamp.com"
+sourceUrl: "https://basecamp.com/pricing"
+priceCheckedAt: 2026-08-31
+domain: basecamp.com
+blurb: Team workspace for projects, to-dos, chat, and files. Studio is the advertised US default, billed monthly at a flat $59 with unlimited users.
+color: "#29353C"
+simpleIconsSlug: basecamp
+logo: logos/basecamp.svg
