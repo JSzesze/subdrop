@@ -1,0 +1,15 @@
+id: ticktick
+name: TickTick
+category: productivity
+plan: Premium (annual)
+priceUsd: 49.99
+billing: year
+monthlyUsd: 4.17
+url: "https://ticktick.com"
+sourceUrl: "https://www.ticktick.com/upgrade"
+priceCheckedAt: 2026-08-31
+domain: ticktick.com
+blurb: To-do list, calendar, habits, and Pomodoro. Premium is the advertised US paid plan, billed annually.
+color: "#4772FA"
+simpleIconsSlug: ticktick
+logo: logos/ticktick.svg
