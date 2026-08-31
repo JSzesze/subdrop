@@ -1,0 +1,16 @@
+id: bjs
+name: "BJ's Wholesale Club"
+category: shopping
+plan: Club
+priceUsd: 60
+billing: year
+monthlyUsd: 5
+url: "https://www.bjs.com"
+sourceUrl: "https://help.bjs.com/hc/en-us/articles/26888200038676-What-are-BJs-membership-tiers-and-their-benefits"
+priceCheckedAt: 2026-08-31
+domain: bjs.com
+blurb: East Coast warehouse club. Club is the door-fee; Club+ adds rewards.
+color: "#C23054"
+logo: logos/bjs.svg
+aliases:
+  - bjs_wholesale
