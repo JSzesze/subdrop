@@ -1,0 +1,14 @@
+id: idrive
+name: IDrive
+category: cloud
+plan: Personal 5 TB (annual)
+priceUsd: 119.88
+billing: year
+monthlyUsd: 9.99
+url: "https://www.idrive.com"
+sourceUrl: "https://www.idrive.com/pricing"
+priceCheckedAt: 2026-08-31
+domain: idrive.com
+blurb: Personal cloud backup for one user on multiple computers. 5 TB is the advertised US Personal default; catalog uses the regular yearly rate after the first-year intro.
+color: "#EE433F"
+logo: logos/idrive.svg
