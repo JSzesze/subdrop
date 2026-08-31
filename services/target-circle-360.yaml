@@ -1,0 +1,18 @@
+id: target-circle-360
+name: Target Circle 360
+category: shopping
+plan: Monthly
+priceUsd: 10.99
+billing: month
+monthlyUsd: 10.99
+url: "https://www.target.com/l/target-circle-360/-/N-2rguk"
+sourceUrl: "https://www.target.com/l/target-circle-360/-/N-2rguk"
+priceCheckedAt: 2026-08-31
+domain: target.com
+blurb: Paid Target membership with unlimited same-day delivery, free fast shipping, and monthly freebies.
+color: "#CC0000"
+simpleIconsSlug: target
+logo: logos/target-circle-360.svg
+aliases:
+  - target_circle_360
+  - circle-360
