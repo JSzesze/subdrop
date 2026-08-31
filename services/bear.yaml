@@ -1,0 +1,14 @@
+id: bear
+name: Bear
+category: productivity
+plan: Pro (annual)
+priceUsd: 29.99
+billing: year
+monthlyUsd: 2.50
+url: "https://bear.app"
+sourceUrl: "https://bear.app"
+priceCheckedAt: 2026-08-31
+domain: bear.app
+blurb: Markdown notes for Apple devices. Bear Pro unlocks iCloud sync, encryption, extra themes, and advanced export.
+color: "#DD4C4F"
+logo: logos/bear.svg
