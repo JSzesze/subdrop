@@ -1,0 +1,15 @@
+id: backblaze
+name: Backblaze
+category: cloud
+plan: Computer Backup
+priceUsd: 9
+billing: month
+monthlyUsd: 9
+url: "https://www.backblaze.com"
+sourceUrl: "https://www.backblaze.com/cloud-backup/personal"
+priceCheckedAt: 2026-08-31
+domain: backblaze.com
+blurb: Unlimited cloud backup for one Mac or PC. Computer Backup is the advertised US personal plan.
+color: "#E11E29"
+simpleIconsSlug: backblaze
+logo: logos/backblaze.svg
