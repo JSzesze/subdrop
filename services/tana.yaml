@@ -1,0 +1,16 @@
+id: tana
+name: Tana
+category: productivity
+plan: Pro (annual)
+priceUsd: 240
+billing: year
+monthlyUsd: 20
+url: "https://tana.inc"
+sourceUrl: "https://tana.inc/pricing"
+priceCheckedAt: 2026-08-31
+domain: tana.inc
+blurb: Agentic meeting workspace. Pro is the advertised individual paid floor, billed yearly per user (early-bird).
+color: "#000000"
+logo: logos/tana.svg
+aliases:
+  - TANA.INC
