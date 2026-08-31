@@ -1,0 +1,15 @@
+id: raycast
+name: Raycast
+category: productivity
+plan: Pro
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://www.raycast.com"
+sourceUrl: "https://www.raycast.com/pricing"
+priceCheckedAt: 2026-08-31
+domain: raycast.com
+blurb: Mac and Windows launcher with extensions, AI, and cloud sync. Pro is the personal paid plan.
+color: "#FF6363"
+simpleIconsSlug: raycast
+logo: logos/raycast.svg
