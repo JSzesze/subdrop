@@ -1,0 +1,16 @@
+id: aura
+name: Aura
+category: security
+plan: Individual (annual)
+priceUsd: 144
+billing: year
+monthlyUsd: 12
+url: "https://www.aura.com"
+sourceUrl: "https://www.aura.com/pricing"
+priceCheckedAt: 2026-08-31
+domain: aura.com
+blurb: Identity theft and digital security. Individual is the advertised US starting plan for one adult, billed annually.
+color: "#15181D"
+logo: logos/aura.svg
+aliases:
+  - AURA.COM
