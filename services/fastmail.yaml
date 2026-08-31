@@ -1,0 +1,17 @@
+id: fastmail
+name: Fastmail
+category: productivity
+plan: Individual (annual)
+priceUsd: 60
+billing: year
+monthlyUsd: 5
+url: "https://www.fastmail.com"
+sourceUrl: "https://www.fastmail.com/pricing/"
+priceCheckedAt: 2026-08-31
+domain: fastmail.com
+blurb: Independent paid email, calendar, and contacts. Individual is the advertised US personal plan, billed annually.
+color: "#0067B9"
+logo: logos/fastmail.svg
+aliases:
+  - FASTMAIL.COM
+  - fastmail.fm
