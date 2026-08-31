@@ -1,0 +1,18 @@
+id: grubhub-plus
+name: Grubhub+
+category: food
+plan: Monthly
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.grubhub.com/plus"
+sourceUrl: "https://www.grubhub.com/plus"
+priceCheckedAt: 2026-08-31
+domain: grubhub.com
+blurb: $0 delivery fees and lower service fees on eligible Grubhub orders.
+rank: 72
+color: "#FF5500"
+logo: logos/grubhub-plus.svg
+aliases:
+  - grubhub_plus
+  - grubhub+
