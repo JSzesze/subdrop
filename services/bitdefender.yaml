@@ -1,0 +1,17 @@
+id: bitdefender
+name: Bitdefender
+category: security
+plan: Total Security Individual (annual)
+priceUsd: 59.99
+billing: year
+monthlyUsd: 5.00
+url: "https://www.bitdefender.com"
+sourceUrl: "https://www.bitdefender.com/en-us/consumer/total-security"
+priceCheckedAt: 2026-09-01
+domain: bitdefender.com
+blurb: Consumer antivirus suite. Total Security Individual is the advertised US starting plan for 5 devices, billed annually at the first-year rate.
+color: "#ED1C24"
+simpleIconsSlug: bitdefender
+logo: logos/bitdefender.svg
+aliases:
+  - BITDEFENDER.COM
