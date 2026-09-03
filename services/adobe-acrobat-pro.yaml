@@ -1,0 +1,15 @@
+id: adobe-acrobat-pro
+name: Adobe Acrobat Pro
+category: productivity
+plan: Individual (annual, billed monthly)
+priceUsd: 19.99
+billing: month
+monthlyUsd: 19.99
+url: "https://www.adobe.com/acrobat.html"
+sourceUrl: "https://www.adobe.com/acrobat/pricing.html"
+priceCheckedAt: 2026-09-03
+domain: adobe.com
+blurb: Professional PDF editor for creating, editing, signing, and managing documents. Individual is the advertised US Pro plan, billed monthly on an annual commitment.
+color: "#B30B00"
+simpleIconsSlug: adobeacrobatreader
+logo: logos/adobe-acrobat-pro.svg
