@@ -1,0 +1,18 @@
+id: directv-stream
+name: DirecTV Stream
+category: streaming
+plan: Entertainment
+priceUsd: 89.99
+billing: month
+monthlyUsd: 89.99
+url: "https://www.directv.com"
+sourceUrl: "https://www.directv.com/packages/"
+priceCheckedAt: 2026-08-31
+domain: directv.com
+blurb: Satellite-free live TV over the internet. Entertainment is the advertised starting Signature package with 90+ channels.
+color: "#19A5FD"
+logo: logos/directv-stream.svg
+aliases:
+  - DIRECTV
+  - DIRECTV Stream
+  - directv.com
