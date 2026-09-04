@@ -1,0 +1,18 @@
+id: quickbooks-online
+name: QuickBooks Online
+category: finance
+plan: Simple Start
+priceUsd: 38
+billing: month
+monthlyUsd: 38
+url: "https://quickbooks.intuit.com"
+sourceUrl: "https://quickbooks.intuit.com/online/simple-start/"
+priceCheckedAt: 2026-09-04
+domain: intuit.com
+blurb: Cloud bookkeeping for solo owners. Simple Start is the advertised US entry plan (1 user); list price, not the intro promo.
+color: "#2CA01C"
+simpleIconsSlug: quickbooks
+logo: logos/quickbooks-online.svg
+aliases:
+  - quickbooks
+  - QBO
