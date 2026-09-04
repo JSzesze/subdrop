@@ -1,0 +1,14 @@
+id: rosetta-stone
+name: Rosetta Stone
+category: education
+plan: Yearly
+priceUsd: 159
+billing: year
+monthlyUsd: 13.25
+url: "https://www.rosettastone.com"
+sourceUrl: "https://www.rosettastone.com/buy?lang=en-US"
+priceCheckedAt: 2026-09-04
+domain: rosettastone.com
+blurb: Immersive language learning with TruAccent. Yearly is the highlighted US consumer plan (SAVE 33%), billed as $159.
+color: "#016FC5"
+logo: logos/rosetta-stone.svg
