@@ -1,0 +1,17 @@
+id: spark-mail
+name: Spark Mail
+category: productivity
+plan: Plus (annual)
+priceUsd: 99
+billing: year
+monthlyUsd: 8.25
+url: "https://sparkmailapp.com"
+sourceUrl: "https://sparkmailapp.com/pricing"
+priceCheckedAt: 2026-09-04
+domain: sparkmailapp.com
+blurb: Cross-platform AI email client. Plus is the default paid individual plan, billed annually at the advertised yearly rate.
+color: "#1E75E7"
+logo: logos/spark-mail.svg
+aliases:
+  - spark
+  - SPARKMAILAPP.COM
