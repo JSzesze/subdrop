@@ -1,0 +1,14 @@
+id: babbel
+name: Babbel
+category: education
+plan: Annual
+priceUsd: 107.40
+billing: year
+monthlyUsd: 8.95
+url: "https://www.babbel.com"
+sourceUrl: "https://www.babbel.com/prices"
+priceCheckedAt: 2026-09-04
+domain: babbel.com
+blurb: Expert-crafted language lessons for adults. Annual is the advertised US individual plan (all languages), billed once per year.
+color: "#FF5900"
+logo: logos/babbel.svg
