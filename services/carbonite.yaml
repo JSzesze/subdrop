@@ -1,0 +1,17 @@
+id: carbonite
+name: Carbonite
+category: security
+plan: Safe Basic (annual)
+priceUsd: 95.99
+billing: year
+monthlyUsd: 8.00
+url: "https://www.carbonite.com"
+sourceUrl: "https://www.carbonite.com/personal/backup/"
+priceCheckedAt: 2026-09-04
+domain: carbonite.com
+blurb: Unlimited cloud backup for one computer. Safe Basic is the entry consumer plan; $95.99/yr is the official 1-year list price (storefront may show a limited-time first-year promo).
+color: "#1A6AFF"
+logo: logos/carbonite.svg
+aliases:
+  - carbonite-safe
+  - CARBONITE.COM
