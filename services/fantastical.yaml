@@ -1,0 +1,17 @@
+id: fantastical
+name: Fantastical
+category: productivity
+plan: Individual (annual)
+priceUsd: 56.99
+billing: year
+monthlyUsd: 4.75
+url: "https://flexibits.com/fantastical"
+sourceUrl: "https://flexibits.com/fantastical/pricing"
+priceCheckedAt: 2026-09-04
+domain: flexibits.com
+blurb: Flexibits Premium calendar suite (Fantastical + Scheduling + Cardhop). Individual annual is the most-popular consumer plan.
+color: "#EE2301"
+logo: logos/fantastical.svg
+aliases:
+  - flexibits-premium
+  - FLEXIBITS.COM
