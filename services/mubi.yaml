@@ -1,0 +1,15 @@
+id: mubi
+name: Mubi
+category: streaming
+plan: Monthly
+priceUsd: 14.99
+billing: month
+monthlyUsd: 14.99
+url: "https://mubi.com"
+sourceUrl: "https://mubi.com/en/us/memberships"
+priceCheckedAt: 2026-09-04
+domain: mubi.com
+blurb: Curated cinema streaming. Monthly is the standard US plan; annual is $119.88/yr. MUBI GO is a separate ticket add-on.
+color: "#000000"
+simpleIconsSlug: mubi
+logo: logos/mubi.svg
