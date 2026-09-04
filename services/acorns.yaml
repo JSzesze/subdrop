@@ -1,0 +1,14 @@
+id: acorns
+name: Acorns
+category: finance
+plan: Bronze
+priceUsd: 4
+billing: month
+monthlyUsd: 4
+url: "https://www.acorns.com"
+sourceUrl: "https://www.acorns.com/pricing"
+priceCheckedAt: 2026-09-04
+domain: acorns.com
+blurb: Micro-investing and automated saving. Bronze is the advertised US starting subscription ($4/mo).
+color: "#64D54D"
+logo: logos/acorns.svg
