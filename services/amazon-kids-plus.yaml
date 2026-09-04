@@ -1,0 +1,18 @@
+id: amazon-kids-plus
+name: Amazon Kids+
+category: streaming
+plan: Monthly (Prime)
+priceUsd: 7.99
+billing: month
+monthlyUsd: 7.99
+url: "https://www.amazon.com/amazonkids"
+sourceUrl: "https://www.aboutamazon.com/news/devices/what-is-amazon-kids-plus-subscription"
+priceCheckedAt: 2026-09-04
+domain: amazon.com
+blurb: Ad-free kids books, games, videos, and apps. Monthly Prime rate is the advertised US starting price; non-Prime is $8.99/mo.
+color: "#FF9900"
+logo: logos/amazon-kids-plus.svg
+aliases:
+  - amazon_kids_plus
+  - freetime
+  - FREETIME
