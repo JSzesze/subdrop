@@ -1,0 +1,17 @@
+id: arlo-secure
+name: Arlo Secure
+category: security
+plan: Plus (Single Camera, annual)
+priceUsd: 95.88
+billing: year
+monthlyUsd: 7.99
+url: "https://www.arlo.com"
+sourceUrl: "https://us.arlo.com/pages/arlo-secure"
+priceCheckedAt: 2026-09-07
+domain: arlo.com
+blurb: Cloud video history and smart detection for Arlo cameras. Plus Single Camera is the advertised US starting plan when billed annually.
+color: "#33CC99"
+simpleIconsSlug: arlo
+logo: logos/arlo-secure.svg
+aliases:
+  - ARLO.COM
