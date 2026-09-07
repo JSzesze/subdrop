@@ -1,0 +1,16 @@
+id: the-atlantic
+name: The Atlantic
+category: news
+plan: Digital
+priceUsd: 89.99
+billing: year
+monthlyUsd: 7.50
+url: "https://www.theatlantic.com"
+sourceUrl: "https://accounts.theatlantic.com/products/"
+priceCheckedAt: 2026-09-07
+domain: theatlantic.com
+blurb: Long-form news and ideas magazine. Digital is the standard all-access reader plan.
+color: "#E7131A"
+logo: logos/the-atlantic.svg
+aliases:
+  - the_atlantic
