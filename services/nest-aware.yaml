@@ -1,0 +1,19 @@
+id: nest-aware
+name: Nest Aware
+category: security
+plan: Standard
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://store.google.com/product/nest_aware"
+sourceUrl: "https://store.google.com/product/nest_aware?hl=en-US"
+priceCheckedAt: 2026-09-07
+domain: nest.com
+blurb: Nest camera/doorbell video history and home AI. Nest Aware is now Google Home Premium; Standard is the advertised US starting plan.
+color: "#4285F4"
+simpleIconsSlug: googlehome
+logo: logos/nest-aware.svg
+aliases:
+  - nest_aware
+  - Google Home Premium
+  - NEST.COM
