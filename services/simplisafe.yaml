@@ -1,0 +1,16 @@
+id: simplisafe
+name: SimpliSafe
+category: security
+plan: Core
+priceUsd: 32.99
+billing: month
+monthlyUsd: 32.99
+url: "https://simplisafe.com"
+sourceUrl: "https://support.simplisafe.com/articles/alarm-event-monitoring/what-are-the-service-plan-options"
+priceCheckedAt: 2026-09-07
+domain: simplisafe.com
+blurb: DIY home security with professional monitoring. Core is the advertised US most-popular plan (formerly Fast Protect).
+color: "#0F2648"
+logo: logos/simplisafe.svg
+aliases:
+  - SIMPLISAFE.COM
