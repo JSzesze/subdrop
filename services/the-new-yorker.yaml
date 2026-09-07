@@ -1,0 +1,17 @@
+id: the-new-yorker
+name: The New Yorker
+category: news
+plan: Annual Digital
+priceUsd: 119.99
+billing: year
+monthlyUsd: 10.00
+url: "https://www.newyorker.com"
+sourceUrl: "https://www.newyorker.com/subscribe"
+priceCheckedAt: 2026-09-07
+domain: newyorker.com
+blurb: Weekly magazine of reporting, fiction, criticism, and cartoons. Annual Digital is the standard all-access plan.
+color: "#EA3226"
+logo: logos/the-new-yorker.svg
+aliases:
+  - the_new_yorker
+  - new-yorker
