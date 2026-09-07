@@ -1,0 +1,18 @@
+id: meta-verified
+name: Meta Verified
+category: social
+plan: Standard
+priceUsd: 14.99
+billing: month
+monthlyUsd: 14.99
+url: "https://www.meta.com/meta-verified/"
+sourceUrl: "https://www.meta.com/meta-verified/"
+priceCheckedAt: 2026-09-07
+domain: meta.com
+blurb: Blue verified badge and account protection on Instagram and Facebook.
+color: "#0467DF"
+simpleIconsSlug: meta
+logo: logos/meta-verified.svg
+aliases:
+  - meta_verified
+  - instagram-verified
