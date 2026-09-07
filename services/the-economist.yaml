@@ -1,0 +1,17 @@
+id: the-economist
+name: The Economist
+category: news
+plan: Premium
+priceUsd: 289
+billing: year
+monthlyUsd: 24.08
+url: "https://www.economist.com"
+sourceUrl: "https://www.economist.com/subscribe"
+priceCheckedAt: 2026-09-07
+domain: economist.com
+blurb: Weekly international news and analysis. Premium is unlimited digital access.
+color: "#E3120B"
+logo: logos/the-economist.svg
+aliases:
+  - the_economist
+  - economist
