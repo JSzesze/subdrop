@@ -1,0 +1,18 @@
+id: snapchat-plus
+name: Snapchat+
+category: social
+plan: Plus
+priceUsd: 4.99
+billing: month
+monthlyUsd: 4.99
+url: "https://www.snapchat.com/plus"
+sourceUrl: "https://apps.apple.com/us/app/snapchat/id447188370"
+priceCheckedAt: 2026-09-07
+domain: snapchat.com
+blurb: Exclusive, experimental, and pre-release Snapchat features with custom app icons and badges.
+color: "#FFFC00"
+simpleIconsSlug: snapchat
+logo: logos/snapchat-plus.svg
+aliases:
+  - snapchat_plus
+  - snapchat+
