@@ -1,0 +1,17 @@
+id: alltrails-plus
+name: AllTrails+
+category: fitness
+plan: Plus
+priceUsd: 35.99
+billing: year
+monthlyUsd: 3.00
+url: "https://www.alltrails.com"
+sourceUrl: "https://www.alltrails.com/plans"
+priceCheckedAt: 2026-09-08
+domain: alltrails.com
+blurb: Offline maps and trail tools for hiking. Plus is the advertised US annual membership ($35.99/yr after trial).
+color: "#4285F4"
+logo: logos/alltrails-plus.svg
+aliases:
+  - alltrails_plus
+  - AllTrails Plus
