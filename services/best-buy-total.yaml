@@ -1,0 +1,18 @@
+id: best-buy-total
+name: Best Buy Total
+category: membership
+plan: Total
+priceUsd: 199.99
+billing: year
+monthlyUsd: 16.67
+url: "https://www.bestbuy.com"
+sourceUrl: "https://www.bestbuy.com/site/best-buy-membership/best-buy-membership-total/pcmcat1629315977983.c?id=pcmcat1629315977983"
+priceCheckedAt: 2026-09-08
+domain: bestbuy.com
+blurb: Geek Squad support, product protection, and member pricing. Total is the advertised US top-tier annual membership.
+color: "#0046BE"
+logo: logos/best-buy-total.svg
+aliases:
+  - best_buy_total
+  - My Best Buy Total
+  - Totaltech
