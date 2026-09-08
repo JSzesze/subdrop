@@ -1,0 +1,14 @@
+id: day-one
+name: Day One
+category: productivity
+plan: Silver
+priceUsd: 49.99
+billing: year
+monthlyUsd: 4.17
+url: "https://dayoneapp.com"
+sourceUrl: "https://dayoneapp.com/pricing/"
+priceCheckedAt: 2026-09-08
+domain: dayoneapp.com
+blurb: Cross-platform journaling with media and sync. Silver is the advertised starting paid US annual plan; Gold is $74.99/yr.
+color: "#F15A29"
+logo: logos/day-one.svg
