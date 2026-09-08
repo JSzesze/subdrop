@@ -1,0 +1,18 @@
+id: fitbit-premium
+name: Google Health Premium
+category: fitness
+plan: Premium
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.fitbit.com"
+sourceUrl: "https://store.google.com/us/product/google_health_premium?hl=en-US"
+priceCheckedAt: 2026-09-08
+domain: fitbit.com
+blurb: Personalized fitness, sleep, and health coaching (formerly Fitbit Premium). Advertised US monthly from $9.99 on Google Store.
+color: "#00B0B9"
+logo: logos/fitbit-premium.svg
+aliases:
+  - Fitbit Premium
+  - fitbit_premium
+  - Google Health Premium
