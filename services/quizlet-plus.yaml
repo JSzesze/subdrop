@@ -1,0 +1,14 @@
+id: quizlet-plus
+name: Quizlet Plus
+category: education
+plan: Plus
+priceUsd: 35.99
+billing: year
+monthlyUsd: 2.99
+url: "https://quizlet.com"
+sourceUrl: "https://quizlet.com/upgrade"
+priceCheckedAt: 2026-09-08
+domain: quizlet.com
+blurb: Ad-free flashcards, Learn mode, and practice tests for studying. Plus is the advertised US annual starting plan.
+color: "#4255FF"
+logo: logos/quizlet-plus.svg
