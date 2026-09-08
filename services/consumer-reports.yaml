@@ -1,15 +1,15 @@
 id: consumer-reports
 name: Consumer Reports
 category: news
-plan: Digital
-priceUsd: 39
-billing: year
-monthlyUsd: 3.25
+plan: Digital Monthly
+priceUsd: 10
+billing: month
+monthlyUsd: 10
 url: "https://www.consumerreports.org"
-sourceUrl: "https://www.consumerreports.org/membership/"
+sourceUrl: "https://www.consumerreports.org/join/"
 priceCheckedAt: 2026-09-08
 domain: consumerreports.org
-blurb: Independent product ratings and reviews. Digital is unlimited web and app access to CR ratings.
+blurb: Independent product ratings and reviews. Digital Monthly is the starting paid plan for unlimited ratings access.
 color: "#00AE4D"
 logo: logos/consumer-reports.svg
 aliases:
