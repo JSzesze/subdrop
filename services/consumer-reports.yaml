@@ -1,0 +1,14 @@
+id: consumer-reports
+name: Consumer Reports
+category: membership
+plan: Digital Monthly
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://www.consumerreports.org"
+sourceUrl: "https://www.consumerreports.org/join/"
+priceCheckedAt: 2026-09-08
+domain: consumerreports.org
+blurb: Independent product ratings and buying guides. Digital Monthly is the advertised US starting paid plan; Digital Annual is $39/yr.
+color: "#00AE4D"
+logo: logos/consumer-reports.svg
