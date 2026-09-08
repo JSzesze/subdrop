@@ -1,0 +1,16 @@
+id: adt
+name: ADT
+category: security
+plan: Pro-Protect
+priceUsd: 24.99
+billing: month
+monthlyUsd: 24.99
+url: "https://www.adt.com"
+sourceUrl: "https://www.adt.com/blu/shop/build-my-system"
+priceCheckedAt: 2026-09-08
+domain: adt.com
+blurb: Professional home monitoring for DIY ADT Blu systems. Pro-Protect is the advertised US starting monitoring plan.
+color: "#0061AA"
+logo: logos/adt.svg
+aliases:
+  - ADT.COM
