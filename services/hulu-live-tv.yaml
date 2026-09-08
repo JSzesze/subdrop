@@ -1,0 +1,17 @@
+id: hulu-live-tv
+name: Hulu + Live TV
+category: streaming
+plan: With Ads + Live TV
+priceUsd: 89.99
+billing: month
+monthlyUsd: 89.99
+url: "https://www.hulu.com/live-tv"
+sourceUrl: "https://www.hulu.com/live-tv"
+priceCheckedAt: 2026-09-08
+domain: hulu.com
+blurb: Live TV with 100+ channels plus Hulu, Disney+, and ESPN. Advertised US default is $89.99/mo after trial (ads tier).
+color: "#1CE783"
+logo: logos/hulu-live-tv.svg
+aliases:
+  - hulu_live_tv
+  - Hulu Live TV
