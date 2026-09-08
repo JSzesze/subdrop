@@ -1,0 +1,14 @@
+id: aaa
+name: AAA
+category: shopping
+plan: Classic
+priceUsd: 64.99
+billing: year
+monthlyUsd: 5.42
+url: "https://www.aaa.com"
+sourceUrl: "https://mwg.aaa.com/membership/aaa-membership-cost-compare-benefits"
+priceCheckedAt: 2026-09-08
+domain: aaa.com
+blurb: Roadside assistance, travel discounts, and member perks. Classic is the advertised US starting membership, billed annually (prices can vary by local club).
+color: "#FD000D"
+logo: logos/aaa.svg
