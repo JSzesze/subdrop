@@ -1,0 +1,17 @@
+id: codecademy
+name: Codecademy
+category: education
+plan: Plus (annual)
+priceUsd: 179.88
+billing: year
+monthlyUsd: 14.99
+url: "https://www.codecademy.com"
+sourceUrl: "https://www.codecademy.com/pricing"
+priceCheckedAt: 2026-09-09
+domain: codecademy.com
+blurb: Interactive coding education. Plus is the advertised US starting paid plan at $14.99/mo billed annually ($29.99 billed monthly); Pro is $19.99/mo annual.
+color: "#1F4056"
+simpleIconsSlug: codecademy
+logo: logos/codecademy.svg
+aliases:
+  - CODECADEMY.COM
