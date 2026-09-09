@@ -1,0 +1,18 @@
+id: rei-co-op
+name: REI Co-op
+category: shopping
+plan: Lifetime
+priceUsd: 30
+billing: year
+monthlyUsd: 2.50
+url: "https://www.rei.com"
+sourceUrl: "https://www.rei.com/membership"
+priceCheckedAt: 2026-09-09
+domain: rei.com
+blurb: One-time $30 lifetime co-op membership — member reward, free shipping, and returns for life.
+rank: 100
+color: "#547C49"
+logo: logos/rei-co-op.svg
+aliases:
+  - REI
+  - rei_coop
