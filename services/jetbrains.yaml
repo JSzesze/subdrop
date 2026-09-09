@@ -1,0 +1,19 @@
+id: jetbrains
+name: JetBrains
+category: productivity
+plan: All Products Pack
+priceUsd: 299
+billing: year
+monthlyUsd: 24.92
+url: "https://www.jetbrains.com"
+sourceUrl: "https://www.jetbrains.com/store/"
+priceCheckedAt: 2026-09-09
+domain: jetbrains.com
+blurb: All JetBrains IDEs in one personal subscription — Year 1 US individual rate.
+rank: 100
+color: "#000000"
+simpleIconsSlug: jetbrains
+logo: logos/jetbrains.svg
+aliases:
+  - jetbrains-all-products
+  - all-products-pack
