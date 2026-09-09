@@ -1,0 +1,14 @@
+id: shipt
+name: Shipt
+category: food
+plan: Monthly
+priceUsd: 10.99
+billing: month
+monthlyUsd: 10.99
+url: "https://www.shipt.com"
+sourceUrl: "https://www.shipt.com/pricing"
+priceCheckedAt: 2026-09-09
+domain: shipt.com
+blurb: Same-day grocery delivery membership. Monthly is the advertised US plan ($10.99/mo); annual is $99/yr (promo first-year ignored).
+color: "#212121"
+logo: logos/shipt.svg
