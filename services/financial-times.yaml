@@ -2,8 +2,8 @@ id: financial-times
 name: Financial Times
 category: news
 plan: Standard Digital
-priceUsd: 45
-billing: month
+priceUsd: 540
+billing: year
 monthlyUsd: 45
 url: "https://www.ft.com"
 sourceUrl: "https://subs.ft.com/products"
