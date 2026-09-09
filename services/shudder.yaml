@@ -1,0 +1,16 @@
+id: shudder
+name: Shudder
+category: streaming
+plan: Monthly Premium
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.shudder.com"
+sourceUrl: "https://www.shudder.com/"
+priceCheckedAt: 2026-09-09
+domain: shudder.com
+blurb: Horror streaming from AMC Networks. Monthly Premium is the advertised US ad-free plan; Monthly With Ads is $7.99 and Annual Premium is $99.99/yr.
+color: "#C80000"
+logo: logos/shudder.svg
+aliases:
+  - SHUDDER.COM
