@@ -1,0 +1,14 @@
+id: acorn-tv
+name: Acorn TV
+category: streaming
+plan: Monthly
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://acorn.tv"
+sourceUrl: "https://acorn.tv/about/"
+priceCheckedAt: 2026-09-09
+domain: acorn.tv
+blurb: Mysteries, period dramas, and British favorites. Monthly is the advertised US direct plan on the official about page.
+color: "#1E1E21"
+logo: logos/acorn-tv.svg
