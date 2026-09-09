@@ -1,0 +1,14 @@
+id: cleanmymac
+name: CleanMyMac
+category: productivity
+plan: Annual (1 Mac)
+priceUsd: 39.95
+billing: year
+monthlyUsd: 3.33
+url: "https://macpaw.com/cleanmymac"
+sourceUrl: "https://macpaw.com/store/cleanmymac"
+priceCheckedAt: 2026-09-09
+domain: macpaw.com
+blurb: Mac cleaner and maintenance. Annual 1-Mac plan billed $39.95/yr ($3.33/mo advertised).
+color: "#D82CCC"
+logo: logos/cleanmymac.svg
