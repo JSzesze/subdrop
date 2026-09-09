@@ -1,0 +1,14 @@
+id: amazon-luna
+name: Amazon Luna
+category: gaming
+plan: Luna Premium
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.amazon.com/luna"
+sourceUrl: "https://www.amazongamestudios.com/en-us/news/articles/new-luna-faq"
+priceCheckedAt: 2026-09-09
+domain: amazon.com
+blurb: Cloud gaming. Luna Premium (formerly Luna+) is $9.99/mo US per official Amazon Game Studios FAQ.
+color: "#8030F0"
+logo: logos/amazon-luna.svg
