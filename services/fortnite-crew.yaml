@@ -1,0 +1,15 @@
+id: fortnite-crew
+name: Fortnite Crew
+category: gaming
+plan: Crew
+priceUsd: 11.99
+billing: month
+monthlyUsd: 11.99
+url: "https://www.fortnite.com"
+sourceUrl: "https://www.fortnite.com/fortnite-crew-subscription"
+priceCheckedAt: 2026-09-09
+domain: fortnite.com
+blurb: Monthly Fortnite membership with Battle Pass access, Crew Pack, and V-Bucks. Crew is the advertised US $11.99/mo plan.
+color: "#2F2F2F"
+logo: logos/fortnite-crew.svg
+simpleIconsSlug: epicgames
