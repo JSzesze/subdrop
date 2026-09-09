@@ -1,0 +1,17 @@
+id: everand
+name: Everand
+category: news
+plan: Standard
+priceUsd: 11.99
+billing: month
+monthlyUsd: 11.99
+url: "https://www.everand.com"
+sourceUrl: "https://support.scribd.com/hc/en-us/articles/40678839226644-Everand-plans-Standard-Plus-and-Deluxe"
+priceCheckedAt: 2026-09-08
+domain: everand.com
+blurb: Audiobooks and ebooks with monthly unlocks. Standard is the advertised US starting plan (1 unlock/mo); Plus and Deluxe cost more.
+color: "#1A7AFF"
+logo: logos/everand.svg
+aliases:
+  - scribd
+  - Scribd
