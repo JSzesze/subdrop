@@ -1,0 +1,16 @@
+id: proton-pass
+name: Proton Pass
+category: security
+plan: Pass Plus (annual)
+priceUsd: 35.88
+billing: year
+monthlyUsd: 2.99
+url: "https://proton.me/pass"
+sourceUrl: "https://proton.me/blog/pass-plus-simplelogin-premium-feature"
+priceCheckedAt: 2026-09-09
+domain: proton.me
+blurb: End-to-end encrypted password manager. Pass Plus for new users is $2.99/mo on a 12-month plan ($35.88/yr) per official Proton announcement (pricing page is JS-gated).
+color: "#6D4AFF"
+logo: logos/proton-pass.svg
+aliases:
+  - Proton Pass Plus
