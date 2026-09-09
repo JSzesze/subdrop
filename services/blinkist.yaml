@@ -1,0 +1,14 @@
+id: blinkist
+name: Blinkist
+category: education
+plan: Premium (12 Months)
+priceUsd: 99.99
+billing: year
+monthlyUsd: 8.33
+url: "https://www.blinkist.com"
+sourceUrl: "https://www.blinkist.com/pricing"
+priceCheckedAt: 2026-09-09
+domain: blinkist.com
+blurb: Book and podcast summaries. Premium 12-month list $99.99/yr (intro $79.99 ignored).
+color: "#2CE080"
+logo: logos/blinkist.png
