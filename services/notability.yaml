@@ -1,0 +1,17 @@
+id: notability
+name: Notability
+category: productivity
+plan: Plus
+priceUsd: 19.99
+billing: year
+monthlyUsd: 1.67
+url: "https://notability.com"
+sourceUrl: "https://notability.com/pricing"
+priceCheckedAt: 2026-09-09
+domain: notability.com
+blurb: AI-assisted notes, audio transcription, and handwriting search for lectures and PDFs.
+rank: 100
+color: "#0081FF"
+logo: logos/notability.png
+aliases:
+  - NOTABILITY
