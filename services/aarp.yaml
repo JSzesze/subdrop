@@ -1,0 +1,14 @@
+id: aarp
+name: AARP
+category: shopping
+plan: 1-Year
+priceUsd: 20
+billing: year
+monthlyUsd: 1.67
+url: "https://www.aarp.org/membership/"
+sourceUrl: "https://www.aarp.org/membership/"
+priceCheckedAt: 2026-09-07
+domain: aarp.org
+blurb: Membership discounts, AARP The Magazine, and advocacy for people 50+. Standard annual rate.
+color: "#EC1300"
+logo: logos/aarp.svg
