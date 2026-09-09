@@ -1,0 +1,18 @@
+id: minecraft-realms
+name: Minecraft Realms
+category: gaming
+plan: Realms (Bedrock)
+priceUsd: 3.99
+billing: month
+monthlyUsd: 3.99
+url: "https://www.minecraft.net/en-us/realms"
+sourceUrl: "https://www.minecraft.net/en-us/realms"
+priceCheckedAt: 2026-09-09
+domain: minecraft.net
+blurb: Always-online private Minecraft server for you + 2 friends on Bedrock.
+rank: 100
+color: "#62B47A"
+logo: logos/minecraft-realms.svg
+aliases:
+  - minecraft_realms
+  - realms
