@@ -1,0 +1,14 @@
+id: speechify
+name: Speechify
+category: ai
+plan: Premium
+priceUsd: 29
+billing: month
+monthlyUsd: 29
+url: "https://speechify.com"
+sourceUrl: "https://speechify.com/pricing"
+priceCheckedAt: 2026-09-09
+domain: speechify.com
+blurb: Voice AI text-to-speech. Premium $29/mo (yearly also offered; catalog uses monthly list).
+color: "#2F43FA"
+logo: logos/speechify.png
