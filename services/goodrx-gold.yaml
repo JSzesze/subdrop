@@ -1,0 +1,17 @@
+id: goodrx-gold
+name: GoodRx Gold
+category: shopping
+plan: Individual
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.goodrx.com/gold"
+sourceUrl: "https://support.goodrx.com/hc/en-us/articles/115004825626-What-is-GoodRx-Gold-How-does-it-work"
+priceCheckedAt: 2026-09-09
+domain: goodrx.com
+blurb: Prescription discount membership with lower pharmacy prices and telehealth perks.
+rank: 100
+color: "#FFDB00"
+logo: logos/goodrx-gold.svg
+aliases:
+  - goodrx_gold
