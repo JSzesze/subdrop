@@ -1,0 +1,14 @@
+id: britbox
+name: BritBox
+category: streaming
+plan: Standard
+priceUsd: 10.99
+billing: month
+monthlyUsd: 10.99
+url: "https://www.britbox.com"
+sourceUrl: "https://www.britbox.com"
+priceCheckedAt: 2026-09-09
+domain: britbox.com
+blurb: Ad-free British TV catalog. Standard monthly is the advertised US starting plan after the free trial.
+color: "#00182B"
+logo: logos/britbox.svg
