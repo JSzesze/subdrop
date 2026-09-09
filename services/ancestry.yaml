@@ -1,0 +1,17 @@
+id: ancestry
+name: Ancestry
+category: shopping
+plan: U.S. Discovery
+priceUsd: 24.99
+billing: month
+monthlyUsd: 24.99
+url: "https://www.ancestry.com"
+sourceUrl: "https://www.ancestry.com/c/allproducts"
+priceCheckedAt: 2026-09-07
+domain: ancestry.com
+blurb: Family history records and trees. U.S. Discovery is the standard US-records membership.
+color: "#94BF18"
+logo: logos/ancestry.svg
+aliases:
+  - ancestry_com
+  - ancestry.com
