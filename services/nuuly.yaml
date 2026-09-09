@@ -1,0 +1,14 @@
+id: nuuly
+name: Nuuly
+category: shopping
+plan: Monthly
+priceUsd: 98
+billing: month
+monthlyUsd: 98
+url: "https://www.nuuly.com"
+sourceUrl: "https://www.nuuly.com"
+priceCheckedAt: 2026-09-09
+domain: nuuly.com
+blurb: Clothing rental membership. Rent 6 items monthly for $98 (promos ignored).
+color: "#CE4940"
+logo: logos/nuuly.png
