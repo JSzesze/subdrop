@@ -1,0 +1,16 @@
+id: craft
+name: Craft
+category: productivity
+plan: Plus (annual)
+priceUsd: 96
+billing: year
+monthlyUsd: 8.00
+url: "https://www.craft.do"
+sourceUrl: "https://www.craft.do/pricing"
+priceCheckedAt: 2026-09-09
+domain: craft.do
+blurb: Notes and docs app. Plus annual is the advertised US individual plan ($8/mo billed yearly; $10/mo month-to-month per help docs).
+color: "#254078"
+logo: logos/craft.svg
+aliases:
+  - CRAFT.DO
