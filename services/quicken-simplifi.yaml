@@ -1,0 +1,18 @@
+id: quicken-simplifi
+name: Quicken Simplifi
+category: finance
+plan: Annual
+priceUsd: 6.99
+billing: month
+monthlyUsd: 6.99
+url: "https://simplifi.quicken.com"
+sourceUrl: "https://www.quicken.com/products/simplifi/"
+priceCheckedAt: 2026-09-09
+domain: quicken.com
+blurb: Budgeting, cash-flow projections, and investment tracking — $6.99/mo billed annually.
+rank: 100
+color: "#6340FF"
+logo: logos/quicken-simplifi.png
+aliases:
+  - simplifi
+  - quicken_simplifi
