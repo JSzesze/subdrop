@@ -12,6 +12,6 @@ domain: notability.com
 blurb: AI-assisted notes, audio transcription, and handwriting search for lectures and PDFs.
 rank: 100
 color: "#0081FF"
-logo: logos/notability.svg
+logo: logos/notability.png
 aliases:
   - NOTABILITY
