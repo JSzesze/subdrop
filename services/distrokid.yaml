@@ -1,0 +1,14 @@
+id: distrokid
+name: DistroKid
+category: music
+plan: Musician
+priceUsd: 24.99
+billing: year
+monthlyUsd: 2.08
+url: "https://distrokid.com"
+sourceUrl: "https://distrokid.com/pricing/"
+priceCheckedAt: 2026-09-09
+domain: distrokid.com
+blurb: Music distribution. Musician plan $24.99/yr billed annually ($2.08/mo advertised).
+color: "#CFE317"
+logo: logos/distrokid.png
