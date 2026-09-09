@@ -1,0 +1,19 @@
+id: cvs-carepass
+name: CVS CarePass
+category: shopping
+plan: ExtraCare Plus
+priceUsd: 5
+billing: month
+monthlyUsd: 5
+url: "https://www.cvs.com/carepass/join"
+sourceUrl: "https://www.cvs.com/extracare/overview"
+priceCheckedAt: 2026-09-09
+domain: cvs.com
+blurb: Paid ExtraCare Plus (formerly CarePass) — $10 monthly reward, free shipping, and member discounts.
+rank: 100
+color: "#CC0000"
+logo: logos/cvs-carepass.svg
+aliases:
+  - cvs_carepass
+  - extracare-plus
+  - CVS ExtraCare Plus
