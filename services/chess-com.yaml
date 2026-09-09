@@ -1,0 +1,19 @@
+id: chess-com
+name: Chess.com
+category: gaming
+plan: Diamond
+priceUsd: 16.99
+billing: month
+monthlyUsd: 16.99
+url: "https://www.chess.com"
+sourceUrl: "https://www.chess.com/membership"
+priceCheckedAt: 2026-09-09
+domain: chess.com
+blurb: Online chess with unlimited puzzles, lessons, and game review on Diamond.
+rank: 100
+color: "#81B64C"
+simpleIconsSlug: chessdotcom
+logo: logos/chess-com.svg
+aliases:
+  - CHESS.COM
+  - chesscom
