@@ -1,0 +1,14 @@
+id: rent-the-runway
+name: Rent the Runway
+category: shopping
+plan: Update
+priceUsd: 164
+billing: month
+monthlyUsd: 164
+url: "https://www.renttherunway.com"
+sourceUrl: "https://www.renttherunway.com"
+priceCheckedAt: 2026-09-09
+domain: renttherunway.com
+blurb: Clothing rental membership. Update plan $164/mo after ($114 first-month promo ignored).
+color: "#600020"
+logo: logos/rent-the-runway.svg
