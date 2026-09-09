@@ -1,0 +1,19 @@
+id: telegram-premium
+name: Telegram Premium
+category: social
+plan: Premium
+priceUsd: 4.99
+billing: month
+monthlyUsd: 4.99
+url: "https://telegram.org"
+sourceUrl: "https://apps.apple.com/us/app/telegram-messenger/id686449807"
+priceCheckedAt: 2026-09-09
+domain: telegram.org
+blurb: Faster downloads, exclusive stickers, larger file uploads, and ad-free channels.
+rank: 100
+color: "#26A5E4"
+simpleIconsSlug: telegram
+logo: logos/telegram-premium.svg
+aliases:
+  - telegram_premium
+  - TELEGRAM
