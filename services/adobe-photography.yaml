@@ -1,0 +1,19 @@
+id: adobe-photography
+name: Adobe Photography Plan
+category: productivity
+plan: Photography (1TB)
+priceUsd: 19.99
+billing: month
+monthlyUsd: 19.99
+url: "https://www.adobe.com/creativecloud/photography.html"
+sourceUrl: "https://www.adobe.com/creativecloud/photography/compare-plans.html"
+priceCheckedAt: 2026-09-09
+domain: adobe.com
+blurb: Photoshop, Lightroom, and Lightroom Classic with 1TB cloud storage — distinct from All Apps.
+rank: 100
+color: "#FF0000"
+simpleIconsSlug: adobe
+logo: logos/adobe-photography.svg
+aliases:
+  - adobe_photography
+  - adobe-photo
