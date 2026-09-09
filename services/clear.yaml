@@ -1,0 +1,14 @@
+id: clear
+name: CLEAR
+category: security
+plan: CLEAR+
+priceUsd: 219
+billing: year
+monthlyUsd: 18.25
+url: "https://www.clearme.com"
+sourceUrl: "https://www.clearme.com/blog/how-to-get-the-most-out-of-your-clear-plus-membership"
+priceCheckedAt: 2026-09-09
+domain: clearme.com
+blurb: Airport and venue identity membership. CLEAR+ is the advertised US annual plan ($219/yr); family add-ons $125 each.
+color: "#041A55"
+logo: logos/clear.svg
