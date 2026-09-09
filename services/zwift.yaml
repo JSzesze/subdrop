@@ -1,0 +1,14 @@
+id: zwift
+name: Zwift
+category: fitness
+plan: Monthly
+priceUsd: 19.99
+billing: month
+monthlyUsd: 19.99
+url: "https://www.zwift.com"
+sourceUrl: "https://www.zwift.com/news/33635-how-much-does-zwift-cost-and-whats-included-everything-you-need-to-know"
+priceCheckedAt: 2026-09-09
+domain: zwift.com
+blurb: Indoor cycling and running in a virtual world. Monthly is the advertised US membership rate ($19.99).
+color: "#F26722"
+logo: logos/zwift.svg
