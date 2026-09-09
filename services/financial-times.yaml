@@ -1,0 +1,19 @@
+id: financial-times
+name: Financial Times
+category: news
+plan: Standard Digital
+priceUsd: 45
+billing: month
+monthlyUsd: 45
+url: "https://www.ft.com"
+sourceUrl: "https://subs.ft.com/products"
+priceCheckedAt: 2026-09-09
+domain: ft.com
+blurb: Essential FT journalism on any device — news, analysis, app, and newsletters.
+rank: 100
+color: "#FFF1E5"
+logo: logos/financial-times.svg
+aliases:
+  - FT
+  - financial_times
+  - THE FINANCIAL TIMES
