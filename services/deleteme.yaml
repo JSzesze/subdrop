@@ -1,0 +1,17 @@
+id: deleteme
+name: DeleteMe
+category: security
+plan: Standard (1 Person, annual)
+priceUsd: 129
+billing: year
+monthlyUsd: 10.75
+url: "https://joindeleteme.com"
+sourceUrl: "https://help.joindeleteme.com/hc/en-us/articles/8583943913235-Choosing-your-DeleteMe-Plan"
+priceCheckedAt: 2026-09-09
+domain: joindeleteme.com
+blurb: Data-broker removal / privacy protection. Standard is the advertised US starting plan for 1 person, billed annually at $129 (no month-to-month option).
+color: "#19288A"
+logo: logos/deleteme.svg
+aliases:
+  - JOINDELETEME.COM
+  - Delete Me
