@@ -1,0 +1,14 @@
+id: betterment
+name: Betterment
+category: finance
+plan: Investing
+priceUsd: 5.00
+billing: month
+monthlyUsd: 5.00
+url: "https://www.betterment.com"
+sourceUrl: "https://www.betterment.com/pricing"
+priceCheckedAt: 2026-09-09
+domain: betterment.com
+blurb: Automated investing with expert-built portfolios. Investing is the advertised US $5/mo base fee for balances under $24k without qualifying deposits.
+color: "#000B50"
+logo: logos/betterment.svg
