@@ -1,0 +1,14 @@
+id: bloomberg
+name: Bloomberg
+category: news
+plan: Digital
+priceUsd: 39.99
+billing: month
+monthlyUsd: 39.99
+url: "https://www.bloomberg.com"
+sourceUrl: "https://www.bloomberg.com/subscriptions/"
+priceCheckedAt: 2026-09-09
+domain: bloomberg.com
+blurb: Business and markets news with live TV and apps. Digital monthly is the regular US renew rate after intro offers.
+color: "#000000"
+logo: logos/bloomberg.svg
