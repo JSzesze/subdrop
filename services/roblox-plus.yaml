@@ -1,0 +1,20 @@
+id: roblox-plus
+name: Roblox Plus
+category: gaming
+plan: Plus
+priceUsd: 4.99
+billing: month
+monthlyUsd: 4.99
+url: "https://www.roblox.com"
+sourceUrl: "https://about.roblox.com/newsroom/2026/04/introducing-roblox-plus-subscription"
+priceCheckedAt: 2026-09-09
+domain: roblox.com
+blurb: Platform discounts, private servers, and trading — the current US paid membership replacing Premium.
+rank: 100
+color: "#000000"
+simpleIconsSlug: roblox
+logo: logos/roblox-plus.svg
+aliases:
+  - roblox_plus
+  - roblox-premium
+  - ROBLOX PREMIUM
