@@ -1,0 +1,18 @@
+id: hallmark-plus
+name: Hallmark+
+category: streaming
+plan: Monthly
+priceUsd: 7.99
+billing: month
+monthlyUsd: 7.99
+url: "https://www.hallmarkplus.com"
+sourceUrl: "https://www.hallmark.com/hallmark-plus/"
+priceCheckedAt: 2026-09-09
+domain: hallmarkplus.com
+blurb: Hallmark streaming plus retail rewards. Monthly is the advertised US starting plan; annual is $79.99/yr.
+color: "#614099"
+logo: logos/hallmark-plus.svg
+aliases:
+  - HALLMARKPLUS.COM
+  - Hallmark Plus
+  - Hallmark+
