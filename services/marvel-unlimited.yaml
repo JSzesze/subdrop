@@ -1,0 +1,14 @@
+id: marvel-unlimited
+name: Marvel Unlimited
+category: news
+plan: Monthly
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.marvel.com/unlimited"
+sourceUrl: "https://www.marvel.com/mu-winback2026"
+priceCheckedAt: 2026-09-09
+domain: marvel.com
+blurb: Digital Marvel comics library. Monthly $9.99; Annual $69/yr; Annual Plus $99/yr.
+color: "#ED1D24"
+logo: logos/marvel-unlimited.svg
