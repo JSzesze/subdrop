@@ -1,0 +1,18 @@
+id: nyt-games
+name: NYT Games
+category: news
+plan: Monthly
+priceUsd: 5.99
+billing: month
+monthlyUsd: 5.99
+url: "https://www.nytimes.com/crosswords"
+sourceUrl: "https://apps.apple.com/us/app/nyt-games-wordle-crossword/id307569751"
+priceCheckedAt: 2026-09-10
+domain: nytimes.com
+blurb: Standalone Wordle, Crossword, Spelling Bee, and more (also in NYT All Access).
+color: "#6AAA64"
+logo: logos/nyt-games.svg
+aliases:
+  - nyt-crossword
+  - nyt_games
+  - crosswords
