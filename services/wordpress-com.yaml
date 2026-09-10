@@ -1,0 +1,15 @@
+id: wordpress-com
+name: WordPress.com
+category: productivity
+plan: Personal
+priceUsd: 48
+billing: year
+monthlyUsd: 4.00
+url: "https://wordpress.com"
+sourceUrl: "https://wordpress.com/pricing/"
+priceCheckedAt: 2026-09-10
+domain: wordpress.com
+blurb: Hosted WordPress sites. Personal is the first paid consumer plan.
+color: "#21759B"
+simpleIconsSlug: wordpress
+logo: logos/wordpress-com.svg
