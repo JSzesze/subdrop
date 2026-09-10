@@ -1,0 +1,17 @@
+id: chatgpt-pro
+name: ChatGPT Pro
+category: ai
+plan: Pro
+priceUsd: 200
+billing: month
+monthlyUsd: 200
+url: "https://chatgpt.com"
+sourceUrl: "https://help.openai.com/en/articles/9793128"
+priceCheckedAt: 2026-09-10
+domain: chatgpt.com
+blurb: Highest ChatGPT usage tier (20× Plus). A $100 Pro 5× option is also advertised.
+color: "#000000"
+simpleIconsSlug: openai
+logo: logos/chatgpt-pro.svg
+aliases:
+  - chatgpt_pro
