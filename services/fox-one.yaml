@@ -1,0 +1,14 @@
+id: fox-one
+name: FOX One
+category: streaming
+plan: Monthly
+priceUsd: 19.99
+billing: month
+monthlyUsd: 19.99
+url: "https://www.fox.com/foxone"
+sourceUrl: "https://www.fox.com/foxone"
+priceCheckedAt: 2026-09-10
+domain: fox.com
+blurb: Live FOX Sports, News, and entertainment networks in one DTC app.
+color: "#000000"
+logo: logos/fox-one.svg
