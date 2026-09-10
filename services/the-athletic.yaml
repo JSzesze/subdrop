@@ -1,0 +1,17 @@
+id: the-athletic
+name: The Athletic
+category: news
+plan: Monthly
+priceUsd: 7.99
+billing: month
+monthlyUsd: 7.99
+url: "https://www.nytimes.com/athletic/"
+sourceUrl: "https://apps.apple.com/us/app/the-athletic-all-sports-news/id1135216317"
+priceCheckedAt: 2026-09-10
+domain: nytimes.com
+blurb: Standalone sports journalism from The Athletic (also in NYT All Access).
+color: "#000000"
+logo: logos/the-athletic.svg
+aliases:
+  - theathletic
+  - the_athletic
