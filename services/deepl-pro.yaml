@@ -1,0 +1,18 @@
+id: deepl-pro
+name: DeepL Pro
+category: productivity
+plan: Individual
+priceUsd: 104.88
+billing: year
+monthlyUsd: 8.74
+url: "https://www.deepl.com"
+sourceUrl: "https://www.deepl.com/en/pro"
+priceCheckedAt: 2026-09-10
+domain: deepl.com
+blurb: AI translation for individuals — unlimited text, documents, and DeepL Write.
+color: "#0F2B46"
+simpleIconsSlug: deepl
+logo: logos/deepl-pro.svg
+aliases:
+  - deepl_pro
+  - deepl
