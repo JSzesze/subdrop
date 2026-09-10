@@ -1,0 +1,18 @@
+id: google-ai-ultra
+name: Google AI Ultra
+category: ai
+plan: Ultra 20x
+priceUsd: 200
+billing: month
+monthlyUsd: 200
+url: "https://one.google.com/about/google-ai-plans"
+sourceUrl: "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/"
+priceCheckedAt: 2026-09-10
+domain: one.google.com
+blurb: Highest Google AI tier (20× Pro usage) with 30TB storage; Ultra 5x is $100/mo.
+color: "#8E75B2"
+simpleIconsSlug: googlegemini
+logo: logos/google-ai-ultra.svg
+aliases:
+  - google_ai_ultra
+  - gemini-ultra
