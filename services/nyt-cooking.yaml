@@ -11,7 +11,7 @@ priceCheckedAt: 2026-09-10
 domain: cooking.nytimes.com
 blurb: Standalone recipes and cooking tools (also in NYT All Access).
 color: "#E33D26"
-logo: logos/nyt-cooking.svg
+logo: logos/nyt-cooking.png
 aliases:
   - cooking
   - nyt_cooking
