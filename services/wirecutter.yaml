@@ -1,0 +1,17 @@
+id: wirecutter
+name: Wirecutter
+category: news
+plan: Monthly
+priceUsd: 5
+billing: month
+monthlyUsd: 5
+url: "https://www.nytimes.com/wirecutter/"
+sourceUrl: "https://www.nytimes.com/wirecutter/paid-subscription-faqs/"
+priceCheckedAt: 2026-09-10
+domain: nytimes.com
+blurb: Standalone product reviews and recommendations (also in NYT All Access).
+color: "#5878E0"
+logo: logos/wirecutter.svg
+aliases:
+  - the_wirecutter
+  - the-wirecutter
