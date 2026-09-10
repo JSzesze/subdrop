@@ -1,0 +1,15 @@
+id: deezer
+name: Deezer
+category: music
+plan: Premium
+priceUsd: 11.99
+billing: month
+monthlyUsd: 11.99
+url: "https://www.deezer.com"
+sourceUrl: "https://www.deezer.com/us/offers/premium"
+priceCheckedAt: 2026-09-10
+domain: deezer.com
+blurb: Ad-free music with Hi-Fi FLAC, offline downloads, and Flow recommendations.
+color: "#A238FF"
+simpleIconsSlug: deezer
+logo: logos/deezer.svg
