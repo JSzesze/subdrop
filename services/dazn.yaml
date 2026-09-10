@@ -1,0 +1,15 @@
+id: dazn
+name: DAZN
+category: streaming
+plan: Monthly
+priceUsd: 34.99
+billing: month
+monthlyUsd: 34.99
+url: "https://www.dazn.com"
+sourceUrl: "https://www.dazn.com/en-US/help/articles/16184063399709-dazn-plans-and-pricing"
+priceCheckedAt: 2026-09-10
+domain: dazn.com
+blurb: Live boxing and sports streaming. Monthly is the flexible cancel-anytime US plan.
+color: "#F7FF1A"
+simpleIconsSlug: dazn
+logo: logos/dazn.svg
