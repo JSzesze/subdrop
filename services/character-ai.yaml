@@ -1,0 +1,17 @@
+id: character-ai
+name: Character.AI
+category: ai
+plan: c.ai+
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://character.ai"
+sourceUrl: "https://character.ai/subscribe"
+priceCheckedAt: 2026-09-10
+domain: character.ai
+blurb: Character chat with priority access, no ads, and better memory on c.ai+.
+color: "#000000"
+logo: logos/character-ai.svg
+aliases:
+  - character_ai
+  - cai-plus
