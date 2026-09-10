@@ -1,0 +1,18 @@
+id: nyt-cooking
+name: NYT Cooking
+category: news
+plan: Monthly
+priceUsd: 4.99
+billing: month
+monthlyUsd: 4.99
+url: "https://cooking.nytimes.com/"
+sourceUrl: "https://apps.apple.com/us/app/nyt-cooking-quick-tasty-meals/id911422904"
+priceCheckedAt: 2026-09-10
+domain: cooking.nytimes.com
+blurb: Standalone recipes and cooking tools (also in NYT All Access).
+color: "#E33D26"
+logo: logos/nyt-cooking.png
+aliases:
+  - cooking
+  - nyt_cooking
+  - nytimes-cooking
