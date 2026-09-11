@@ -1,0 +1,14 @@
+id: classpass
+name: ClassPass
+category: fitness
+plan: 8 credits
+priceUsd: 19
+billing: month
+monthlyUsd: 19
+url: "https://classpass.com"
+sourceUrl: "https://classpass.com/pricing"
+priceCheckedAt: 2026-09-11
+domain: classpass.com
+blurb: Studio and gym credit membership. 8 credits is the advertised US starting plan ($19/mo); larger credit packs cost more.
+color: "#0055FE"
+logo: logos/classpass.svg
