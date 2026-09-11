@@ -1,0 +1,15 @@
+id: semrush
+name: Semrush
+category: productivity
+plan: Pro
+priceUsd: 139
+billing: month
+monthlyUsd: 139
+url: "https://www.semrush.com"
+sourceUrl: "https://www.semrush.com/pricing/"
+priceCheckedAt: 2026-09-11
+domain: semrush.com
+blurb: SEO and marketing toolkit. Pro is the advertised US starting plan at $139/mo billed monthly (annual is lower per month).
+color: "#FF642D"
+simpleIconsSlug: semrush
+logo: logos/semrush.svg
