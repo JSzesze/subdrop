@@ -1,0 +1,15 @@
+id: jira
+name: Jira
+category: productivity
+plan: Standard
+priceUsd: 7.91
+billing: month
+monthlyUsd: 7.91
+url: "https://www.atlassian.com/software/jira"
+sourceUrl: "https://www.atlassian.com/software/jira/pricing"
+priceCheckedAt: 2026-09-11
+domain: atlassian.com
+blurb: Issue tracking and agile boards. Standard is the advertised US paid floor at $7.91/user/mo (annual list on Atlassian pricing).
+color: "#0052CC"
+simpleIconsSlug: jira
+logo: logos/jira.svg
