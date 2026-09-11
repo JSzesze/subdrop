@@ -1,0 +1,15 @@
+id: udemy
+name: Udemy
+category: education
+plan: Personal Plan
+priceUsd: 19.99
+billing: month
+monthlyUsd: 19.99
+url: "https://www.udemy.com"
+sourceUrl: "https://www.udemy.com/pricing/"
+priceCheckedAt: 2026-09-11
+domain: udemy.com
+blurb: Online course subscription. Personal Plan is the advertised US individual subscription at $19.99/mo billed monthly.
+color: "#A435F0"
+simpleIconsSlug: udemy
+logo: logos/udemy.svg
