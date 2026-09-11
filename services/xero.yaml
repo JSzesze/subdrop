@@ -1,0 +1,15 @@
+id: xero
+name: Xero
+category: finance
+plan: Early
+priceUsd: 25
+billing: month
+monthlyUsd: 25
+url: "https://www.xero.com"
+sourceUrl: "https://www.xero.com/us/pricing/"
+priceCheckedAt: 2026-09-11
+domain: xero.com
+blurb: Cloud accounting for small businesses. Early is the advertised US starting plan at $25/mo after the intro period.
+color: "#13B5EA"
+simpleIconsSlug: xero
+logo: logos/xero.svg
