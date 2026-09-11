@@ -1,0 +1,15 @@
+id: typeform
+name: Typeform
+category: productivity
+plan: Basic
+priceUsd: 28
+billing: month
+monthlyUsd: 28
+url: "https://www.typeform.com"
+sourceUrl: "https://www.typeform.com/pricing/"
+priceCheckedAt: 2026-09-11
+domain: typeform.com
+blurb: Interactive forms and surveys. Basic is the advertised US starting paid plan at $28/mo.
+color: "#262627"
+simpleIconsSlug: typeform
+logo: logos/typeform.svg
