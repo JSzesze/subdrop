@@ -1,0 +1,15 @@
+id: surveymonkey
+name: SurveyMonkey
+category: productivity
+plan: Advantage (annual)
+priceUsd: 468
+billing: year
+monthlyUsd: 39
+url: "https://www.surveymonkey.com"
+sourceUrl: "https://www.surveymonkey.com/pricing/individual/"
+priceCheckedAt: 2026-09-11
+domain: surveymonkey.com
+blurb: Online surveys for individuals and teams. Advantage annual is the advertised US paid floor at $39/mo ($468 billed annually); monthly Advantage is higher.
+color: "#00BF6F"
+simpleIconsSlug: surveymonkey
+logo: logos/surveymonkey.svg
