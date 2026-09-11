@@ -1,0 +1,15 @@
+id: zendesk
+name: Zendesk
+category: productivity
+plan: Support Team
+priceUsd: 19
+billing: month
+monthlyUsd: 19
+url: "https://www.zendesk.com"
+sourceUrl: "https://www.zendesk.com/pricing/"
+priceCheckedAt: 2026-09-11
+domain: zendesk.com
+blurb: Customer support desk. Support Team is the advertised US starting Support plan at $19/agent/mo.
+color: "#03363D"
+simpleIconsSlug: zendesk
+logo: logos/zendesk.svg
