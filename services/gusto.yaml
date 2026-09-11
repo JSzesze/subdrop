@@ -1,0 +1,14 @@
+id: gusto
+name: Gusto
+category: finance
+plan: Simple
+priceUsd: 49
+billing: month
+monthlyUsd: 49
+url: "https://gusto.com"
+sourceUrl: "https://gusto.com/product/pricing"
+priceCheckedAt: 2026-09-11
+domain: gusto.com
+blurb: Payroll and HR for small US teams. Simple is the advertised starting full-service plan at $49/mo plus $6/mo per person.
+color: "#FF4833"
+logo: logos/gusto.svg
