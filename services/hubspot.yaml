@@ -1,0 +1,15 @@
+id: hubspot
+name: HubSpot
+category: productivity
+plan: Starter
+priceUsd: 20
+billing: month
+monthlyUsd: 20
+url: "https://www.hubspot.com"
+sourceUrl: "https://www.hubspot.com/products/crm/starter"
+priceCheckedAt: 2026-09-14
+domain: hubspot.com
+blurb: CRM Starter Customer Platform for marketing, sales, and service. Starter list is $20/mo per seat (promos may undercut).
+color: "#FF7A59"
+simpleIconsSlug: hubspot
+logo: logos/hubspot.svg
