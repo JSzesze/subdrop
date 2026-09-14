@@ -1,0 +1,17 @@
+id: mgm-plus
+name: MGM+
+category: streaming
+plan: Monthly
+priceUsd: 7.99
+billing: month
+monthlyUsd: 7.99
+url: "https://www.mgmplus.com"
+sourceUrl: "https://play.google.com/store/apps/details?id=com.epix.epix.now&hl=en_US&gl=US"
+priceCheckedAt: 2026-09-14
+domain: mgmplus.com
+blurb: Ad-free movies and MGM+ originals with live channels. Monthly is the US Google Play advertised rate; annual $61.99/yr also offered.
+color: "#B5994F"
+logo: logos/mgm-plus.png
+aliases:
+  - mgm_plus
+  - epix
