@@ -1,0 +1,15 @@
+id: talkspace
+name: Talkspace
+category: fitness
+plan: Messaging
+priceUsd: 69
+billing: week
+monthlyUsd: 299
+url: "https://www.talkspace.com"
+sourceUrl: "https://www.talkspace.com/pricing"
+priceCheckedAt: 2026-09-15
+domain: talkspace.com
+blurb: Online therapy with licensed providers. Messaging is the advertised US out-of-pocket starting plan at $69/week.
+rank: 240
+color: "#00656E"
+logo: logos/talkspace.png
