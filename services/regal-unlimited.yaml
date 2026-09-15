@@ -1,0 +1,17 @@
+id: regal-unlimited
+name: Regal Unlimited
+category: membership
+plan: Unlimited
+priceUsd: 18.99
+billing: month
+monthlyUsd: 18.99
+url: "https://www.regmovies.com/unlimited"
+sourceUrl: "https://www.regmovies.com/unlimited/rules"
+priceCheckedAt: 2026-09-15
+domain: regmovies.com
+blurb: Unlimited 2D movies at participating Regal theatres plus snack discounts. Base Unlimited is the advertised US starting plan.
+rank: 220
+color: "#FF6600"
+logo: logos/regal-unlimited.png
+aliases:
+  - regal
