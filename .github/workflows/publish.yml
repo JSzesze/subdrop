@@ -20,28 +20,43 @@ jobs:
       - name: Validate
         run: python3 scripts/validate.py
 
-      - name: Build catalog with CDN host
+      - name: Build catalog, schema, and meta
         env:
           R2_PUBLIC_HOST: ${{ secrets.R2_PUBLIC_HOST }}
+          GITHUB_SHA: ${{ github.sha }}
         run: |
           HOST="${R2_PUBLIC_HOST:-https://subdrop.repruv.com}"
-          python3 scripts/build-catalog.py -o dist/v1/catalog.json --host "$HOST"
+          python3 scripts/build-catalog.py -o dist/v1/catalog.json --host "$HOST" --commit "$GITHUB_SHA"
+          python3 scripts/check-published.py dist/v1/catalog.json
 
       - name: Install AWS CLI
         run: pip install awscli
 
-      - name: Upload catalog.json to R2
+      - name: Upload v1 JSON to R2
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
           R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
         run: |
+          # R2 already stores ETag (MD5) + Last-Modified; If-None-Match 304 works at origin today.
+          # Cache-Control alone does NOT make .json edge-cacheable: Cloudflare's default
+          # cached extensions exclude JSON, so /v1/*.json stays cf-cache-status: DYNAMIC
+          # until a Cache Rule marks the path Eligible for cache (see README).
           ENDPOINT="https://${R2_ACCOUNT_ID}.r2.cloudflarestorage.com"
-          aws s3 cp dist/v1/catalog.json "s3://${R2_BUCKET_NAME}/v1/catalog.json" \
-            --endpoint-url "$ENDPOINT" \
-            --content-type "application/json" \
-            --cache-control "public, max-age=300"
+          JSON_CACHE="public, max-age=300, stale-while-revalidate=86400"
+          SCHEMA_CACHE="public, max-age=86400, stale-while-revalidate=604800"
+          upload() {
+            local file="$1"
+            local cache="$2"
+            aws s3 cp "dist/v1/${file}" "s3://${R2_BUCKET_NAME}/v1/${file}" \
+              --endpoint-url "$ENDPOINT" \
+              --content-type "application/json; charset=utf-8" \
+              --cache-control "$cache"
+          }
+          upload catalog.json "$JSON_CACHE"
+          upload meta.json "$JSON_CACHE"
+          upload schema.json "$SCHEMA_CACHE"
 
       - name: Sync logos to R2
         env:

@@ -1,8 +1,8 @@
 # Subdrop — Product Requirements Document
 
 **Version:** 1.0 (seed)  
-**Status:** Draft — git-native catalog, R2 publish stub  
-**Last updated:** 2026-08-21
+**Status:** Draft — git-native catalog, R2 publish live  
+**Last updated:** 2026-09-15
 
 ---
 
@@ -10,7 +10,7 @@
 
 We need a **stable, public catalog** of popular US consumer subscription services with typical advertised prices. The first prototype bound `logoUrl` to a Vercel preview host behind SSO, which made logos and JSON unsuitable as a long-lived public API. Preview URLs rot, access is gated, and consumers cannot rely on the bundle.
 
-Subdrop separates **durable source data in git** from **published static assets on a CDN** (Cloudflare R2, wired later).
+Subdrop separates **durable source data in git** from **published static assets on a CDN** (Cloudflare R2).
 
 ---
 
@@ -19,7 +19,7 @@ Subdrop separates **durable source data in git** from **published static assets 
 1. **Git as CMS** — one YAML file per service; changes land via reviewed PRs.
 2. **Agent-friendly** — clear schema, validation scripts, and `AGENTS.md` so coding agents can open PRs safely.
 3. **Static public API** — `/v1/catalog.json` served from object storage, no database on read path.
-4. **Relative logos in source** — `logos/netflix.svg` in YAML; absolute `logoUrl` only at publish time when `--host` is set.
+4. **Relative logos in source** — `logos/netflix.svg` in YAML; absolute `logoUrl` only in published JSON.
 5. **Provenance fields** — `sourceUrl` and `priceCheckedAt` on every service row.
 6. **CC0 catalog data** — prices and metadata are public domain; trademarks stay with owners.
 
@@ -44,7 +44,7 @@ Subdrop separates **durable source data in git** from **published static assets 
 flowchart LR
   PR[PR: edit services/*.yaml] --> CI[GitHub Actions validate]
   CI --> Merge[Merge to main]
-  Merge --> Pub[Publish Action stub]
+  Merge --> Pub[Publish Action]
   Pub --> R2[Cloudflare R2]
   R2 --> CDN[CDN /v1/catalog.json]
   CDN --> Apps[Consumers e.g. budget0]
@@ -52,8 +52,8 @@ flowchart LR
 
 1. Contributor or agent edits `services/<id>.yaml` (and optionally `logos/`).
 2. PR runs `scripts/validate.py` and `scripts/build-catalog.py`.
-3. Merge to `main` triggers publish (currently **`if: false` stub**).
-4. Future publish uploads `dist/catalog.json` and `logos/` to R2 with a stable public host.
+3. Merge to `main` triggers publish.
+4. Publish uploads `v1/catalog.json`, `v1/schema.json`, `v1/meta.json`, and `logos/` to R2.
 5. Consumers fetch JSON + logos from the CDN, not from git or Vercel previews.
 
 ---
@@ -65,14 +65,16 @@ flowchart LR
 | `catalog.yaml` | Name, description, schemaVersion, region, currency, license |
 | `categories.yaml` | List of `{ id, label }` (14 categories) |
 | `services/<id>.yaml` | One flat document per service |
-| `schema/service.schema.json` | Machine-readable contract |
+| `schema/service.schema.json` | Source YAML contract |
+| `schema/catalog.schema.json` | Published dump contract (also `/v1/schema.json`) |
 | `schema/service.example.yaml` | Netflix reference row |
 | `scripts/validate.py` | CI gate: ids, math, dates, forbidden keys |
-| `scripts/build-catalog.py` | Glue YAML → `catalog.json` |
+| `scripts/build-catalog.py` | Glue YAML → `catalog.json` + `schema.json` + `meta.json` |
+| `scripts/check-published.py` | CI gate: published field shape |
 | `scripts/yaml_lite.py` | Dependency-free YAML subset |
 | `logos/` | Brand marks; relative paths in source |
 | `.github/workflows/validate.yml` | PR + push validation |
-| `.github/workflows/publish.yml` | R2 stub (disabled) |
+| `.github/workflows/publish.yml` | R2 upload of v1 JSON + logos |
 
 ---
 
@@ -124,7 +126,17 @@ Only set when a **yearly** plan has a well-known **calendar** renewal (e.g. “r
 
 ## Public API
 
-**Endpoint (future):** `GET /v1/catalog.json`
+Live contract (also in [README](../README.md)):
+
+| URL | Purpose |
+|-----|---------|
+| `https://subdrop.repruv.com/v1/catalog.json` | Full dump |
+| `https://subdrop.repruv.com/v1/schema.json` | JSON Schema for the published wrapper + service object |
+| `https://subdrop.repruv.com/v1/meta.json` | `generatedAt`, `count`, `schemaVersion`, git `commit` |
+
+CORS: `GET`/`HEAD`, `Access-Control-Allow-Origin: *`. Clients should send `If-None-Match` (R2 `ETag` already returns 304).
+
+JSON is **not** in Cloudflare's default cacheable extensions. Publish sets `Cache-Control` on the objects; a one-time Cache Rule must mark `/v1/*.json` **Eligible for cache** or `cf-cache-status` stays `DYNAMIC`. See README.
 
 **Build output shape** (from `scripts/build-catalog.py`):
 
@@ -144,13 +156,9 @@ Only set when a **yearly** plan has a well-known **calendar** renewal (e.g. “r
 }
 ```
 
-When published with `--host https://cdn.example.com`, each service may include:
+Published services include absolute `logoUrl` and omit relative `logo`. Money fields are JSON floats (`69.0`, not `69`). Both `url` and `sourceUrl` are kept. Empty `plans` is omitted.
 
-```json
-"logoUrl": "https://cdn.example.com/logos/netflix.svg"
-```
-
-Source repos never store that URL.
+Source repos never store `logoUrl`.
 
 ---
 
@@ -165,13 +173,14 @@ Source repos never store that URL.
 
 ---
 
-## Publish workflow (stub)
+## Publish workflow
 
-`.github/workflows/publish.yml` is intentionally disabled (`if: false`). When enabling:
+`.github/workflows/publish.yml` runs on push to `main`:
 
 - Secrets: `R2_ACCOUNT_ID`, `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`, `R2_BUCKET_NAME`, `R2_PUBLIC_HOST`
-- Steps: validate → build with `--host` → upload `catalog.json` + sync `logos/`
-- Cache headers: long TTL on JSON and logos; invalidate on deploy only
+- Steps: validate → build with `--host` → upload `v1/catalog.json`, `v1/schema.json`, `v1/meta.json` + sync `logos/`
+- Object `Cache-Control`: ~5 minutes on catalog/meta, 1 day on schema, 1 year immutable on logos
+- Edge HIT for JSON still requires the Cache Rule documented in the README
 
 ---
 
@@ -193,8 +202,9 @@ Source repos never store that URL.
 - [x] `build-catalog.py` produces `count: 91`, `region: US`, `currency: USD`
 - [x] JSON Schema + example + agent docs
 - [x] Validate workflow on PR/push
-- [ ] Publish workflow enabled with R2
-- [ ] Stable CDN URL documented
+- [x] Publish workflow enabled with R2
+- [x] Stable CDN URL documented
+- [ ] Cloudflare Cache Rule for `/v1/*.json` (dashboard; see README)
 - [ ] Logo binaries populated where permitted
 
 ---

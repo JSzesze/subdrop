@@ -22,10 +22,11 @@ When adding or updating a service:
 2. Run locally:
    ```bash
    python3 scripts/validate.py
-   python3 scripts/build-catalog.py -o dist/catalog.json
+   python3 scripts/build-catalog.py -o dist/v1/catalog.json
+   python3 scripts/check-published.py dist/v1/catalog.json
    ```
 3. Open a PR. CI runs the same validate + build steps.
-4. After merge to `main`, the publish workflow uploads `v1/catalog.json` and `logos/` to Cloudflare R2 (requires repo secrets: `R2_ACCOUNT_ID`, `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`, `R2_BUCKET_NAME`, `R2_PUBLIC_HOST`).
+4. After merge to `main`, the publish workflow uploads `v1/catalog.json`, `v1/schema.json`, `v1/meta.json`, and `logos/` to Cloudflare R2 (requires repo secrets: `R2_ACCOUNT_ID`, `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`, `R2_BUCKET_NAME`, `R2_PUBLIC_HOST`). JSON object metadata includes `Cache-Control`; a one-time Cloudflare Cache Rule is still required for edge HIT on `.json` (see README).
 
 ## Do not
 
