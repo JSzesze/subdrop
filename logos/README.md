@@ -7,4 +7,4 @@ Brand mark files live in this directory (for example `logos/netflix.svg`).
 - Missing logo files do not fail CI during early seeding; consumers may fall back to `simpleIconsSlug` or placeholders until marks are added.
 - Only add logos you have the right to redistribute for identification purposes, or use marks supplied by the service owner under their brand guidelines.
 
-Published builds may expose `logoUrl` in `catalog.json` when built with `--host`; source YAML must never contain `logoUrl`.
+Published `catalog.json` exposes absolute `logoUrl` and omits the relative `logo` field. Source YAML must keep `logo:` and must never contain `logoUrl`.
