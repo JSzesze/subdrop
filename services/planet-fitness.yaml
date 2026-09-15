@@ -1,0 +1,14 @@
+id: planet-fitness
+name: Planet Fitness
+category: fitness
+plan: Classic
+priceUsd: 15.00
+billing: month
+monthlyUsd: 15.00
+url: "https://www.planetfitness.com"
+sourceUrl: "https://www.planetfitness.com/"
+priceCheckedAt: 2026-09-04
+domain: planetfitness.com
+blurb: Judgement Free Zone gym access at your home club. Classic is the nationally advertised starting monthly dues; PF Black Card starts at $24.99/mo. Annual fee and local taxes extra; prices may vary by location.
+color: "#470A68"
+logo: logos/planet-fitness.svg
