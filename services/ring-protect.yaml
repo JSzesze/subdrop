@@ -1,0 +1,17 @@
+id: ring-protect
+name: Ring Protect
+category: security
+plan: Solo
+priceUsd: 4.99
+billing: month
+monthlyUsd: 4.99
+url: "https://ring.com"
+sourceUrl: "https://ring.com/plans"
+priceCheckedAt: 2026-09-07
+domain: ring.com
+blurb: Home security video and monitoring subscription. Solo is the advertised US starting plan for one doorbell or camera.
+color: "#1C9AD6"
+simpleIconsSlug: ring
+logo: logos/ring-protect.svg
+aliases:
+  - RING.COM
