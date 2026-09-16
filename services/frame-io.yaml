@@ -1,0 +1,17 @@
+id: frame-io
+name: Frame.io
+category: productivity
+plan: Pro
+priceUsd: 15
+billing: month
+monthlyUsd: 15
+url: "https://frame.io"
+sourceUrl: "https://frame.io/pricing"
+priceCheckedAt: 2026-09-16
+domain: frame.io
+blurb: Video review and collaboration for creative teams. Pro is the advertised US starting paid plan at $15 per member per month.
+color: "#5B51FF"
+logo: logos/frame-io.png
+aliases:
+  - frameio
+  - frame_io
