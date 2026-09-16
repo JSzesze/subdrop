@@ -1,0 +1,18 @@
+id: replit
+name: Replit
+category: ai
+plan: Core
+priceUsd: 20
+billing: month
+monthlyUsd: 20
+url: "https://replit.com"
+sourceUrl: "https://replit.com/pricing"
+priceCheckedAt: 2026-09-16
+domain: replit.com
+blurb: AI coding workspace with Agent and cloud compute. Core is the advertised US personal paid plan at $20/mo (annual billing lower on the pricing page).
+color: "#F26207"
+simpleIconsSlug: replit
+logo: logos/replit.svg
+aliases:
+  - replit-core
+  - REPLIT.COM
