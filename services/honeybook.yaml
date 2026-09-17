@@ -1,0 +1,14 @@
+id: honeybook
+name: HoneyBook
+category: productivity
+plan: Starter
+priceUsd: 29
+billing: month
+monthlyUsd: 29
+url: "https://www.honeybook.com"
+sourceUrl: "https://www.honeybook.com/pricing"
+priceCheckedAt: 2026-09-17
+domain: honeybook.com
+blurb: Client management for creatives and freelancers. Starter is $29/mo billed yearly.
+color: "#F8F850"
+logo: logos/honeybook.png
