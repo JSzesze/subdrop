@@ -1,0 +1,15 @@
+id: vercel
+name: Vercel
+category: cloud
+plan: Pro
+priceUsd: 20
+billing: month
+monthlyUsd: 20
+url: "https://vercel.com"
+sourceUrl: "https://vercel.com/pricing"
+priceCheckedAt: 2026-09-17
+domain: vercel.com
+blurb: Frontend cloud for deploying web apps. Pro is the starting paid team plan.
+color: "#000000"
+simpleIconsSlug: vercel
+logo: logos/vercel.svg
