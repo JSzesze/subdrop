@@ -1,0 +1,14 @@
+id: quillbot
+name: QuillBot
+category: productivity
+plan: Premium
+priceUsd: 99.95
+billing: year
+monthlyUsd: 8.33
+url: "https://quillbot.com"
+sourceUrl: "https://quillbot.com/premium"
+priceCheckedAt: 2026-09-17
+domain: quillbot.com
+blurb: AI paraphrasing and writing suite. Premium is the advertised annual plan.
+color: "#499557"
+logo: logos/quillbot.png
