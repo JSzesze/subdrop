@@ -1,0 +1,15 @@
+id: adobe-stock
+name: Adobe Stock
+category: productivity
+plan: Individuals (10 credits)
+priceUsd: 29.99
+billing: month
+monthlyUsd: 29.99
+url: "https://stock.adobe.com"
+sourceUrl: "https://stock.adobe.com/plans"
+priceCheckedAt: 2026-09-17
+domain: stock.adobe.com
+blurb: Stock photos, vectors, and video. Individuals 10 credits/mo is the starting paid plan.
+color: "#FF0000"
+simpleIconsSlug: adobe
+logo: logos/adobe-stock.svg
