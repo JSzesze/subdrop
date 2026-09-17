@@ -1,0 +1,14 @@
+id: pipedrive
+name: Pipedrive
+category: productivity
+plan: Lite
+priceUsd: 168
+billing: year
+monthlyUsd: 14
+url: "https://www.pipedrive.com"
+sourceUrl: "https://www.pipedrive.com/en/pricing"
+priceCheckedAt: 2026-09-17
+domain: pipedrive.com
+blurb: Sales CRM pipeline tool. Lite is the starting plan at $14/seat/mo billed annually.
+color: "#017737"
+logo: logos/pipedrive.png
