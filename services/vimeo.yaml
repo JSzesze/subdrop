@@ -1,0 +1,15 @@
+id: vimeo
+name: Vimeo
+category: streaming
+plan: Starter
+priceUsd: 12
+billing: month
+monthlyUsd: 12
+url: "https://vimeo.com"
+sourceUrl: "https://vimeo.com/pricing"
+priceCheckedAt: 2026-09-17
+domain: vimeo.com
+blurb: Professional video hosting and player. Starter is the entry per-seat plan.
+color: "#1AB7EA"
+simpleIconsSlug: vimeo
+logo: logos/vimeo.svg
