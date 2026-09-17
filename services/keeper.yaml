@@ -1,0 +1,15 @@
+id: keeper
+name: Keeper
+category: security
+plan: Unlimited
+priceUsd: 42.99
+billing: year
+monthlyUsd: 3.58
+url: "https://www.keepersecurity.com"
+sourceUrl: "https://help.keeper.io/article/158-how-much-is-keeper"
+priceCheckedAt: 2026-09-17
+domain: keepersecurity.com
+blurb: Password manager and digital vault. Unlimited is the personal starting paid plan.
+color: "#FFC700"
+simpleIconsSlug: keeper
+logo: logos/keeper.svg
