@@ -1,0 +1,15 @@
+id: confluence
+name: Confluence
+category: productivity
+plan: Standard
+priceUsd: 6.70
+billing: month
+monthlyUsd: 6.70
+url: "https://www.atlassian.com/software/confluence"
+sourceUrl: "https://www.atlassian.com/software/confluence/pricing"
+priceCheckedAt: 2026-09-17
+domain: atlassian.com
+blurb: Atlassian team wiki and docs. Standard is the default Cloud paid plan per user.
+color: "#172B4D"
+simpleIconsSlug: confluence
+logo: logos/confluence.svg
