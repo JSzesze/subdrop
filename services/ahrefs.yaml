@@ -1,0 +1,14 @@
+id: ahrefs
+name: Ahrefs
+category: productivity
+plan: Lite
+priceUsd: 129
+billing: month
+monthlyUsd: 129
+url: "https://ahrefs.com"
+sourceUrl: "https://ahrefs.com/pricing"
+priceCheckedAt: 2026-09-17
+domain: ahrefs.com
+blurb: SEO toolkit for backlinks and keywords. Lite is the starting paid plan.
+color: "#FF8D00"
+logo: logos/ahrefs.svg
