@@ -1,0 +1,17 @@
+id: wall-street-journal
+name: Wall Street Journal
+category: news
+plan: Digital
+priceUsd: 79
+billing: year
+monthlyUsd: 6.58
+url: "https://www.wsj.com"
+sourceUrl: "https://www.wsj.com/subscribe"
+priceCheckedAt: 2026-09-18
+domain: wsj.com
+blurb: Business and finance news. Digital is the advertised first-year US annual plan (renews at the then-current rate).
+color: "#0274B6"
+logo: logos/wall-street-journal.png
+aliases:
+  - wsj
+  - wall_street_journal
