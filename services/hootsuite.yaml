@@ -1,0 +1,15 @@
+id: hootsuite
+name: Hootsuite
+category: social
+plan: Standard
+priceUsd: 99
+billing: month
+monthlyUsd: 99
+url: "https://www.hootsuite.com"
+sourceUrl: "https://www.hootsuite.com/plans"
+priceCheckedAt: 2026-09-18
+domain: hootsuite.com
+blurb: Social media management platform. Standard starts at $99/user/mo billed annually (up to 10 accounts).
+color: "#FF4D00"
+simpleIconsSlug: hootsuite
+logo: logos/hootsuite.svg
