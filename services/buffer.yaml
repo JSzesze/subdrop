@@ -1,0 +1,15 @@
+id: buffer
+name: Buffer
+category: social
+plan: Essentials
+priceUsd: 5
+billing: month
+monthlyUsd: 5
+url: "https://buffer.com"
+sourceUrl: "https://buffer.com/pricing"
+priceCheckedAt: 2026-09-18
+domain: buffer.com
+blurb: Social media scheduling and analytics. Essentials is $5/mo per channel on annual billing.
+color: "#168EEA"
+simpleIconsSlug: buffer
+logo: logos/buffer.svg
