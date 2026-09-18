@@ -1,0 +1,14 @@
+id: life360
+name: Life360
+category: software
+plan: Silver
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.life360.com"
+sourceUrl: "https://www.life360.com/plans-pricing"
+priceCheckedAt: 2026-09-18
+domain: life360.com
+blurb: Family location and safety app. Silver is the personal starting paid plan.
+color: "#7D3CFF"
+logo: logos/life360.png
