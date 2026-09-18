@@ -1,0 +1,18 @@
+id: lyft-pink
+name: Lyft Pink
+category: shopping
+plan: Monthly
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.lyft.com/pink"
+sourceUrl: "https://help.lyft.com/hc/en-us/articles/360037342653"
+priceCheckedAt: 2026-09-18
+domain: lyft.com
+blurb: Lyft rideshare membership with member pricing and Priority Pickup. Monthly is the starting paid plan.
+color: "#FF00BF"
+simpleIconsSlug: lyft
+logo: logos/lyft-pink.svg
+aliases:
+  - lyft_pink
+  - lyftpink
