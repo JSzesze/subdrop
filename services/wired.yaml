@@ -1,0 +1,14 @@
+id: wired
+name: WIRED
+category: news
+plan: Digital
+priceUsd: 48
+billing: year
+monthlyUsd: 4.00
+url: "https://www.wired.com"
+sourceUrl: "https://www.wired.com/subscribe"
+priceCheckedAt: 2026-09-18
+domain: wired.com
+blurb: Technology, science, and culture magazine. Digital is unlimited web and app access at the standard annual rate.
+color: "#000000"
+logo: logos/wired.png
