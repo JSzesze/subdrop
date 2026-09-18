@@ -1,0 +1,15 @@
+id: intercom
+name: Intercom
+category: productivity
+plan: Essential
+priceUsd: 29
+billing: month
+monthlyUsd: 29
+url: "https://www.intercom.com"
+sourceUrl: "https://www.intercom.com/pricing"
+priceCheckedAt: 2026-09-18
+domain: intercom.com
+blurb: Customer service platform with Fin AI Agent. Essential is $29/seat/mo billed annually (Fin outcomes billed separately).
+color: "#1F8DED"
+simpleIconsSlug: intercom
+logo: logos/intercom.svg
