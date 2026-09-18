@@ -1,0 +1,18 @@
+id: nba-league-pass
+name: NBA League Pass
+category: streaming
+plan: League Pass
+priceUsd: 16.99
+billing: month
+monthlyUsd: 16.99
+url: "https://www.nba.com/league-pass"
+sourceUrl: "https://www.nba.com/watch/league-pass-stream"
+priceCheckedAt: 2026-09-18
+domain: nba.com
+blurb: Live and on-demand NBA games out-of-market. League Pass is the standard monthly plan.
+color: "#C8102E"
+simpleIconsSlug: nba
+logo: logos/nba-league-pass.svg
+aliases:
+  - nba_league_pass
+  - league-pass
