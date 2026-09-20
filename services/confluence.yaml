@@ -1,0 +1,15 @@
+id: confluence
+name: Confluence
+category: productivity
+plan: Standard
+priceUsd: 5.42
+billing: month
+monthlyUsd: 5.42
+url: "https://www.atlassian.com/software/confluence"
+sourceUrl: "https://www.atlassian.com/software/confluence/pricing"
+priceCheckedAt: 2026-09-19
+domain: atlassian.com
+blurb: Atlassian team wiki and docs. Standard is the advertised US paid floor at $5.42/user/mo (annual list on Atlassian pricing).
+color: "#172B4D"
+simpleIconsSlug: confluence
+logo: logos/confluence.svg
