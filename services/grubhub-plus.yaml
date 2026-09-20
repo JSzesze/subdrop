@@ -12,7 +12,7 @@ domain: grubhub.com
 blurb: $0 delivery fees and lower service fees on eligible Grubhub orders.
 rank: 72
 color: "#FF5500"
-logo: logos/grubhub-plus.svg
+logo: logos/grubhub-plus.png
 aliases:
   - grubhub_plus
   - grubhub+
