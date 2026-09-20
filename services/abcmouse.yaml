@@ -1,0 +1,17 @@
+id: abcmouse
+name: ABCmouse
+category: education
+plan: Premium
+priceUsd: 14.99
+billing: month
+monthlyUsd: 14.99
+url: "https://www.abcmouse.com"
+sourceUrl: "https://www.abcmouse.com/learn/how-much-does-abcmouse-cost-subscription-plan-overview"
+priceCheckedAt: 2026-09-15
+domain: abcmouse.com
+blurb: Early-learning games and activities for kids. Premium monthly is the advertised US web default.
+rank: 260
+color: "#FFD200"
+logo: logos/abcmouse.png
+aliases:
+  - abc-mouse
