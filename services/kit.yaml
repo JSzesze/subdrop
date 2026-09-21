@@ -1,0 +1,17 @@
+id: kit
+name: Kit
+category: productivity
+plan: Creator (≤1k)
+priceUsd: 39
+billing: month
+monthlyUsd: 39
+url: "https://kit.com"
+sourceUrl: "https://help.kit.com/en/articles/4494683-creator-plan-vs-creator-pro-plan"
+priceCheckedAt: 2026-09-21
+domain: kit.com
+blurb: Creator email marketing (formerly ConvertKit). Creator starts at $39/mo for up to 1,000 subscribers per official Kit Help; pricing scales with list size.
+color: "#29ABE2"
+logo: logos/kit.png
+aliases:
+  - convertkit
+  - convert-kit
