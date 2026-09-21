@@ -1,0 +1,15 @@
+id: datacamp
+name: DataCamp
+category: education
+plan: Premium (annual)
+priceUsd: 168
+billing: year
+monthlyUsd: 14
+url: "https://www.datacamp.com"
+sourceUrl: "https://www.datacamp.com/pricing"
+priceCheckedAt: 2026-09-21
+domain: datacamp.com
+blurb: Interactive data science courses and certificates. Premium is the advertised US individual plan at $14/mo billed annually.
+color: "#03EF62"
+simpleIconsSlug: datacamp
+logo: logos/datacamp.svg
