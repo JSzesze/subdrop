@@ -1,0 +1,18 @@
+id: letterboxd-pro
+name: Letterboxd Pro
+category: social
+plan: Pro
+priceUsd: 18.99
+billing: year
+monthlyUsd: 1.58
+url: "https://letterboxd.com"
+sourceUrl: "https://apps.apple.com/us/app/letterboxd/id1054271011"
+priceCheckedAt: 2026-09-21
+domain: letterboxd.com
+blurb: Ad-free film diary with stats and streaming filters. Pro is the advertised US App Store annual plan at $18.99/yr (web list price is JS-gated).
+color: "#00E054"
+simpleIconsSlug: letterboxd
+logo: logos/letterboxd-pro.svg
+aliases:
+  - letterboxd
+  - letterboxd_pro

@@ -1,0 +1,15 @@
+id: postman
+name: Postman
+category: productivity
+plan: Solo (annual)
+priceUsd: 9
+billing: month
+monthlyUsd: 9
+url: "https://www.postman.com"
+sourceUrl: "https://www.postman.com/pricing/"
+priceCheckedAt: 2026-09-21
+domain: postman.com
+blurb: API client with AI credits and automation. Solo is the advertised US individual paid plan at $9/mo billed annually ($12/mo month-to-month).
+color: "#FF6C37"
+simpleIconsSlug: postman
+logo: logos/postman.svg
