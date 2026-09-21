@@ -1,0 +1,17 @@
+id: dropout
+name: Dropout
+category: streaming
+plan: Monthly
+priceUsd: 6.99
+billing: month
+monthlyUsd: 6.99
+url: "https://www.dropout.tv"
+sourceUrl: "https://www.dropout.tv/plans"
+priceCheckedAt: 2026-09-21
+domain: dropout.tv
+blurb: Unscripted comedy streaming from the CollegeHumor team. Monthly is the advertised US default at $6.99/mo (annual intro $55.99 then $69.99/yr).
+color: "#FFE600"
+logo: logos/dropout.png
+aliases:
+  - dropout-tv
+  - dropout_tv
