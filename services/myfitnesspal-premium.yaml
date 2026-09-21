@@ -1,0 +1,18 @@
+id: myfitnesspal-premium
+name: MyFitnessPal Premium
+category: fitness
+plan: Premium
+priceUsd: 79.99
+billing: year
+monthlyUsd: 6.67
+url: "https://www.myfitnesspal.com"
+sourceUrl: "https://www.myfitnesspal.com/premium"
+priceCheckedAt: 2026-09-21
+domain: myfitnesspal.com
+blurb: Ad-free calorie and macro tracking with barcode/voice logging. Premium is the advertised US starting paid plan at $79.99/yr ($6.67/mo); Premium+ is $99.99/yr.
+color: "#0070E0"
+logo: logos/myfitnesspal-premium.png
+aliases:
+  - myfitnesspal
+  - myfitnesspal_premium
+  - mfp-premium
