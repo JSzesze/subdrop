@@ -1,0 +1,16 @@
+id: fireflies
+name: Fireflies.ai
+category: productivity
+plan: Pro
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://fireflies.ai"
+sourceUrl: "https://fireflies.ai/pricing"
+priceCheckedAt: 2026-09-22
+domain: fireflies.ai
+blurb: AI meeting notes and transcription. Pro is $10/seat/mo billed annually ($18/seat/mo month-to-month).
+color: "#E72972"
+logo: logos/fireflies.png
+aliases:
+  - fireflies.ai
