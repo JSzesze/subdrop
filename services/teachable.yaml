@@ -1,0 +1,14 @@
+id: teachable
+name: Teachable
+category: education
+plan: Starter
+priceUsd: 29
+billing: month
+monthlyUsd: 29
+url: "https://teachable.com"
+sourceUrl: "https://teachable.com/pricing"
+priceCheckedAt: 2026-09-22
+domain: teachable.com
+blurb: Online course platform for creators. Starter is $29/mo billed annually ($39/mo month-to-month).
+color: "#E5FE32"
+logo: logos/teachable.png
