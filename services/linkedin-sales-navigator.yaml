@@ -1,0 +1,17 @@
+id: linkedin-sales-navigator
+name: LinkedIn Sales Navigator
+category: social
+plan: Core
+priceUsd: 119.99
+billing: month
+monthlyUsd: 119.99
+url: "https://business.linkedin.com/sales-solutions/sales-navigator"
+sourceUrl: "https://business.linkedin.com/sell/sales-navigator/compare-plans"
+priceCheckedAt: 2026-09-22
+domain: linkedin.com
+blurb: LinkedIn’s sales prospecting suite. Core is the advertised US floor at $119.99/license/mo (or $1,079.88/yr).
+color: "#0A66C2"
+simpleIconsSlug: linkedin
+logo: logos/linkedin-sales-navigator.png
+aliases:
+  - sales-navigator
