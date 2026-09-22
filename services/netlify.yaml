@@ -1,0 +1,15 @@
+id: netlify
+name: Netlify
+category: cloud
+plan: Personal
+priceUsd: 9
+billing: month
+monthlyUsd: 9
+url: "https://www.netlify.com"
+sourceUrl: "https://www.netlify.com/pricing/"
+priceCheckedAt: 2026-09-22
+domain: netlify.com
+blurb: Web deploy and hosting platform. Personal is the advertised starting paid plan at $9/mo.
+color: "#00C7B7"
+simpleIconsSlug: netlify
+logo: logos/netlify.svg
