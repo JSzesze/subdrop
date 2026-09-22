@@ -1,0 +1,15 @@
+id: sketch
+name: Sketch
+category: design
+plan: Standard
+priceUsd: 12
+billing: month
+monthlyUsd: 12
+url: "https://www.sketch.com"
+sourceUrl: "https://www.sketch.com/pricing/"
+priceCheckedAt: 2026-09-22
+domain: sketch.com
+blurb: Mac-native design tool with cloud collaboration. Standard is $12/editor/mo when billed yearly ($14/mo month-to-month) on sketch.com/pricing.
+color: "#F7B500"
+simpleIconsSlug: sketch
+logo: logos/sketch.svg
