@@ -1,0 +1,14 @@
+id: bamboohr
+name: BambooHR
+category: productivity
+plan: Core
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://www.bamboohr.com"
+sourceUrl: "https://www.bamboohr.com/pricing"
+priceCheckedAt: 2026-09-22
+domain: bamboohr.com
+blurb: All-in-one HR platform for growing teams. Core is the advertised US floor at $10 per employee per month.
+color: "#589C13"
+logo: logos/bamboohr.png
