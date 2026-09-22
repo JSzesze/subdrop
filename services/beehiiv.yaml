@@ -1,0 +1,14 @@
+id: beehiiv
+name: Beehiiv
+category: social
+plan: Scale
+priceUsd: 43
+billing: month
+monthlyUsd: 43
+url: "https://www.beehiiv.com"
+sourceUrl: "https://www.beehiiv.com/pricing"
+priceCheckedAt: 2026-09-22
+domain: beehiiv.com
+blurb: Newsletter platform for creators. Scale is the starting paid plan at $43/mo billed yearly ($49/mo month-to-month).
+color: "#C04898"
+logo: logos/beehiiv.png
