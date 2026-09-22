@@ -1,0 +1,14 @@
+id: epidemic-sound
+name: Epidemic Sound
+category: music
+plan: Creator
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.epidemicsound.com"
+sourceUrl: "https://www.epidemicsound.com/blog/musicbed-vs-epidemic-sound/"
+priceCheckedAt: 2026-09-22
+domain: epidemicsound.com
+blurb: Royalty-free music and SFX for creators. Creator is $9.99/mo billed yearly ($17.99 month-to-month) per Epidemic Sound’s official pricing comparison.
+color: "#000000"
+logo: logos/epidemic-sound.png
