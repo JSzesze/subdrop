@@ -1,0 +1,14 @@
+id: riverside
+name: Riverside
+category: productivity
+plan: Pro
+priceUsd: 24
+billing: month
+monthlyUsd: 24
+url: "https://riverside.fm"
+sourceUrl: "https://riverside.fm/pricing"
+priceCheckedAt: 2026-09-22
+domain: riverside.fm
+blurb: Remote podcast and video recording studio. Pro is $24/mo when billed yearly ($288/yr; $29/mo month-to-month) on riverside.fm/pricing.
+color: "#FF5050"
+logo: logos/riverside.png
