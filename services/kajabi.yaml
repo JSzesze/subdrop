@@ -1,0 +1,14 @@
+id: kajabi
+name: Kajabi
+category: education
+plan: Basic
+priceUsd: 143
+billing: month
+monthlyUsd: 143
+url: "https://kajabi.com"
+sourceUrl: "https://kajabi.com/pricing"
+priceCheckedAt: 2026-09-22
+domain: kajabi.com
+blurb: All-in-one creator course and membership platform. Basic is $143/mo when billed annually ($179/mo month-to-month).
+color: "#000000"
+logo: logos/kajabi.png
