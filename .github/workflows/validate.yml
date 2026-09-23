@@ -26,6 +26,17 @@ jobs:
       - name: Check published JSON shape
         run: python3 scripts/check-published.py dist/v1/catalog.json
 
+      - name: Check browse UI is static and uses the live catalog
+        run: |
+          test -f site/index.html
+          test -f site/browse.css
+          test -f site/browse.js
+          grep -q 'https://subdrop.repruv.com/v1/catalog.json' site/browse.js
+          if grep -E 'raw\.githubusercontent\.com|github\.com/.*/raw/' site/browse.js site/index.html; then
+            echo "Browse UI must not scrape git at runtime"
+            exit 1
+          fi
+
       - name: Upload build artifact
         uses: actions/upload-artifact@v4
         with:

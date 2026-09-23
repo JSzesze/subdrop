@@ -5,6 +5,34 @@ Public subscription catalog for US consumer services. **Git is the CMS** — one
 - [Product requirements](docs/PRD.md)
 - [Agent / contributor guide](AGENTS.md)
 
+## Browse
+
+Human-readable catalog at the same host. The page is static HTML/CSS/JS; it `fetch`es the live [`/v1/catalog.json`](https://subdrop.repruv.com/v1/catalog.json) in the browser (CORS `*`). No auth, no writes.
+
+| URL | Purpose |
+|-----|---------|
+| [`/index.html`](https://subdrop.repruv.com/index.html) | Browse UI (logo, name, plan, price; search + category; cards and table) |
+| [`/`](https://subdrop.repruv.com/) | Same page after the one-time URL Rewrite below (R2 has no index document) |
+
+Local preview: open `site/index.html` or `python3 -m http.server` from `site/`. Source lives in `site/`. Publish uploads those files to the R2 bucket **root** (`index.html`, `browse.css`, `browse.js`) and does not touch `/v1/*`.
+
+#### Cloudflare dashboard step (root `/`)
+
+R2 custom domains map keys 1:1. `GET /` is a 404 until something serves `index.html` there. After the first publish of this UI:
+
+1. **Rules → Transform Rules → Rewrite URL → Create rule**
+2. Name: `Subdrop root to browse UI`
+3. When incoming requests match (Edit expression):
+
+   ```
+   (http.host eq "subdrop.repruv.com" and http.request.uri.path eq "/")
+   ```
+
+4. Then: **Rewrite to** → Static path → `/index.html` (query string unchanged)
+5. Deploy. `GET /` should return the browse page; `/v1/catalog.json` stays the JSON dump.
+
+Publish also attempts an empty-key object (some R2 setups treat that as `/`). If that upload is rejected, the rewrite is the supported path. `/index.html` works either way.
+
 ## Public API
 
 Stable CDN host: `https://subdrop.repruv.com`
@@ -27,6 +55,7 @@ Stable CDN host: `https://subdrop.repruv.com`
 |-------|-----------------------------------|------------|
 | `/v1/catalog.json`, `/v1/meta.json` | `public, max-age=300, stale-while-revalidate=86400` | Needs Cache Rule (below) |
 | `/v1/schema.json` | `public, max-age=86400, stale-while-revalidate=604800` | Needs Cache Rule (below) |
+| `/index.html`, `/browse.css`, `/browse.js` | `public, max-age=300, stale-while-revalidate=86400` | Cached by default (html/css/js) |
 | `/logos/*` | `public, max-age=31536000, immutable` | Cached by default (svg/png/webp) |
 
 R2 already returns `ETag` and `Last-Modified`. Clients should send `If-None-Match` and handle **304**. Origin conditional GET works today even while the JSON path is `cf-cache-status: DYNAMIC`.
@@ -93,6 +122,7 @@ services/*.yaml       # one file per service
 schema/               # source + published JSON Schema
 scripts/              # validate + build (no deps)
 logos/                # brand marks (relative paths in YAML)
+site/                 # static browse UI (fetches live /v1/catalog.json)
 dist/v1/              # catalog.json, schema.json, meta.json (generated)
 ```
 

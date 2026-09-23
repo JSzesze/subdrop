@@ -70,3 +70,40 @@ jobs:
             --endpoint-url "$ENDPOINT" \
             --exclude "README.md" \
             --cache-control "public, max-age=31536000, immutable"
+
+      - name: Upload browse UI to R2 root
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+        run: |
+          # Static HTML/CSS/JS at the bucket root. /v1/* keys are unchanged.
+          # R2 custom domains map object keys 1:1, so /index.html works immediately.
+          # GET / 404s until a URL Rewrite maps `/` → `/index.html` (see README),
+          # or until an empty-key object is accepted by the bucket.
+          ENDPOINT="https://${R2_ACCOUNT_ID}.r2.cloudflarestorage.com"
+          HTML_CACHE="public, max-age=300, stale-while-revalidate=86400"
+          aws s3 cp site/index.html "s3://${R2_BUCKET_NAME}/index.html" \
+            --endpoint-url "$ENDPOINT" \
+            --content-type "text/html; charset=utf-8" \
+            --cache-control "$HTML_CACHE"
+          aws s3 cp site/browse.css "s3://${R2_BUCKET_NAME}/browse.css" \
+            --endpoint-url "$ENDPOINT" \
+            --content-type "text/css; charset=utf-8" \
+            --cache-control "$HTML_CACHE"
+          aws s3 cp site/browse.js "s3://${R2_BUCKET_NAME}/browse.js" \
+            --endpoint-url "$ENDPOINT" \
+            --content-type "text/javascript; charset=utf-8" \
+            --cache-control "$HTML_CACHE"
+          if aws s3api put-object \
+            --bucket "${R2_BUCKET_NAME}" \
+            --key "" \
+            --body site/index.html \
+            --content-type "text/html; charset=utf-8" \
+            --cache-control "$HTML_CACHE" \
+            --endpoint-url "$ENDPOINT"; then
+            echo "Uploaded empty-key object for GET /"
+          else
+            echo "Empty-key upload skipped or rejected; /index.html is published. Add the URL Rewrite in README if / still 404s."
+          fi
