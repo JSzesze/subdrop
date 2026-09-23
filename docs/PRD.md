@@ -73,8 +73,9 @@ flowchart LR
 | `scripts/check-published.py` | CI gate: published field shape |
 | `scripts/yaml_lite.py` | Dependency-free YAML subset |
 | `logos/` | Brand marks; relative paths in source |
+| `site/` | Static browse UI; fetches live `/v1/catalog.json` (not git) |
 | `.github/workflows/validate.yml` | PR + push validation |
-| `.github/workflows/publish.yml` | R2 upload of v1 JSON + logos |
+| `.github/workflows/publish.yml` | R2 upload of v1 JSON + logos + browse UI at bucket root |
 
 ---
 
@@ -178,7 +179,7 @@ Source repos never store `logoUrl`.
 `.github/workflows/publish.yml` runs on push to `main`:
 
 - Secrets: `R2_ACCOUNT_ID`, `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`, `R2_BUCKET_NAME`, `R2_PUBLIC_HOST`
-- Steps: validate → build with `--host` → upload `v1/catalog.json`, `v1/schema.json`, `v1/meta.json` + sync `logos/`
+- Steps: validate → build with `--host` → upload `v1/catalog.json`, `v1/schema.json`, `v1/meta.json` + sync `logos/` + upload `site/` to the bucket root (`index.html`, `browse.css`, `browse.js`)
 - Object `Cache-Control`: ~5 minutes on catalog/meta, 1 day on schema, 1 year immutable on logos
 - Edge HIT for JSON still requires the Cache Rule documented in the README
 

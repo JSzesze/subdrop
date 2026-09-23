@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Subdrop — US subscription catalog</title>
+    <meta
+      name="description"
+      content="Browse advertised US prices for consumer subscription services. Public CC0 catalog, live from /v1/catalog.json."
+    />
+    <link rel="stylesheet" href="browse.css" />
+  </head>
+  <body>
+    <header class="masthead">
+      <div class="masthead-row">
+        <p class="eyebrow">Public catalog · US / USD</p>
+        <nav class="api-nav" aria-label="API">
+          <a href="https://subdrop.repruv.com/v1/catalog.json">catalog.json</a>
+          <a href="https://subdrop.repruv.com/v1/schema.json">schema.json</a>
+          <a href="https://subdrop.repruv.com/v1/meta.json">meta.json</a>
+        </nav>
+      </div>
+      <h1>Subdrop</h1>
+      <p class="lede">
+        Advertised prices for popular consumer subscriptions. Read-only browse
+        of the live catalog — not a store and not a billing system.
+      </p>
+    </header>
+
+    <main>
+      <section class="toolbar" aria-label="Filters">
+        <label class="search">
+          <span class="sr-only">Search services</span>
+          <input
+            id="q"
+            type="search"
+            placeholder="Search name, plan, domain…"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </label>
+        <label>
+          <span class="sr-only">Category</span>
+          <select id="category">
+            <option value="">All categories</option>
+          </select>
+        </label>
+        <label>
+          <span class="sr-only">Billing period</span>
+          <select id="billing">
+            <option value="">All billing</option>
+            <option value="month">Monthly</option>
+            <option value="year">Yearly</option>
+            <option value="week">Weekly</option>
+          </select>
+        </label>
+        <label>
+          <span class="sr-only">Sort</span>
+          <select id="sort">
+            <option value="name:asc">Name A–Z</option>
+            <option value="name:desc">Name Z–A</option>
+            <option value="monthlyUsd:asc">Monthly $ ↑</option>
+            <option value="monthlyUsd:desc">Monthly $ ↓</option>
+            <option value="priceUsd:asc">Listed $ ↑</option>
+            <option value="priceUsd:desc">Listed $ ↓</option>
+            <option value="category:asc">Category</option>
+          </select>
+        </label>
+        <div class="view-toggle" role="group" aria-label="View">
+          <button type="button" id="view-cards" aria-pressed="true">Cards</button>
+          <button type="button" id="view-table" aria-pressed="false">Table</button>
+        </div>
+      </section>
+
+      <p id="status" class="status" aria-live="polite">Loading catalog…</p>
+
+      <noscript>
+        <p class="status error">
+          JavaScript is required to render the catalog. The live dump is
+          <a href="https://subdrop.repruv.com/v1/catalog.json">/v1/catalog.json</a>.
+        </p>
+      </noscript>
+
+      <div id="cards" class="cards" hidden></div>
+      <div id="table-wrap" class="table-wrap" hidden>
+        <table>
+          <thead>
+            <tr>
+              <th scope="col">Service</th>
+              <th scope="col"><button type="button" data-sort="category">Category</button></th>
+              <th scope="col"><button type="button" data-sort="plan">Plan</button></th>
+              <th scope="col" class="num"><button type="button" data-sort="priceUsd">Listed</button></th>
+              <th scope="col"><button type="button" data-sort="billing">Billing</button></th>
+              <th scope="col" class="num"><button type="button" data-sort="monthlyUsd">Monthly</button></th>
+            </tr>
+          </thead>
+          <tbody id="table-body"></tbody>
+        </table>
+      </div>
+    </main>
+
+    <footer>
+      <p>
+        Catalog data is
+        <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>
+        (public domain). Brand names, logos, and trademarks remain with their
+        owners and are shown only to identify the service.
+      </p>
+      <p>
+        Source of truth:
+        <a href="https://subdrop.repruv.com/v1/catalog.json">live API</a>
+        · curated in
+        <a href="https://github.com/JSzesze/subdrop">git</a>
+        · prices are advertised US list prices, not your bill.
+      </p>
+    </footer>
+    <script src="browse.js"></script>
+  </body>
+</html>
