@@ -1,0 +1,15 @@
+id: expensify
+name: Expensify
+category: productivity
+plan: Collect
+priceUsd: 5
+billing: month
+monthlyUsd: 5
+url: "https://www.expensify.com"
+sourceUrl: "https://help.expensify.com/articles/new-expensify/billing-and-subscriptions/explore-plans-subscriptions-and-pricing/Understand-Expensify-Pricing.html"
+priceCheckedAt: 2026-09-24
+domain: expensify.com
+blurb: Expense reports and cards for teams. Collect is $5 per unique member/month (pay-per-use).
+color: "#018F47"
+simpleIconsSlug: expensify
+logo: logos/expensify.svg
