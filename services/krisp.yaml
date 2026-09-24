@@ -1,0 +1,14 @@
+id: krisp
+name: Krisp
+category: productivity
+plan: Core
+priceUsd: 96
+billing: year
+monthlyUsd: 8
+url: "https://krisp.ai"
+sourceUrl: "https://krisp.ai/pricing"
+priceCheckedAt: 2026-09-24
+domain: krisp.ai
+blurb: AI noise cancellation and meeting notes. Core is $8/user/mo billed annually ($96/yr).
+color: "#1E1B4B"
+logo: logos/krisp.png
