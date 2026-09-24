@@ -1,0 +1,14 @@
+id: splice
+name: Splice
+category: music
+plan: Sounds+
+priceUsd: 155.88
+billing: year
+monthlyUsd: 12.99
+url: "https://splice.com"
+sourceUrl: "https://splice.com/plans"
+priceCheckedAt: 2026-09-24
+domain: splice.com
+blurb: Royalty-free sample library. Sounds+ is $12.99/mo billed yearly (~100 downloads/mo).
+color: "#0528F1"
+logo: logos/splice.png
