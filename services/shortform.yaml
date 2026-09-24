@@ -1,0 +1,14 @@
+id: shortform
+name: Shortform
+category: education
+plan: Annual
+priceUsd: 197
+billing: year
+monthlyUsd: 16.42
+url: "https://www.shortform.com"
+sourceUrl: "https://www.shortform.com/pricing"
+priceCheckedAt: 2026-09-24
+domain: shortform.com
+blurb: In-depth book and article guides with audio. Annual is $16.42/mo billed yearly ($197).
+color: "#FFC906"
+logo: logos/shortform.svg
