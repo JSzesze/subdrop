@@ -1,0 +1,14 @@
+id: pdf-expert
+name: PDF Expert
+category: productivity
+plan: Pro
+priceUsd: 79.99
+billing: year
+monthlyUsd: 6.67
+url: "https://pdfexpert.com"
+sourceUrl: "https://pdfexpert.com/pricing"
+priceCheckedAt: 2026-09-24
+domain: pdfexpert.com
+blurb: Apple-first PDF editor from Readdle. Pro is $79.99/yr across iPhone, iPad, and Mac.
+color: "#D60709"
+logo: logos/pdf-expert.png
