@@ -1,0 +1,14 @@
+id: feedly
+name: Feedly
+category: news
+plan: Pro
+priceUsd: 7.99
+billing: month
+monthlyUsd: 7.99
+url: "https://feedly.com"
+sourceUrl: "https://apps.apple.com/us/app/feedly-smart-news-reader/id396069556"
+priceCheckedAt: 2026-09-24
+domain: feedly.com
+blurb: Smart news reader with boards and priority. Pro is $7.99/mo on the US App Store.
+color: "#2BB24C"
+logo: logos/feedly.png
