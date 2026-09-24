@@ -1,0 +1,14 @@
+id: omnifocus
+name: OmniFocus
+category: productivity
+plan: Annual Subscription
+priceUsd: 99.99
+billing: year
+monthlyUsd: 8.33
+url: "https://www.omnigroup.com/omnifocus"
+sourceUrl: "https://www.omnigroup.com/omnifocus/buy"
+priceCheckedAt: 2026-09-24
+domain: omnigroup.com
+blurb: Pro task manager for Apple devices plus Web. Annual Subscription is $99.99/yr.
+color: "#893BFF"
+logo: logos/omnifocus.svg
