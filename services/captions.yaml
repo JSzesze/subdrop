@@ -1,0 +1,14 @@
+id: captions
+name: Captions
+category: software
+plan: Max
+priceUsd: 24.99
+billing: month
+monthlyUsd: 24.99
+url: "https://www.captions.ai"
+sourceUrl: "https://www.captions.ai/pricing"
+priceCheckedAt: 2026-09-24
+domain: captions.ai
+blurb: AI video editing and generative footage. Max (most popular) is $24.99/mo (iOS plans, USD).
+color: "#000000"
+logo: logos/captions.svg
