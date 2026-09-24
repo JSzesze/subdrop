@@ -1,0 +1,14 @@
+id: motion
+name: Motion
+category: productivity
+plan: Pro AI
+priceUsd: 228
+billing: year
+monthlyUsd: 19
+url: "https://www.usemotion.com"
+sourceUrl: "https://www.usemotion.com/pricing"
+priceCheckedAt: 2026-09-24
+domain: usemotion.com
+blurb: AI calendar and project manager. Pro AI is $19/seat/mo billed annually ($228/yr).
+color: "#5B4EFF"
+logo: logos/motion.png
