@@ -1,0 +1,14 @@
+id: heygen
+name: HeyGen
+category: software
+plan: Creator
+priceUsd: 288
+billing: year
+monthlyUsd: 24
+url: "https://www.heygen.com"
+sourceUrl: "https://www.heygen.com/pricing"
+priceCheckedAt: 2026-09-24
+domain: heygen.com
+blurb: AI avatar video creation. Creator is $24/mo billed annually ($288/yr); $29/mo monthly.
+color: "#000000"
+logo: logos/heygen.png
