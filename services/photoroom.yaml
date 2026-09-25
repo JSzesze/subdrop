@@ -1,0 +1,14 @@
+id: photoroom
+name: PhotoRoom
+category: photography
+plan: Pro
+priceUsd: 90
+billing: year
+monthlyUsd: 7.50
+url: "https://www.photoroom.com"
+sourceUrl: "https://www.photoroom.com/pricing"
+priceCheckedAt: 2026-09-24
+domain: photoroom.com
+blurb: AI product photo editor and background removal. Pro is $7.50/mo billed yearly ($90/yr).
+color: "#6C5CE7"
+logo: logos/photoroom.png
