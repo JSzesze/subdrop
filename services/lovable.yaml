@@ -1,0 +1,14 @@
+id: lovable
+name: Lovable
+category: ai
+plan: Pro
+priceUsd: 250
+billing: year
+monthlyUsd: 20.83
+url: "https://lovable.dev"
+sourceUrl: "https://lovable.dev/pricing"
+priceCheckedAt: 2026-09-25
+domain: lovable.dev
+blurb: AI app builder from chat prompts. Pro starts at $25/mo or $250/yr ($21/mo equivalent).
+color: "#FF6B6B"
+logo: logos/lovable.svg
