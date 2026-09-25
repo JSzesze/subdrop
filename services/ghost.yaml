@@ -1,0 +1,15 @@
+id: ghost
+name: Ghost
+category: software
+plan: Starter
+priceUsd: 180
+billing: year
+monthlyUsd: 15
+url: "https://ghost.org"
+sourceUrl: "https://ghost.org/pricing/"
+priceCheckedAt: 2026-09-24
+domain: ghost.org
+blurb: Managed Ghost(Pro) publishing for blogs and newsletters. Starter is $15/mo billed yearly.
+color: "#15171A"
+simpleIconsSlug: ghost
+logo: logos/ghost.svg
