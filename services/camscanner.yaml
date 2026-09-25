@@ -1,0 +1,14 @@
+id: camscanner
+name: CamScanner
+category: productivity
+plan: Premium
+priceUsd: 49.99
+billing: year
+monthlyUsd: 4.17
+url: "https://www.camscanner.com"
+sourceUrl: "https://apps.apple.com/us/app/camscanner-ocr-scanner/id388624839"
+priceCheckedAt: 2026-09-25
+domain: camscanner.com
+blurb: Mobile document scanner with OCR and cloud. Premium renews at $49.99/yr ($4.99/mo also offered).
+color: "#00A0E9"
+logo: logos/camscanner.png
