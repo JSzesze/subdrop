@@ -1,0 +1,14 @@
+id: mural
+name: Mural
+category: productivity
+plan: Team+
+priceUsd: 119.88
+billing: year
+monthlyUsd: 9.99
+url: "https://www.mural.co"
+sourceUrl: "https://www.mural.co/pricing"
+priceCheckedAt: 2026-09-25
+domain: mural.co
+blurb: Visual collaboration whiteboard. Team+ is $9.99/member/mo billed annually ($119.88/yr).
+color: "#FF4B4B"
+logo: logos/mural.svg

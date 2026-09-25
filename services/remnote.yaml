@@ -1,0 +1,14 @@
+id: remnote
+name: RemNote
+category: education
+plan: Pro
+priceUsd: 96
+billing: year
+monthlyUsd: 8
+url: "https://www.remnote.com"
+sourceUrl: "https://www.remnote.com/pricing"
+priceCheckedAt: 2026-09-25
+domain: remnote.com
+blurb: Notes and spaced-repetition flashcards. Pro is $8/mo billed yearly ($96/yr).
+color: "#E85D4C"
+logo: logos/remnote.png
