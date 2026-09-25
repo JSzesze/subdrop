@@ -1,0 +1,14 @@
+id: anytype
+name: Anytype
+category: productivity
+plan: Plus
+priceUsd: 4
+billing: month
+monthlyUsd: 4
+url: "https://anytype.io"
+sourceUrl: "https://anytype.io/pricing"
+priceCheckedAt: 2026-09-25
+domain: anytype.io
+blurb: Local-first encrypted knowledge base. Plus is $4/mo for 1 GB remote storage.
+color: "#FF6A7B"
+logo: logos/anytype.svg
