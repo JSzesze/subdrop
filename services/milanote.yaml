@@ -1,0 +1,14 @@
+id: milanote
+name: Milanote
+category: productivity
+plan: Pro
+priceUsd: 119.88
+billing: year
+monthlyUsd: 9.99
+url: "https://milanote.com"
+sourceUrl: "https://milanote.com/plans"
+priceCheckedAt: 2026-09-25
+domain: milanote.com
+blurb: Visual boards for creative projects. Pro is $9.99/mo billed annually ($12.50 monthly).
+color: "#31303A"
+logo: logos/milanote.svg
