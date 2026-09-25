@@ -1,0 +1,14 @@
+id: appflowy
+name: AppFlowy
+category: productivity
+plan: Pro
+priceUsd: 120
+billing: year
+monthlyUsd: 10
+url: "https://appflowy.com"
+sourceUrl: "https://appflowy.com/pricing"
+priceCheckedAt: 2026-09-25
+domain: appflowy.com
+blurb: Open-source AI workspace. Pro is $10/user/mo billed annually ($120/yr).
+color: "#8427E0"
+logo: logos/appflowy.svg
