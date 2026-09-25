@@ -1,0 +1,14 @@
+id: jotform
+name: Jotform
+category: productivity
+plan: Bronze
+priceUsd: 408
+billing: year
+monthlyUsd: 34
+url: "https://www.jotform.com"
+sourceUrl: "https://www.jotform.com/pricing/"
+priceCheckedAt: 2026-09-25
+domain: jotform.com
+blurb: Online form builder. Bronze list is $39/mo or $408/yr ($34/mo billed annually).
+color: "#FF6100"
+logo: logos/jotform.png
