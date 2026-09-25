@@ -1,0 +1,14 @@
+id: jasper
+name: Jasper
+category: software
+plan: Pro
+priceUsd: 708
+billing: year
+monthlyUsd: 59
+url: "https://www.jasper.ai"
+sourceUrl: "https://www.jasper.ai/pricing"
+priceCheckedAt: 2026-09-24
+domain: jasper.ai
+blurb: AI writing platform for marketers. Pro is $59/mo billed annually ($708/yr); $69/mo monthly.
+color: "#FA4028"
+logo: logos/jasper.png
