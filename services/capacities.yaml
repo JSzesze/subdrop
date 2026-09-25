@@ -1,0 +1,14 @@
+id: capacities
+name: Capacities
+category: productivity
+plan: Pro
+priceUsd: 119.88
+billing: year
+monthlyUsd: 9.99
+url: "https://capacities.io"
+sourceUrl: "https://capacities.io/pricing"
+priceCheckedAt: 2026-09-25
+domain: capacities.io
+blurb: Object-based notes with AI and calendar. Pro is $11.99/mo or $119.88/yr.
+color: "#5B5FEF"
+logo: logos/capacities.png
