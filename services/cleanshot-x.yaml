@@ -1,0 +1,14 @@
+id: cleanshot-x
+name: CleanShot X
+category: productivity
+plan: Pro
+priceUsd: 120
+billing: year
+monthlyUsd: 10
+url: "https://cleanshot.com"
+sourceUrl: "https://cleanshot.com/pricing"
+priceCheckedAt: 2026-09-28
+domain: cleanshot.com
+blurb: Mac screenshot and screen recording utility. Pro is $10/user/mo billed annually ($120/yr) with unlimited Cloud.
+color: "#3B82F6"
+logo: logos/cleanshot-x.png
