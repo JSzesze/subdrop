@@ -1,0 +1,14 @@
+id: heptabase
+name: Heptabase
+category: productivity
+plan: Pro
+priceUsd: 107.88
+billing: year
+monthlyUsd: 8.99
+url: "https://www.heptabase.com"
+sourceUrl: "https://www.heptabase.com/pricing"
+priceCheckedAt: 2026-09-28
+domain: heptabase.com
+blurb: Visual knowledge base for learning. Pro is $8.99/mo billed yearly ($107.88/yr).
+color: "#111111"
+logo: logos/heptabase.png
