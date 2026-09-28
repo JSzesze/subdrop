@@ -1,0 +1,14 @@
+id: freepik
+name: Freepik
+category: productivity
+plan: Premium
+priceUsd: 174
+billing: year
+monthlyUsd: 14.5
+url: "https://www.freepik.com"
+sourceUrl: "https://www.freepik.com/pricing"
+priceCheckedAt: 2026-09-28
+domain: freepik.com
+blurb: Stock assets and AI creative suite. Premium is $174/yr billed annually ($14.50/mo).
+color: "#1273EB"
+logo: logos/freepik.svg
