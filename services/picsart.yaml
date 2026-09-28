@@ -1,0 +1,14 @@
+id: picsart
+name: Picsart
+category: productivity
+plan: Pro
+priceUsd: 126
+billing: year
+monthlyUsd: 10.5
+url: "https://picsart.com"
+sourceUrl: "https://picsart.com/pricing"
+priceCheckedAt: 2026-09-28
+domain: picsart.com
+blurb: AI photo and video editor. Pro is $10.50/mo billed yearly ($126/yr).
+color: "#C209C1"
+logo: logos/picsart.svg
