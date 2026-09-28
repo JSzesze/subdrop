@@ -1,0 +1,14 @@
+id: affine
+name: AFFiNE
+category: productivity
+plan: Pro
+priceUsd: 81
+billing: year
+monthlyUsd: 6.75
+url: "https://affine.pro"
+sourceUrl: "https://affine.pro/pricing"
+priceCheckedAt: 2026-09-28
+domain: affine.pro
+blurb: Local-first docs and whiteboard workspace. Pro is $6.75/mo billed annually ($81/yr).
+color: "#1E96EB"
+logo: logos/affine.svg
