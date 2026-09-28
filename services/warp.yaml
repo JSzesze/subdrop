@@ -1,0 +1,14 @@
+id: warp
+name: Warp
+category: developer
+plan: Build
+priceUsd: 20
+billing: month
+monthlyUsd: 20
+url: "https://www.warp.dev"
+sourceUrl: "https://www.warp.dev/pricing"
+priceCheckedAt: 2026-09-28
+domain: warp.dev
+blurb: AI-native terminal. Build starts at $20/mo with 1,500 included agent credits (pay-as-you-go).
+color: "#01A4FF"
+logo: logos/warp.svg

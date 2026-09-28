@@ -26,3 +26,5 @@
   label: Social
 - id: finance
   label: Finance
+- id: developer
+  label: Developer
