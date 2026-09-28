@@ -1,0 +1,14 @@
+id: kiwico
+name: KiwiCo
+category: education
+plan: Monthly Crate
+priceUsd: 24
+billing: month
+monthlyUsd: 24
+url: "https://www.kiwico.com"
+sourceUrl: "https://www.kiwico.com/monthly-science-kits-for-kids"
+priceCheckedAt: 2026-09-28
+domain: kiwico.com
+blurb: Kids STEAM project crate subscription. Most lines start at $24/mo with free US shipping.
+color: "#7AC143"
+logo: logos/kiwico.png
