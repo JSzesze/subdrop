@@ -1,0 +1,14 @@
+id: tailscale
+name: Tailscale
+category: developer
+plan: Standard
+priceUsd: 8
+billing: month
+monthlyUsd: 8
+url: "https://tailscale.com"
+sourceUrl: "https://tailscale.com/pricing"
+priceCheckedAt: 2026-09-28
+domain: tailscale.com
+blurb: Zero-config WireGuard mesh VPN. Standard is $8/user/mo for teams.
+color: "#242424"
+logo: logos/tailscale.svg
