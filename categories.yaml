@@ -28,3 +28,5 @@
   label: Finance
 - id: developer
   label: Developer
+- id: design
+  label: Design
