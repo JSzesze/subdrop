@@ -1,0 +1,15 @@
+id: render
+name: Render
+category: cloud
+plan: Pro
+priceUsd: 25
+billing: month
+monthlyUsd: 25
+url: "https://render.com"
+sourceUrl: "https://render.com/pricing"
+priceCheckedAt: 2026-09-29
+domain: render.com
+blurb: Cloud hosting for web services, Postgres, and workers. Pro is $25/mo workspace plus compute.
+color: "#8A05FF"
+simpleIconsSlug: render
+logo: logos/render.svg
