@@ -1,0 +1,14 @@
+id: sunsama
+name: Sunsama
+category: productivity
+plan: Pro
+priceUsd: 204
+billing: year
+monthlyUsd: 17
+url: "https://www.sunsama.com"
+sourceUrl: "https://www.sunsama.com/pricing"
+priceCheckedAt: 2026-09-29
+domain: sunsama.com
+blurb: Daily planner that pulls tasks from your tools. Pro is $17/person/mo billed yearly ($204/yr).
+color: "#F37D4E"
+logo: logos/sunsama.png
