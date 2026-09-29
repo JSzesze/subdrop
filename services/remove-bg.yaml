@@ -1,0 +1,14 @@
+id: remove-bg
+name: remove.bg
+category: design
+plan: Personal
+priceUsd: 108
+billing: year
+monthlyUsd: 9
+url: "https://www.remove.bg"
+sourceUrl: "https://www.remove.bg/pricing"
+priceCheckedAt: 2026-09-29
+domain: remove.bg
+blurb: AI background removal for images. Personal subscription is $9/mo billed yearly ($108/yr).
+color: "#FFC83E"
+logo: logos/remove-bg.png
