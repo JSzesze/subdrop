@@ -1,0 +1,14 @@
+id: morgen
+name: Morgen
+category: productivity
+plan: Individual
+priceUsd: 180
+billing: year
+monthlyUsd: 15
+url: "https://www.morgen.so"
+sourceUrl: "https://www.morgen.so/pricing"
+priceCheckedAt: 2026-09-29
+domain: morgen.so
+blurb: Unified calendar and daily planner. Individual is $15/mo billed yearly ($180/yr).
+color: "#F99AA9"
+logo: logos/morgen.png
