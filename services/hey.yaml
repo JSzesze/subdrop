@@ -1,0 +1,14 @@
+id: hey
+name: HEY
+category: productivity
+plan: HEY
+priceUsd: 99
+billing: year
+monthlyUsd: 8.25
+url: "https://www.hey.com"
+sourceUrl: "https://www.hey.com/pricing"
+priceCheckedAt: 2026-09-29
+domain: hey.com
+blurb: Email and calendar from 37signals. HEY personal is $99/year.
+color: "#5522F9"
+logo: logos/hey.png
