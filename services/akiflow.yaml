@@ -1,0 +1,14 @@
+id: akiflow
+name: Akiflow
+category: productivity
+plan: Pro
+priceUsd: 228
+billing: year
+monthlyUsd: 19
+url: "https://akiflow.com"
+sourceUrl: "https://akiflow.com/pricing"
+priceCheckedAt: 2026-09-29
+domain: akiflow.com
+blurb: Time-blocking planner and calendar inbox. Pro is $19/mo billed yearly ($228/yr).
+color: "#6C5CE7"
+logo: logos/akiflow.png
