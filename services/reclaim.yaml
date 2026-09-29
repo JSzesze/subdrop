@@ -1,0 +1,14 @@
+id: reclaim
+name: Reclaim
+category: productivity
+plan: Starter
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://reclaim.ai"
+sourceUrl: "https://reclaim.ai/pricing"
+priceCheckedAt: 2026-09-29
+domain: reclaim.ai
+blurb: AI calendar scheduling for habits and tasks. Starter is $10/seat/mo on annual billing.
+color: "#5267EA"
+logo: logos/reclaim.png
