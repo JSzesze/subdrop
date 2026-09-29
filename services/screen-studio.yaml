@@ -1,0 +1,14 @@
+id: screen-studio
+name: Screen Studio
+category: productivity
+plan: Monthly
+priceUsd: 29
+billing: month
+monthlyUsd: 29
+url: "https://www.screen.studio"
+sourceUrl: "https://www.screen.studio"
+priceCheckedAt: 2026-09-29
+domain: screen.studio
+blurb: Mac screen recorder with automatic zoom and smooth cursor animations. Monthly is $29/mo (schema.org Offer on homepage).
+color: "#752EC4"
+logo: logos/screen-studio.png
