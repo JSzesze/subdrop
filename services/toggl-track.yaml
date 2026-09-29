@@ -1,0 +1,14 @@
+id: toggl-track
+name: Toggl Track
+category: productivity
+plan: Starter
+priceUsd: 9
+billing: month
+monthlyUsd: 9
+url: "https://toggl.com/track"
+sourceUrl: "https://toggl.com/track/pricing"
+priceCheckedAt: 2026-09-29
+domain: toggl.com
+blurb: Time tracking for individuals and teams. Starter is $9/user/mo on annual billing.
+color: "#E57CD8"
+logo: logos/toggl-track.png
