@@ -1,0 +1,14 @@
+id: pixelcut
+name: Pixelcut
+category: design
+plan: Pro
+priceUsd: 96
+billing: year
+monthlyUsd: 8
+url: "https://www.pixelcut.ai"
+sourceUrl: "https://www.pixelcut.ai/pricing"
+priceCheckedAt: 2026-09-29
+domain: pixelcut.ai
+blurb: AI photo editor for product shots and backgrounds. Pro is $8/mo billed yearly ($96/yr).
+color: "#5B5CFF"
+logo: logos/pixelcut.png
