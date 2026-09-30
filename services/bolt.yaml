@@ -1,0 +1,14 @@
+id: bolt
+name: Bolt
+category: ai
+plan: Pro
+priceUsd: 25
+billing: month
+monthlyUsd: 25
+url: "https://bolt.new"
+sourceUrl: "https://bolt.new/pricing"
+priceCheckedAt: 2026-09-30
+domain: bolt.new
+blurb: AI full-stack app and website builder by StackBlitz. Pro is $25/mo billed monthly.
+color: "#16181D"
+logo: logos/bolt.svg
