@@ -1,0 +1,14 @@
+id: v0
+name: v0
+category: ai
+plan: Plus
+priceUsd: 30
+billing: month
+monthlyUsd: 30
+url: "https://v0.dev"
+sourceUrl: "https://v0.dev/pricing"
+priceCheckedAt: 2026-09-30
+domain: v0.dev
+blurb: Vercel AI UI builder. Plus is $30/user/mo with $30 of included monthly credits.
+color: "#000000"
+logo: logos/v0.svg
