@@ -1,0 +1,17 @@
+id: luma-ai
+name: Luma AI
+category: ai
+plan: Plus
+priceUsd: 300
+billing: year
+monthlyUsd: 25
+url: "https://lumalabs.ai"
+sourceUrl: "https://lumalabs.ai/pricing"
+priceCheckedAt: 2026-09-30
+domain: lumalabs.ai
+blurb: AI video and image generation (Dream Machine). Plus is $300/yr ($25/mo equivalent) billed yearly.
+color: "#000000"
+logo: logos/luma-ai.png
+aliases:
+  - luma
+  - lumalabs
