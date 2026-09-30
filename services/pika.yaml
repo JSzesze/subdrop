@@ -1,0 +1,14 @@
+id: pika
+name: Pika
+category: ai
+plan: Starter
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://pika.art"
+sourceUrl: "https://pika.art/pricing"
+priceCheckedAt: 2026-09-30
+domain: pika.art
+blurb: AI video generation from text and images. Starter is $10/mo for 900 credits.
+color: "#FFFFFF"
+logo: logos/pika.svg
