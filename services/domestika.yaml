@@ -1,0 +1,14 @@
+id: domestika
+name: Domestika
+category: education
+plan: Plus
+priceUsd: 33.90
+billing: month
+monthlyUsd: 33.90
+url: "https://www.domestika.org"
+sourceUrl: "https://www.domestika.org/en/plus"
+priceCheckedAt: 2026-10-01
+domain: domestika.org
+blurb: Creative online courses with certificates. Plus Monthly is $33.90/mo for the free-to-watch catalog and course credits.
+color: "#F02D00"
+logo: logos/domestika.png
