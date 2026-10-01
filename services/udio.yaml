@@ -1,0 +1,14 @@
+id: udio
+name: Udio
+category: music
+plan: Standard
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://www.udio.com"
+sourceUrl: "https://www.udio.com/pricing"
+priceCheckedAt: 2026-10-01
+domain: udio.com
+blurb: AI music generation from text prompts. Standard is $10/mo for 2400 credits.
+color: "#E30B5D"
+logo: logos/udio.png
