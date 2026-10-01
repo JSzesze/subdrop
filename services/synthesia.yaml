@@ -1,0 +1,15 @@
+id: synthesia
+name: Synthesia
+category: ai
+plan: Starter
+priceUsd: 29
+billing: month
+monthlyUsd: 29
+url: "https://www.synthesia.io"
+sourceUrl: "https://www.synthesia.io/pricing"
+priceCheckedAt: 2026-10-01
+domain: synthesia.io
+blurb: AI avatar video platform. Starter is $29/mo billed monthly for credits and AI avatars.
+rank: 100
+color: "#3E57DA"
+logo: logos/synthesia.png
