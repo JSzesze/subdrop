@@ -1,0 +1,14 @@
+id: busuu
+name: Busuu
+category: education
+plan: Premium Plus
+priceUsd: 87.90
+billing: year
+monthlyUsd: 7.33
+url: "https://www.busuu.com"
+sourceUrl: "https://www.busuu.com/en/premium"
+priceCheckedAt: 2026-10-01
+domain: busuu.com
+blurb: Language learning with AI speaking practice. Premium Plus is $87.90/yr ($7.33/mo) on the 12-month plan.
+color: "#116EEE"
+logo: logos/busuu.png
