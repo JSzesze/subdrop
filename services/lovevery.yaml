@@ -1,0 +1,14 @@
+id: lovevery
+name: Lovevery
+category: kids
+plan: Play Kits
+priceUsd: 40
+billing: month
+monthlyUsd: 40
+url: "https://lovevery.com"
+sourceUrl: "https://help.lovevery.com/hc/en-us/articles/27689167356813-Why-does-the-price-change-after-The-Thinker-Play-Kit-months-11-12"
+priceCheckedAt: 2026-09-24
+domain: lovevery.com
+blurb: Developmental Play Kits for babies and toddlers. $80 every 2 months (0–12 mo) or $120 every 3 months (1+), both $40/mo.
+color: "#E85D04"
+logo: logos/lovevery.png
