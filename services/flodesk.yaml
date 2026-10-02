@@ -1,0 +1,14 @@
+id: flodesk
+name: Flodesk
+category: productivity
+plan: Lite
+priceUsd: 228
+billing: year
+monthlyUsd: 19
+url: "https://flodesk.com"
+sourceUrl: "https://flodesk.com/pricing"
+priceCheckedAt: 2026-10-02
+domain: flodesk.com
+blurb: Designer email marketing for creators. Lite starts at $19/mo billed annually (up to 1,000 subscribers).
+color: "#241A17"
+logo: logos/flodesk.svg
