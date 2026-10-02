@@ -1,0 +1,15 @@
+id: pocket-casts
+name: Pocket Casts
+category: music
+plan: Plus
+priceUsd: 39.99
+billing: year
+monthlyUsd: 3.33
+url: "https://pocketcasts.com"
+sourceUrl: "https://support.pocketcasts.com/knowledge-base/pocket-casts-plus-pricing/"
+priceCheckedAt: 2026-10-02
+domain: pocketcasts.com
+blurb: Podcast player with folders, bookmarks, and sync. Plus is $39.99/yr ($3.99/mo) for new subscribers.
+color: "#F43E37"
+simpleIconsSlug: pocketcasts
+logo: logos/pocket-casts.svg
