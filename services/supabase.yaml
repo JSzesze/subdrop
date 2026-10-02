@@ -1,0 +1,15 @@
+id: supabase
+name: Supabase
+category: cloud
+plan: Pro
+priceUsd: 25
+billing: month
+monthlyUsd: 25
+url: "https://supabase.com"
+sourceUrl: "https://supabase.com/pricing"
+priceCheckedAt: 2026-10-02
+domain: supabase.com
+blurb: Open-source Firebase alternative. Pro is from $25/mo including $10 compute credits for one Micro project.
+color: "#3FCF8E"
+simpleIconsSlug: supabase
+logo: logos/supabase.svg
