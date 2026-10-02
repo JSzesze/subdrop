@@ -1,0 +1,14 @@
+id: opus-clip
+name: Opus Clip
+category: ai
+plan: Starter
+priceUsd: 15
+billing: month
+monthlyUsd: 15
+url: "https://www.opus.pro"
+sourceUrl: "https://www.opus.pro/pricing"
+priceCheckedAt: 2026-10-02
+domain: opus.pro
+blurb: AI video clipping that turns long videos into shorts. Starter is $15/mo.
+color: "#111111"
+logo: logos/opus-clip.png
