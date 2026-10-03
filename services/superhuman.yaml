@@ -1,0 +1,18 @@
+id: superhuman
+name: Superhuman
+category: productivity
+plan: Starter (annual)
+priceUsd: 300
+billing: year
+monthlyUsd: 25
+url: "https://superhuman.com"
+sourceUrl: "https://superhuman.com/plans/mail"
+priceCheckedAt: 2026-08-31
+domain: superhuman.com
+blurb: Fast email client for power users. Starter is the advertised US default, billed annually per member.
+color: "#241013"
+logo: logos/superhuman.svg
+aliases:
+  - SUPERHUMAN.COM
+  - superhuman-mail
+  - superhuman_mail
