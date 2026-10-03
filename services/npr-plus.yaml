@@ -1,0 +1,17 @@
+id: npr-plus
+name: NPR+
+category: news
+plan: Bundle
+priceUsd: 8
+billing: month
+monthlyUsd: 8
+url: "https://plus.npr.org"
+sourceUrl: "https://plus.npr.org"
+priceCheckedAt: 2026-09-16
+domain: npr.org
+blurb: Sponsor-free NPR podcasts with bonus episodes and early access. Bundle is the advertised US minimum gift at $8/mo (or $96/yr) to a participating station or the NPR Network.
+color: "#DE1E3A"
+logo: logos/npr-plus.png
+aliases:
+  - npr_plus
+  - NPR Plus
