@@ -1,0 +1,16 @@
+id: goodnotes
+name: GoodNotes
+category: productivity
+plan: Essential (annual)
+priceUsd: 11.99
+billing: year
+monthlyUsd: 1.00
+url: "https://www.goodnotes.com"
+sourceUrl: "https://www.goodnotes.com/pricing"
+priceCheckedAt: 2026-09-07
+domain: goodnotes.com
+blurb: Digital handwriting and PDF note-taking app. Essential is the advertised US starting annual subscription for unlimited notebooks.
+color: "#00B5D6"
+logo: logos/goodnotes.svg
+aliases:
+  - GOODNOTES.COM
