@@ -1,0 +1,14 @@
+id: cutout-pro
+name: Cutout.Pro
+category: design
+plan: Subscription 170 credits
+priceUsd: 9.9
+billing: month
+monthlyUsd: 9.9
+url: "https://www.cutout.pro"
+sourceUrl: "https://www.cutout.pro/image-pricing"
+priceCheckedAt: 2026-10-05
+domain: cutout.pro
+blurb: AI background removal and photo editing. Default monthly subscription is $9.90/mo for 170 credits; cancel anytime.
+color: "#C550B7"
+logo: logos/cutout-pro.png
