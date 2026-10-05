@@ -1,0 +1,14 @@
+id: turboscribe
+name: TurboScribe
+category: ai
+plan: Unlimited
+priceUsd: 120
+billing: year
+monthlyUsd: 10
+url: "https://turboscribe.ai"
+sourceUrl: "https://turboscribe.ai/pricing"
+priceCheckedAt: 2026-10-05
+domain: turboscribe.ai
+blurb: AI audio and video transcription. Unlimited is $10/mo billed yearly ($120/yr).
+color: "#057AFF"
+logo: logos/turboscribe.svg
