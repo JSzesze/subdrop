@@ -1,0 +1,15 @@
+id: linktree
+name: Linktree
+category: social
+plan: Starter
+priceUsd: 72
+billing: year
+monthlyUsd: 6
+url: "https://linktr.ee"
+sourceUrl: "https://linktr.ee/s/pricing"
+priceCheckedAt: 2026-10-05
+domain: linktr.ee
+blurb: Link-in-bio pages for creators and brands. Starter is $6/mo billed annually ($72/yr), or $8 month-to-month.
+color: "#43E55E"
+simpleIconsSlug: linktree
+logo: logos/linktree.svg
