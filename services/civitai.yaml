@@ -1,0 +1,14 @@
+id: civitai
+name: Civitai
+category: ai
+plan: Bronze
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://civitai.com"
+sourceUrl: "https://civitai.com/pricing"
+priceCheckedAt: 2026-10-05
+domain: civitai.com
+blurb: Community hub for AI image models and generation. Bronze membership is $10/mo with 10,000 Buzz monthly and ad-free browsing.
+color: "#1272EF"
+logo: logos/civitai.png
