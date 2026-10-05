@@ -1,0 +1,15 @@
+id: vsco
+name: VSCO
+category: design
+plan: Plus
+priceUsd: 29.99
+billing: year
+monthlyUsd: 2.5
+url: "https://www.vsco.co"
+sourceUrl: "https://www.vsco.co/subscribe/plans"
+priceCheckedAt: 2026-10-05
+domain: vsco.co
+blurb: Photo and video editing app with presets and a creative community. Plus is $29.99/yr ($7.99 month-to-month); Pro is $59.99/yr.
+color: "#000000"
+simpleIconsSlug: vsco
+logo: logos/vsco.svg
