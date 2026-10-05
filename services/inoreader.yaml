@@ -1,0 +1,15 @@
+id: inoreader
+name: Inoreader
+category: news
+plan: Pro
+priceUsd: 90
+billing: year
+monthlyUsd: 7.5
+url: "https://www.inoreader.com"
+sourceUrl: "https://www.inoreader.com/pricing"
+priceCheckedAt: 2026-10-05
+domain: inoreader.com
+blurb: RSS and newsletter reader with rules, search, and AI summaries. Pro is $7.50/mo billed annually ($90/yr), or $9.99 month-to-month.
+color: "#1875F3"
+simpleIconsSlug: inoreader
+logo: logos/inoreader.svg
