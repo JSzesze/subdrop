@@ -1,0 +1,15 @@
+id: railway
+name: Railway
+category: cloud
+plan: Hobby
+priceUsd: 5
+billing: month
+monthlyUsd: 5
+url: "https://railway.com"
+sourceUrl: "https://railway.com/pricing"
+priceCheckedAt: 2026-10-05
+domain: railway.com
+blurb: App hosting and deploy platform. Hobby is a $5/mo minimum that includes $5 of usage; extra usage billed on top.
+color: "#0B0D0E"
+simpleIconsSlug: railway
+logo: logos/railway.svg
