@@ -1,0 +1,14 @@
+id: hailuo
+name: Hailuo AI
+category: ai
+plan: Standard
+priceUsd: 14.99
+billing: month
+monthlyUsd: 14.99
+url: "https://hailuoai.video"
+sourceUrl: "https://hailuoai.video/subscribe"
+priceCheckedAt: 2026-10-05
+domain: hailuoai.video
+blurb: MiniMax's AI video and image generator. Standard is $14.99/mo list (1,000 credits); a limited-time promo may show a lower first price.
+color: "#EC4357"
+logo: logos/hailuo.png
