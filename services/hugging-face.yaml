@@ -1,0 +1,15 @@
+id: hugging-face
+name: Hugging Face
+category: ai
+plan: PRO
+priceUsd: 9
+billing: month
+monthlyUsd: 9
+url: "https://huggingface.co"
+sourceUrl: "https://huggingface.co/pricing"
+priceCheckedAt: 2026-10-05
+domain: huggingface.co
+blurb: AI model hub and community. PRO account is $9/mo with more storage, ZeroGPU quota, and inference credits.
+color: "#FFD21E"
+simpleIconsSlug: huggingface
+logo: logos/hugging-face.svg
