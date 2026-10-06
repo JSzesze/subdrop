@@ -1,0 +1,14 @@
+id: finch
+name: Finch
+category: fitness
+plan: Plus
+priceUsd: 69.99
+billing: year
+monthlyUsd: 5.83
+url: "https://finchcare.com"
+sourceUrl: "https://help.finchcare.com/hc/en-us/articles/38755205001869-Finch-Plus-Pricing"
+priceCheckedAt: 2026-10-06
+domain: finchcare.com
+blurb: Self-care pet app with daily goals, journaling, and breathing exercises. Finch Plus is $69.99/yr ($9.99 month-to-month).
+color: "#72CAFC"
+logo: logos/finch.svg
