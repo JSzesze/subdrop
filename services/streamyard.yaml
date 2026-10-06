@@ -1,0 +1,14 @@
+id: streamyard
+name: StreamYard
+category: productivity
+plan: Core
+priceUsd: 44.99
+billing: month
+monthlyUsd: 44.99
+url: "https://streamyard.com"
+sourceUrl: "https://streamyard.com/pricing"
+priceCheckedAt: 2026-10-06
+domain: streamyard.com
+blurb: Browser-based live streaming and recording studio with multistreaming. Core is $44.99/mo month-to-month, or $35.99/mo billed yearly.
+color: "#1461E1"
+logo: logos/streamyard.svg
