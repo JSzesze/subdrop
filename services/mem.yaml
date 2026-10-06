@@ -1,0 +1,14 @@
+id: mem
+name: Mem
+category: productivity
+plan: Plus
+priceUsd: 9
+billing: month
+monthlyUsd: 9
+url: "https://get.mem.ai"
+sourceUrl: "https://get.mem.ai/pricing"
+priceCheckedAt: 2026-10-06
+domain: mem.ai
+blurb: AI note-taking app that organizes notes, conversations, and voice captures. Plus is $9/mo; Pro starts at $29/mo.
+color: "#FF5C45"
+logo: logos/mem.svg
