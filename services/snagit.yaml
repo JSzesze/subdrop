@@ -1,0 +1,14 @@
+id: snagit
+name: Snagit
+category: productivity
+plan: Individual
+priceUsd: 39
+billing: year
+monthlyUsd: 3.25
+url: "https://www.techsmith.com/snagit"
+sourceUrl: "https://www.techsmith.com/store/snagit"
+priceCheckedAt: 2026-10-06
+domain: techsmith.com
+blurb: TechSmith screen capture and screen recording tool with markup and templates. Snagit Individual is $39/yr per user, billed yearly.
+color: "#468CC3"
+logo: logos/snagit.svg
