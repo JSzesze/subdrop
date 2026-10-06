@@ -1,0 +1,14 @@
+id: roam-research
+name: Roam Research
+category: productivity
+plan: Pro
+priceUsd: 15
+billing: month
+monthlyUsd: 15
+url: "https://roamresearch.com"
+sourceUrl: "https://roamresearch.com"
+priceCheckedAt: 2026-10-06
+domain: roamresearch.com
+blurb: Networked note-taking app with bidirectional links, block references, and daily notes. Pro is $15/mo or $165/yr; Believer is $500 for 5 years.
+color: "#000000"
+logo: logos/roam-research.svg
