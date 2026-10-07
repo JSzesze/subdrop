@@ -1,0 +1,14 @@
+id: raindrop-io
+name: Raindrop.io
+category: productivity
+plan: Pro (yearly)
+priceUsd: 27.99
+billing: year
+monthlyUsd: 2.33
+url: "https://raindrop.io"
+sourceUrl: "https://apps.apple.com/us/app/raindrop-io/id1021913807"
+priceCheckedAt: 2026-10-07
+domain: raindrop.io
+blurb: All-in-one bookmark manager. Pro adds full-text search, a permanent web archive, AI suggestions, duplicate and broken-link finder, and daily backups.
+color: "#3169FF"
+logo: logos/raindrop-io.svg
