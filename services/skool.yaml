@@ -1,0 +1,14 @@
+id: skool
+name: Skool
+category: education
+plan: Hobby
+priceUsd: 9
+billing: month
+monthlyUsd: 9
+url: "https://www.skool.com"
+sourceUrl: "https://www.skool.com/pricing"
+priceCheckedAt: 2026-10-07
+domain: skool.com
+blurb: Community, courses, and live calls in one place for creators. Hobby is $9/mo with unlimited members and a 10% transaction fee.
+color: "#D3513E"
+logo: logos/skool.svg
