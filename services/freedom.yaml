@@ -1,0 +1,14 @@
+id: freedom
+name: Freedom
+category: productivity
+plan: Premium (monthly)
+priceUsd: 8.99
+billing: month
+monthlyUsd: 8.99
+url: "https://freedom.to"
+sourceUrl: "https://freedom.to/pricing"
+priceCheckedAt: 2026-10-07
+domain: freedom.to
+blurb: Cross-device website and app blocker for focus. Premium adds scheduling, recurring sessions, and Locked Mode; $8.99/mo month-to-month (yearly shown as $3.33/mo).
+color: "#92C181"
+logo: logos/freedom.svg
