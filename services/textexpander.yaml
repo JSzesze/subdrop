@@ -1,0 +1,14 @@
+id: textexpander
+name: TextExpander
+category: productivity
+plan: Pro (annual)
+priceUsd: 60
+billing: year
+monthlyUsd: 5
+url: "https://textexpander.com"
+sourceUrl: "https://textexpander.com/pricing"
+priceCheckedAt: 2026-10-07
+domain: textexpander.com
+blurb: Text-expansion snippets that turn abbreviations into full text across apps. Pro is billed annually at $60 per user.
+color: "#F89A2A"
+logo: logos/textexpander.svg
