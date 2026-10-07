@@ -1,0 +1,14 @@
+id: instapaper
+name: Instapaper
+category: productivity
+plan: Premium (monthly)
+priceUsd: 5.99
+billing: month
+monthlyUsd: 5.99
+url: "https://www.instapaper.com"
+sourceUrl: "https://www.instapaper.com/premium"
+priceCheckedAt: 2026-10-07
+domain: instapaper.com
+blurb: Read-it-later app for saving articles. Premium adds full-text search, a PDF reader, a permanent archive, and unlimited notes; $5.99/mo or $59.99/yr.
+color: "#000000"
+logo: logos/instapaper.svg
