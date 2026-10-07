@@ -1,0 +1,14 @@
+id: humble-choice
+name: Humble Choice
+category: gaming
+plan: Monthly
+priceUsd: 14.99
+billing: month
+monthlyUsd: 14.99
+url: "https://www.humblebundle.com/membership"
+sourceUrl: "https://www.humblebundle.com/membership"
+priceCheckedAt: 2026-10-07
+domain: humblebundle.com
+blurb: Humble Bundle's monthly PC game membership. Get a curated mix of games each month, Vault access, and store discounts for $14.99/mo.
+color: "#D0011B"
+logo: logos/humble-choice.svg
