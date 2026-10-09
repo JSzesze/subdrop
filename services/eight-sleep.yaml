@@ -1,0 +1,15 @@
+id: eight-sleep
+name: Eight Sleep
+category: fitness
+plan: Autopilot Standard
+priceUsd: 199
+billing: year
+monthlyUsd: 16.58
+url: "https://www.eightsleep.com"
+sourceUrl: "https://www.eightsleep.com/autopilot/"
+priceCheckedAt: 2026-10-09
+domain: eightsleep.com
+blurb: Autopilot subscription for the Eight Sleep Pod: dynamic temperature, sleep and health tracking. Standard is $199/yr ($17/mo equivalent).
+color: "#262729"
+simpleIconsSlug: eightsleep
+logo: logos/eight-sleep.svg
