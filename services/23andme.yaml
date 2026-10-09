@@ -1,0 +1,14 @@
+id: 23andme
+name: 23andMe
+category: shopping
+plan: Premium Ancestry + Health
+priceUsd: 99
+billing: year
+monthlyUsd: 8.25
+url: "https://www.23andme.org"
+sourceUrl: "https://www.23andme.org/shop/premium-ancestry-health/"
+priceCheckedAt: 2026-10-09
+domain: 23andme.org
+blurb: DNA ancestry and health reports with an annual membership. Premium Ancestry + Health is $199 the first year (kit included), then renews at $99/yr.
+color: "#D50F67"
+logo: logos/23andme.svg
