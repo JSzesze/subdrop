@@ -1,0 +1,18 @@
+id: duckduckgo-subscription
+name: DuckDuckGo Subscription
+category: security
+plan: Plus
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://duckduckgo.com/pro"
+sourceUrl: "https://duckduckgo.com/pro"
+priceCheckedAt: 2026-10-09
+domain: duckduckgo.com
+blurb: DuckDuckGo's privacy subscription (formerly Privacy Pro) with VPN, Personal Information Removal, Identity Theft Restoration, and Duck.ai. Plus is $9.99/mo or $99.99/yr.
+color: "#DE5833"
+simpleIconsSlug: duckduckgo
+logo: logos/duckduckgo.svg
+aliases:
+  - duckduckgo-privacy-pro
+  - DuckDuckGo Privacy Pro
