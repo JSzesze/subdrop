@@ -1,0 +1,14 @@
+id: thinkific
+name: Thinkific
+category: education
+plan: Basic
+priceUsd: 54
+billing: month
+monthlyUsd: 54
+url: "https://www.thinkific.com"
+sourceUrl: "https://www.thinkific.com/pricing/"
+priceCheckedAt: 2026-10-09
+domain: thinkific.com
+blurb: Course, community, and digital-product platform for creators. Basic is $54/mo billed monthly ($40/mo billed annually).
+color: "#271526"
+logo: logos/thinkific.svg
