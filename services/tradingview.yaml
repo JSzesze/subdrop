@@ -1,0 +1,15 @@
+id: tradingview
+name: TradingView
+category: finance
+plan: Essential
+priceUsd: 155.40
+billing: year
+monthlyUsd: 12.95
+url: "https://www.tradingview.com"
+sourceUrl: "https://www.tradingview.com/pricing/"
+priceCheckedAt: 2026-10-13
+domain: tradingview.com
+blurb: Charting and market analysis for retail traders. Essential is the entry paid plan at $12.95/mo billed annually ($155.40/yr; $14.95/mo month-to-month).
+color: "#131622"
+simpleIconsSlug: tradingview
+logo: logos/tradingview.svg
