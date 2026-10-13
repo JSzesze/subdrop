@@ -1,0 +1,18 @@
+id: america-the-beautiful-pass
+name: America the Beautiful Pass
+category: shopping
+plan: Resident Annual Pass
+priceUsd: 80
+billing: year
+monthlyUsd: 6.67
+url: "https://www.nps.gov/planyourvisit/passes.htm"
+sourceUrl: "https://www.nps.gov/planyourvisit/passes.htm"
+priceCheckedAt: 2026-10-13
+domain: nps.gov
+blurb: Interagency annual pass for US national parks and federal recreational lands. Resident Annual Pass is $80/yr for US citizens and residents (Non-Resident Annual is $250).
+color: "#A3693A"
+logo: logos/america-the-beautiful-pass.svg
+aliases:
+  - america-the-beautiful
+  - national-parks-pass
+  - interagency-annual-pass
