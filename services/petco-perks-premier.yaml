@@ -1,0 +1,18 @@
+id: petco-perks-premier
+name: Petco Perks Premier
+category: shopping
+plan: Dog/Cat
+priceUsd: 24.99
+billing: month
+monthlyUsd: 24.99
+url: "https://www.petco.com"
+sourceUrl: "https://corporate.petco.com/petco-perks"
+priceCheckedAt: 2026-09-16
+domain: petco.com
+blurb: Paid Petco membership with monthly Petco Cash and pet discounts. Dog/Cat is the advertised US Premier plan at $24.99/mo (annual commitment; small-pet plans $9.99/mo).
+color: "#001952"
+logo: logos/petco-perks-premier.png
+aliases:
+  - petco_perks_premier
+  - vital-care-premier
+  - Petco Vital Care Premier
