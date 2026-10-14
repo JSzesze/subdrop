@@ -1,0 +1,18 @@
+id: oreilly
+name: "O'Reilly"
+category: education
+plan: Individual
+priceUsd: 499
+billing: year
+monthlyUsd: 41.58
+url: "https://www.oreilly.com"
+sourceUrl: "https://www.oreilly.com/online-learning/pricing.html"
+priceCheckedAt: 2026-10-14
+domain: oreilly.com
+blurb: Technical books, courses, and live learning for developers. Individual is the advertised US personal plan at $499/yr ($49/mo month-to-month).
+color: "#D3002D"
+simpleIconsSlug: oreilly
+logo: logos/oreilly.svg
+aliases:
+  - oreilly-learning
+  - o_reilly
