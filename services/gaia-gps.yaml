@@ -1,0 +1,17 @@
+id: gaia-gps
+name: Gaia GPS
+category: fitness
+plan: Premium
+priceUsd: 59.90
+billing: year
+monthlyUsd: 4.99
+url: "https://www.gaiagps.com"
+sourceUrl: "https://apps.apple.com/us/app/gaia-gps-hiking-maps-trails/id1201979492"
+priceCheckedAt: 2026-10-14
+domain: gaiagps.com
+blurb: Offline outdoor maps and navigation for hiking. Premium is the US annual maps plan at $59.90/yr after trial (Outside+ bundle is higher).
+color: "#266338"
+logo: logos/gaia-gps.svg
+aliases:
+  - gaiagps
+  - gaia_gps
