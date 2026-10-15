@@ -1,0 +1,14 @@
+id: tonal
+name: Tonal
+category: fitness
+plan: Membership
+priceUsd: 59.95
+billing: month
+monthlyUsd: 59.95
+url: "https://www.tonal.com"
+sourceUrl: "https://www.tonal.com/membership/"
+priceCheckedAt: 2026-10-15
+domain: tonal.com
+blurb: Digital-weight home strength trainer with coached programs. The membership is $59.95/mo plus tax for the whole household, with a 12-month initial commitment (hardware sold separately).
+color: "#000000"
+logo: logos/tonal.svg
