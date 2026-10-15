@@ -1,0 +1,14 @@
+id: dc-universe-infinite
+name: DC Universe Infinite
+category: news
+plan: Standard (monthly)
+priceUsd: 7.99
+billing: month
+monthlyUsd: 7.99
+url: "https://www.dcuniverseinfinite.com"
+sourceUrl: "https://www.dcuniverseinfinite.com"
+priceCheckedAt: 2026-10-15
+domain: dcuniverseinfinite.com
+blurb: DC's digital comics library of 27,000+ issues, with new comics six months after they hit shops. Standard is $7.99/mo or $74.99/yr. Ultra ($119.99/yr) adds comics one month after release.
+color: "#0074E8"
+logo: logos/dc-universe-infinite.svg
