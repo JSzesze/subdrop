@@ -1,0 +1,14 @@
+id: yousician
+name: Yousician
+category: education
+plan: Premium (yearly)
+priceUsd: 119.99
+billing: year
+monthlyUsd: 10
+url: "https://yousician.com"
+sourceUrl: "https://apps.apple.com/us/app/yousician-learn-play-guitar/id959883039"
+priceCheckedAt: 2026-10-15
+domain: yousician.com
+blurb: Interactive guitar, piano, bass, ukulele, and singing lessons that listen as you play. Premium (one instrument) is $119.99/yr in the US App Store ($19.99/mo month-to-month); Premium+ covers all instruments.
+color: "#00D296"
+logo: logos/yousician.svg
