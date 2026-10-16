@@ -1,0 +1,19 @@
+id: filmora
+name: Filmora
+category: productivity
+plan: Basic
+priceUsd: 49.99
+billing: year
+monthlyUsd: 4.17
+url: "https://filmora.wondershare.com"
+sourceUrl: "https://filmora.wondershare.com/shop/buy/buy-video-editor.html"
+priceCheckedAt: 2026-10-16
+domain: filmora.wondershare.com
+blurb: Wondershare's consumer video editor for Windows and Mac. Basic is US$49.99/yr (auto-renews, no watermark, 4K export); Advanced is US$59.99/yr with 1,000 AI credits/mo, and a Perpetual license is also sold.
+color: "#203D51"
+simpleIconsSlug: wondersharefilmora
+logo: logos/filmora.svg
+aliases:
+  - wondershare-filmora
+  - wondershare_filmora
+  - wondershare filmora
