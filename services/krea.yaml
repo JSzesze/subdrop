@@ -1,0 +1,14 @@
+id: krea
+name: Krea
+category: ai
+plan: Basic
+priceUsd: 9
+billing: month
+monthlyUsd: 9
+url: "https://www.krea.ai"
+sourceUrl: "https://www.krea.ai/pricing"
+priceCheckedAt: 2026-10-06
+domain: krea.ai
+blurb: AI image and video generation suite with real-time canvas, upscaling, and LoRA training. Basic is $9/mo with 5,000 units; yearly billing is about 40% less.
+color: "#000000"
+logo: logos/krea.svg
