@@ -1,0 +1,19 @@
+id: digitalocean
+name: DigitalOcean
+category: cloud
+plan: Basic Droplet
+priceUsd: 4
+billing: month
+monthlyUsd: 4
+url: "https://www.digitalocean.com"
+sourceUrl: "https://www.digitalocean.com/pricing"
+priceCheckedAt: 2026-10-19
+domain: digitalocean.com
+blurb: Developer cloud for virtual machines, managed databases, and app hosting. Basic Droplets start at $4/mo (per-second billing up to the monthly cap); larger Droplets and other products are billed on top.
+color: "#0080FF"
+simpleIconsSlug: digitalocean
+logo: logos/digitalocean.svg
+aliases:
+  - digital-ocean
+  - digital_ocean
+  - DIGITALOCEAN.COM
