@@ -1,0 +1,17 @@
+id: claude-max
+name: Claude Max
+category: ai
+plan: Max 5x
+priceUsd: 100
+billing: month
+monthlyUsd: 100
+url: "https://claude.ai"
+sourceUrl: "https://claude.com/pricing"
+priceCheckedAt: 2026-10-19
+domain: claude.ai
+blurb: Anthropic's top individual Claude tier for people who use Claude all day. Everything in Pro plus 5x or 20x Pro's usage, billed monthly; Max 5x is the advertised "From $100" entry plan.
+color: "#D97757"
+simpleIconsSlug: claude
+logo: logos/claude-max.svg
+aliases:
+  - claude_max
