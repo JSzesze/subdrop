@@ -1,0 +1,17 @@
+id: ground-news
+name: Ground News
+category: news
+plan: Vantage
+priceUsd: 99.99
+billing: year
+monthlyUsd: 8.33
+url: "https://ground.news"
+sourceUrl: "https://apps.apple.com/us/app/ground-news/id1324203419"
+priceCheckedAt: 2026-10-19
+domain: ground.news
+blurb: News aggregator that compares left, center, and right coverage with bias and factuality ratings. Vantage is the advertised plan at $8.33/mo billed annually ($99.99/yr); Pro and Premium are cheaper tiers.
+color: "#262626"
+logo: logos/ground-news.svg
+aliases:
+  - groundnews
+  - ground_news
