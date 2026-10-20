@@ -1,0 +1,17 @@
+id: hallow
+name: Hallow
+category: fitness
+plan: Yearly
+priceUsd: 69.99
+billing: year
+monthlyUsd: 5.83
+url: "https://hallow.com"
+sourceUrl: "https://apps.apple.com/us/app/hallow-prayer-meditation/id1405323394"
+priceCheckedAt: 2026-10-20
+domain: hallow.com
+blurb: Catholic prayer and meditation app with guided prayers, the Rosary, Bible readings, sleep content, and daily challenges. $69.99/yr or $9.99/mo.
+color: "#6D0EC1"
+logo: logos/hallow.svg
+aliases:
+  - hallow-app
+  - Hallow Inc
