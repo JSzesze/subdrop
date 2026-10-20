@@ -1,0 +1,17 @@
+id: world-of-warcraft
+name: World of Warcraft
+category: gaming
+plan: 1 Month
+priceUsd: 14.99
+billing: month
+monthlyUsd: 14.99
+url: "https://worldofwarcraft.blizzard.com/en-us/"
+sourceUrl: "https://us.shop.battle.net/en-us/product/world-of-warcraft-subscription"
+priceCheckedAt: 2026-10-20
+domain: worldofwarcraft.blizzard.com
+blurb: Blizzard's MMORPG subscription, covering modern World of Warcraft plus WoW Classic and Mists of Pandaria Classic. $14.99/mo month-to-month; 3-, 6-, and 12-month plans cost less per month. Expansions sold separately.
+color: "#F4BF2A"
+logo: logos/world-of-warcraft.svg
+aliases:
+  - world_of_warcraft
+  - wow
