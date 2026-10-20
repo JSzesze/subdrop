@@ -1,0 +1,19 @@
+id: meta-horizon-plus
+name: Meta Horizon+
+category: gaming
+plan: Monthly
+priceUsd: 7.99
+billing: month
+monthlyUsd: 7.99
+url: "https://www.meta.com/meta-horizon-plus/"
+sourceUrl: "https://www.meta.com/blog/meta-horizon-plus-vr-subscription-service-october-orion-drift-demeo-x-dungeons-dragons-waltz-wizard/"
+priceCheckedAt: 2026-10-20
+domain: meta.com
+blurb: Meta Quest VR games subscription with a 100+ title catalog, two monthly games to keep, subscriber deals, and a starter edition of XBOX Game Pass. $7.99/mo or $59.99/yr.
+color: "#0467DF"
+simpleIconsSlug: meta
+logo: logos/meta-horizon-plus.svg
+aliases:
+  - meta_horizon_plus
+  - meta-quest-plus
+  - Meta Quest+
