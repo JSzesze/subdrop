@@ -1,0 +1,18 @@
+id: amazon-one-medical
+name: Amazon One Medical
+category: fitness
+plan: Membership
+priceUsd: 199
+billing: year
+monthlyUsd: 16.58
+url: "https://www.onemedical.com/membership/"
+sourceUrl: "https://www.onemedical.com/membership/"
+priceCheckedAt: 2026-10-20
+domain: onemedical.com
+blurb: Amazon's primary-care membership with same-day appointments, in-office and 24/7 virtual care, and app access to clinicians; works with insurance. $199/yr standard; Amazon Prime members can join for $99/yr.
+color: "#009E87"
+logo: logos/amazon-one-medical.svg
+aliases:
+  - amazon_one_medical
+  - one-medical
+  - One Medical
