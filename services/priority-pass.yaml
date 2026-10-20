@@ -1,0 +1,17 @@
+id: priority-pass
+name: Priority Pass
+category: shopping
+plan: Standard
+priceUsd: 99
+billing: year
+monthlyUsd: 8.25
+url: "https://www.prioritypass.com"
+sourceUrl: "https://www.prioritypass.com/join-prioritypass"
+priceCheckedAt: 2026-10-20
+domain: prioritypass.com
+blurb: Airport lounge access membership with 1,900+ lounges and travel experiences worldwide. Standard is $99/yr plus US$35 per member or guest visit; Standard Plus ($329/yr, 10 free visits) and Prestige ($469/yr, free member visits) cost more.
+color: "#A28639"
+logo: logos/priority-pass.svg
+aliases:
+  - priority_pass
+  - prioritypass
