@@ -1,0 +1,19 @@
+id: yahoo-mail-plus
+name: Yahoo Mail Plus
+category: productivity
+plan: Plus
+priceUsd: 5
+billing: month
+monthlyUsd: 5
+url: "https://mail.yahoo.com/plus/mail"
+sourceUrl: "https://mail.yahoo.com/plus/mail"
+priceCheckedAt: 2026-10-20
+domain: yahoo.com
+blurb: Paid Yahoo Mail tier with ad-free email, 200 GB of storage, up to 500 temporary email addresses, auto-forwarding, and an account that never expires for inactivity.
+color: "#6001D2"
+simpleIconsSlug: yahoo
+logo: logos/yahoo-mail-plus.svg
+aliases:
+  - yahoo_mail_plus
+  - yahoo-mail-pro
+  - Yahoo Mail Pro
