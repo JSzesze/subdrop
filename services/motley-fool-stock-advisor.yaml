@@ -1,0 +1,20 @@
+id: motley-fool-stock-advisor
+name: Motley Fool Stock Advisor
+category: finance
+plan: Stock Advisor
+priceUsd: 199
+billing: year
+monthlyUsd: 16.58
+url: "https://www.fool.com/services/stock-advisor/"
+sourceUrl: "https://www.fool.com/services/stock-advisor/"
+priceCheckedAt: 2026-10-20
+domain: fool.com
+blurb: The Motley Fool's flagship stock-picking newsletter with two new stock recommendations each month, stock rankings, and foundational picks. $199/yr list price ($99 introductory promo for new members); Epic and Epic Plus cost more.
+color: "#006BA6"
+logo: logos/motley-fool-stock-advisor.svg
+aliases:
+  - motley_fool_stock_advisor
+  - motley-fool
+  - stock-advisor
+  - The Motley Fool
+  - MOTLEY FOOL
