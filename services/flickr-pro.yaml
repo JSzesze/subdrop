@@ -1,0 +1,18 @@
+id: flickr-pro
+name: Flickr Pro
+category: cloud
+plan: Annual
+priceUsd: 82
+billing: year
+monthlyUsd: 6.83
+url: "https://www.flickr.com"
+sourceUrl: "https://www.flickr.com/registration/plan-selection"
+priceCheckedAt: 2026-10-21
+domain: flickr.com
+blurb: Flickr's paid photo-hosting plan, with unlimited full-resolution uploads, ad-free browsing, stats, and dedicated support. $82/yr; $11/mo month to month or $148 every two years.
+color: "#0063DC"
+logo: logos/flickr-pro.svg
+aliases:
+  - flickr_pro
+  - Flickr
+  - FLICKR.COM
