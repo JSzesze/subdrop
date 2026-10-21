@@ -1,0 +1,18 @@
+id: tesla-premium-connectivity
+name: Tesla Premium Connectivity
+category: streaming
+plan: Monthly
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.tesla.com/support/connectivity"
+sourceUrl: "https://www.tesla.com/support/connectivity"
+priceCheckedAt: 2026-10-21
+domain: tesla.com
+blurb: Tesla's in-car cellular data plan, with live traffic, satellite-view maps, Sentry Mode live camera, and music and video streaming over cellular. $9.99/mo or $99/yr plus tax.
+color: "#CC0000"
+logo: logos/tesla-premium-connectivity.svg
+aliases:
+  - tesla_premium_connectivity
+  - Tesla Connectivity
+  - Premium Connectivity
