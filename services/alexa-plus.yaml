@@ -1,0 +1,18 @@
+id: alexa-plus
+name: Alexa+
+category: ai
+plan: Standard
+priceUsd: 19.99
+billing: month
+monthlyUsd: 19.99
+url: "https://www.amazon.com/alexaplus"
+sourceUrl: "https://www.amazon.com/alexaplus"
+priceCheckedAt: 2026-10-21
+domain: amazon.com
+blurb: Amazon's generative-AI Alexa assistant. Free with Prime; the Standard plan for non-Prime households is $19.99/mo after a 30-day free trial.
+color: "#5FCAF4"
+logo: logos/alexa-plus.svg
+aliases:
+  - alexa_plus
+  - Alexa Plus
+  - Amazon Alexa+
