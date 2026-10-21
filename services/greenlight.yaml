@@ -1,0 +1,18 @@
+id: greenlight
+name: Greenlight
+category: finance
+plan: Core
+priceUsd: 5.99
+billing: month
+monthlyUsd: 5.99
+url: "https://greenlight.com"
+sourceUrl: "https://greenlight.com/plans"
+priceCheckedAt: 2026-10-21
+domain: greenlight.com
+blurb: Kids' debit card and money app for families, with cards for up to five kids, chores and allowance, and a financial literacy game. Core is $5.99/mo; Max, Infinity, and Family Shield cost more.
+color: "#00D9B4"
+logo: logos/greenlight.svg
+aliases:
+  - greenlight_core
+  - Greenlight Core
+  - GREENLIGHT.COM
