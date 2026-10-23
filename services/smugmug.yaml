@@ -1,0 +1,18 @@
+id: smugmug
+name: SmugMug
+category: cloud
+plan: Direct (Annual)
+priceUsd: 240
+billing: year
+monthlyUsd: 20
+url: "https://www.smugmug.com"
+sourceUrl: "https://www.smugmug.com/plans"
+priceCheckedAt: 2026-10-23
+domain: smugmug.com
+blurb: Photo hosting and sharing for photographers, with unlimited full-resolution storage, private galleries, and Lightroom integration. Direct is $20/mo billed annually.
+color: "#6DB944"
+simpleIconsSlug: smugmug
+logo: logos/smugmug.svg
+aliases:
+  - SmugMug
+  - SMUGMUG.COM
