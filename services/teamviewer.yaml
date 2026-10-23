@@ -1,0 +1,18 @@
+id: teamviewer
+name: TeamViewer
+category: productivity
+plan: Remote Access (Annual)
+priceUsd: 298.8
+billing: year
+monthlyUsd: 24.9
+url: "https://www.teamviewer.com"
+sourceUrl: "https://www.teamviewer.com/en-us/pricing/overview/"
+priceCheckedAt: 2026-10-23
+domain: teamviewer.com
+blurb: Remote desktop access to your own computers from anywhere. The single-user Remote Access plan covers up to 3 unattended devices for US$24.90/mo billed yearly.
+color: "#050A52"
+simpleIconsSlug: teamviewer
+logo: logos/teamviewer.svg
+aliases:
+  - TeamViewer
+  - TEAMVIEWER
