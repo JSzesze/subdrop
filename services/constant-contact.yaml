@@ -1,0 +1,18 @@
+id: constant-contact
+name: Constant Contact
+category: productivity
+plan: Lite
+priceUsd: 12
+billing: month
+monthlyUsd: 12
+url: "https://www.constantcontact.com"
+sourceUrl: "https://www.constantcontact.com/pricing"
+priceCheckedAt: 2026-10-16
+domain: constantcontact.com
+blurb: Email and social marketing for small businesses. Lite starts at $12/mo month-to-month (price scales with contact count); Standard starts at $35/mo and Premium at $80/mo, with up to 15% off for prepaying 12 months.
+color: "#1856ED"
+logo: logos/constant-contact.svg
+aliases:
+  - constantcontact
+  - constant_contact
+  - ctct
