@@ -1,0 +1,14 @@
+id: ifit
+name: iFIT
+category: fitness
+plan: Train
+priceUsd: 15
+billing: month
+monthlyUsd: 15
+url: "https://www.ifit.com"
+sourceUrl: "https://www.ifit.com/membership"
+priceCheckedAt: 2026-10-15
+domain: ifit.com
+blurb: Trainer-led workouts that auto-adjust NordicTrack and ProForm equipment. Train is $15/mo for phone/tablet with Bluetooth equipment. Pro is $39/mo for machines with built-in touchscreens (up to 5 users).
+color: "#000000"
+logo: logos/ifit.svg
