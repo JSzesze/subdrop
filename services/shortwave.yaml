@@ -1,0 +1,17 @@
+id: shortwave
+name: Shortwave
+category: productivity
+plan: Pro
+priceUsd: 18
+billing: month
+monthlyUsd: 18
+url: "https://www.shortwave.com"
+sourceUrl: "https://www.shortwave.com/pricing/"
+priceCheckedAt: 2026-10-16
+domain: shortwave.com
+blurb: AI-first email client for Gmail and Google Workspace. Pro is the individual plan at $18/mo billed monthly; Business ($30), Premier ($45), and Max ($120) are per seat per month, and there's a limited free tier.
+color: "#356AFF"
+logo: logos/shortwave.svg
+aliases:
+  - shortwave-email
+  - shortwave_email
