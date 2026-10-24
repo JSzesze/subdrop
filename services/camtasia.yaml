@@ -1,0 +1,14 @@
+id: camtasia
+name: Camtasia
+category: productivity
+plan: Essentials
+priceUsd: 179.88
+billing: year
+monthlyUsd: 14.99
+url: "https://www.techsmith.com/camtasia"
+sourceUrl: "https://www.techsmith.com/store/camtasia"
+priceCheckedAt: 2026-10-15
+domain: techsmith.com
+blurb: TechSmith screen recorder and video editor for tutorials and demos. Essentials (full Camtasia Editor, Audiate, and Snagit) is $179.88/yr billed yearly. Starter is $39/yr (watermarked editor); Create is $249/yr.
+color: "#4EA456"
+logo: logos/camtasia.svg
