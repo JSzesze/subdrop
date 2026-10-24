@@ -1,0 +1,14 @@
+id: whimsical
+name: Whimsical
+category: productivity
+plan: Pro
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://whimsical.com"
+sourceUrl: "https://whimsical.com/pricing"
+priceCheckedAt: 2026-09-25
+domain: whimsical.com
+blurb: Flowcharts, mind maps, and docs. Pro is $10/editor/mo with annual billing.
+color: "#4433FF"
+logo: logos/whimsical.svg
