@@ -1,0 +1,14 @@
+id: epic
+name: Epic!
+category: education
+plan: Family Annual
+priceUsd: 84.99
+billing: year
+monthlyUsd: 7.08
+url: "https://www.getepic.com"
+sourceUrl: "https://support.getepic.com/hc/en-us/articles/204259899-How-much-does-Epic-Family-cost"
+priceCheckedAt: 2026-09-28
+domain: getepic.com
+blurb: Kids digital library with 40k+ books and audiobooks. Family Annual is $84.99/yr (~$7.08/mo).
+color: "#1E90FF"
+logo: logos/epic.png
