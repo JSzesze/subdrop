@@ -1,0 +1,15 @@
+id: windsurf
+name: Windsurf
+category: software
+plan: Pro
+priceUsd: 20
+billing: month
+monthlyUsd: 20
+url: "https://windsurf.com"
+sourceUrl: "https://windsurf.com/pricing"
+priceCheckedAt: 2026-09-23
+domain: windsurf.com
+blurb: AI coding IDE (now on Devin plans). Pro is the advertised starting paid plan at $20/mo.
+color: "#0B100F"
+simpleIconsSlug: windsurf
+logo: logos/windsurf.svg
