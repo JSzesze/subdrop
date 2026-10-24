@@ -1,0 +1,14 @@
+id: incogni
+name: Incogni
+category: security
+plan: Standard
+priceUsd: 95.88
+billing: year
+monthlyUsd: 7.99
+url: "https://incogni.com"
+sourceUrl: "https://incogni.com/pricing"
+priceCheckedAt: 2026-09-23
+domain: incogni.com
+blurb: Automated personal data removal. Standard annual is $7.99/mo ($95.88 billed yearly).
+color: "#0047FF"
+logo: logos/incogni.png
