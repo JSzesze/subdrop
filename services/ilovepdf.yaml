@@ -1,0 +1,19 @@
+id: ilovepdf
+name: iLovePDF
+category: productivity
+plan: Premium (Annual)
+priceUsd: 60
+billing: year
+monthlyUsd: 5
+url: "https://www.ilovepdf.com"
+sourceUrl: "https://www.ilovepdf.com/pricing"
+priceCheckedAt: 2026-10-26
+domain: ilovepdf.com
+blurb: Online PDF toolkit for merging, splitting, compressing, converting, and signing. Premium unlocks every tool and unlimited processing for US$5/mo billed yearly.
+color: "#E5322D"
+simpleIconsSlug: ilovepdf
+logo: logos/ilovepdf.svg
+aliases:
+  - iLovePDF
+  - ILOVEPDF
+  - i love pdf
