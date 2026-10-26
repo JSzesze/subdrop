@@ -1,0 +1,19 @@
+id: going
+name: Going
+category: shopping
+plan: Premium (Annual)
+priceUsd: 49
+billing: year
+monthlyUsd: 4.08
+url: "https://www.going.com"
+sourceUrl: "https://www.going.com/premium"
+priceCheckedAt: 2026-10-26
+domain: going.com
+blurb: Cheap flight deal alerts (formerly Scott's Cheap Flights). Premium adds international economy deals, Mistake Fares, and custom alerts for US$49/yr.
+color: "#483CFF"
+logo: logos/going.svg
+aliases:
+  - Going.com
+  - GOING.COM
+  - scotts-cheap-flights
+  - Scott's Cheap Flights
