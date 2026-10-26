@@ -1,0 +1,18 @@
+id: quicken-classic
+name: Quicken Classic
+category: finance
+plan: Classic Premier (Annual)
+priceUsd: 107.88
+billing: year
+monthlyUsd: 8.99
+url: "https://www.quicken.com"
+sourceUrl: "https://www.quicken.com/products/pricing-comparison/"
+priceCheckedAt: 2026-10-26
+domain: quicken.com
+blurb: Desktop personal finance for Windows and Mac. Classic Premier adds investing tools and tax reports for US$8.99/mo billed yearly.
+color: "#EB0130"
+logo: logos/quicken-classic.svg
+aliases:
+  - quicken_classic
+  - Quicken Classic Premier
+  - Quicken Classic Deluxe
