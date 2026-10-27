@@ -1,0 +1,14 @@
+id: pcloud
+name: pCloud
+category: cloud
+plan: Premium 500 GB (Annual)
+priceUsd: 49.99
+billing: year
+monthlyUsd: 4.17
+url: "https://www.pcloud.com"
+sourceUrl: "https://www.pcloud.com/cloud-storage-pricing-plans.html"
+priceCheckedAt: 2026-10-27
+domain: pcloud.com
+blurb: Swiss cloud storage with optional client-side encryption. Premium is 500 GB for US$49.99/yr (lifetime plans also sold).
+color: "#17BED0"
+logo: logos/pcloud.svg
