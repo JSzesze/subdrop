@@ -1,0 +1,14 @@
+id: myheritage
+name: MyHeritage
+category: shopping
+plan: Complete
+priceUsd: 299
+billing: year
+monthlyUsd: 24.92
+url: "https://www.myheritage.com"
+sourceUrl: "https://www.myheritage.com/pricing"
+priceCheckedAt: 2026-10-15
+domain: myheritage.com
+blurb: Family trees, historical records, and DNA matching. Complete (enhanced tree plus all historical records) is $299/yr in the US ($199 first year). Premium is $129/yr and Omni is $399/yr.
+color: "#E76F2F"
+logo: logos/myheritage.svg
