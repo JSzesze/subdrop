@@ -1,0 +1,15 @@
+id: docker
+name: Docker
+category: developer
+plan: Pro (Annual)
+priceUsd: 108
+billing: year
+monthlyUsd: 9
+url: "https://www.docker.com"
+sourceUrl: "https://www.docker.com/pricing/"
+priceCheckedAt: 2026-10-27
+domain: docker.com
+blurb: Docker Desktop, Hub, and Scout for container development. Pro is US$9/mo billed yearly (US$11 month-to-month).
+color: "#2496ED"
+simpleIconsSlug: docker
+logo: logos/docker.svg
