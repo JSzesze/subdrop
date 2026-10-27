@@ -1,0 +1,15 @@
+id: heroku
+name: Heroku
+category: cloud
+plan: Eco Dynos
+priceUsd: 5
+billing: month
+monthlyUsd: 5
+url: "https://www.heroku.com"
+sourceUrl: "https://www.heroku.com/pricing"
+priceCheckedAt: 2026-10-27
+domain: heroku.com
+blurb: Salesforce's app platform for deploying web apps without managing servers. Eco is the entry dyno plan at US$5/mo.
+color: "#430098"
+simpleIconsSlug: heroku
+logo: logos/heroku.svg
