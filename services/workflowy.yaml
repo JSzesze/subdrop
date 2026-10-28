@@ -1,0 +1,14 @@
+id: workflowy
+name: Workflowy
+category: productivity
+plan: Pro (Annual)
+priceUsd: 83.88
+billing: year
+monthlyUsd: 6.99
+url: "https://workflowy.com"
+sourceUrl: "https://workflowy.com/pricing/"
+priceCheckedAt: 2026-10-28
+domain: workflowy.com
+blurb: Infinitely nested outliner for notes, lists, and projects. Pro is US$6.99/mo billed yearly (US$8.99 month-to-month); Basic is free with 100 nodes a month.
+color: "#47525B"
+logo: logos/workflowy.svg
