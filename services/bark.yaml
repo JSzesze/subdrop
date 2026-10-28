@@ -1,0 +1,17 @@
+id: bark
+name: Bark
+category: security
+plan: Bark App (Monthly)
+priceUsd: 14
+billing: month
+monthlyUsd: 14
+url: "https://www.bark.us"
+sourceUrl: "https://www.bark.us/pricing/"
+priceCheckedAt: 2026-10-28
+domain: bark.us
+blurb: Parental controls and content monitoring for kids' phones, tablets, and social accounts (not BarkBox). The Bark App is US$14/mo or US$99/yr for the whole family.
+color: "#1942D8"
+logo: logos/bark.svg
+aliases:
+  - bark-us
+  - bark-premium
