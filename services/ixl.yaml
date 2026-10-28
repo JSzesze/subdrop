@@ -1,0 +1,16 @@
+id: ixl
+name: IXL
+category: education
+plan: Single subject (Monthly)
+priceUsd: 9.95
+billing: month
+monthlyUsd: 9.95
+url: "https://www.ixl.com"
+sourceUrl: "https://www.ixl.com/membership/family/pricing"
+priceCheckedAt: 2026-10-28
+domain: ixl.com
+blurb: Pre-K to 12 practice in math, language arts, science, and social studies. A family membership starts at US$9.95/mo for a single subject (Combo US$15.95, Core subjects US$19.95).
+color: "#FFCA05"
+logo: logos/ixl.svg
+aliases:
+  - ixl-learning
