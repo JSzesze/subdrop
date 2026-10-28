@@ -1,0 +1,17 @@
+id: infuse
+name: Infuse
+category: streaming
+plan: Pro (Annual)
+priceUsd: 16.99
+billing: year
+monthlyUsd: 1.42
+url: "https://firecore.com/infuse"
+sourceUrl: "https://firecore.com/infuse"
+priceCheckedAt: 2026-10-28
+domain: firecore.com
+blurb: Video player for Apple devices that plays local files and Plex, Emby, and Jellyfin libraries. Infuse Pro is US$16.99/yr (US$1.99/mo or US$99.99 lifetime).
+color: "#FF8000"
+simpleIconsSlug: infuse
+logo: logos/infuse.svg
+aliases:
+  - infuse-pro
