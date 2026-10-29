@@ -1,0 +1,18 @@
+id: barnes-noble-premium
+name: Barnes & Noble Premium Membership
+category: shopping
+plan: Premium Membership
+priceUsd: 39.99
+billing: year
+monthlyUsd: 3.33
+url: "https://www.barnesandnoble.com/membership/"
+sourceUrl: "https://www.barnesandnoble.com/membership/"
+priceCheckedAt: 2026-10-29
+domain: barnesandnoble.com
+blurb: Paid Barnes & Noble membership with 10% off eligible purchases at Barnes & Noble and Paper Source, free shipping, and rewards. US$39.99/yr; the Rewards membership is free.
+color: "#00628A"
+logo: logos/barnes-noble.svg
+aliases:
+  - barnes-and-noble-premium
+  - barnes-noble-membership
+  - bn-premium-membership
