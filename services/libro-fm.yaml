@@ -1,0 +1,17 @@
+id: libro-fm
+name: Libro.fm
+category: news
+plan: Monthly Membership (1 credit)
+priceUsd: 14.99
+billing: month
+monthlyUsd: 14.99
+url: "https://libro.fm"
+sourceUrl: "https://libro.fm/"
+priceCheckedAt: 2026-10-29
+domain: libro.fm
+blurb: Audiobook membership that supports local bookstores. One credit a month for US$14.99/mo, with extra credits and à la carte audiobooks available.
+color: "#4ABDBC"
+logo: logos/libro-fm.svg
+aliases:
+  - librofm
+  - libro_fm
