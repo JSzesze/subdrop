@@ -1,0 +1,19 @@
+id: proton-vpn
+name: Proton VPN
+category: security
+plan: VPN Plus (monthly)
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://protonvpn.com"
+sourceUrl: "https://protonvpn.com/pricing"
+priceCheckedAt: 2026-11-03
+domain: protonvpn.com
+blurb: Swiss no-logs VPN from Proton. VPN Plus is US$9.99/mo month to month; the pricing page leads with a 2-year deal at $3.49/mo (billed $83.76 for 24 months, then $83.88/yr).
+color: "#66DEB1"
+simpleIconsSlug: protonvpn
+logo: logos/proton-vpn.svg
+aliases:
+  - protonvpn
+  - proton_vpn
+  - Proton VPN Plus
