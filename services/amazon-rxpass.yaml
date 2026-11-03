@@ -1,0 +1,19 @@
+id: amazon-rxpass
+name: Amazon RxPass
+category: fitness
+plan: RxPass (monthly)
+priceUsd: 5
+billing: month
+monthlyUsd: 5
+url: "https://pharmacy.amazon.com/rxpass"
+sourceUrl: "https://pharmacy.amazon.com/rxpass"
+priceCheckedAt: 2026-11-03
+domain: amazon.com
+blurb: Amazon Pharmacy's add-on for Prime members that covers 50+ common generic medications, delivered, for one flat US$5/mo no matter how many eligible meds you take. Requires Prime and isn't available in every state.
+color: "#FF9900"
+simpleIconsSlug: amazon
+logo: logos/amazon-rxpass.svg
+aliases:
+  - rxpass
+  - amazon_rxpass
+  - Amazon Pharmacy RxPass
