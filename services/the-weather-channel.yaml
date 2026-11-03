@@ -1,0 +1,20 @@
+id: the-weather-channel
+name: The Weather Channel Premium
+category: productivity
+plan: Premium (annual)
+priceUsd: 29.99
+billing: year
+monthlyUsd: 2.5
+url: "https://weather.com/subscribe"
+sourceUrl: "https://weather.com/subscribe"
+priceCheckedAt: 2026-11-03
+domain: weather.com
+blurb: The Weather Channel's ad-free Premium tier with advanced radar and map layers, extended hourly forecasts, and partner perks. US$29.99/yr (advertised as $2.50/mo billed yearly) after a 7-day free trial; an ad-free Standard plan is $9.99/yr.
+color: "#003399"
+simpleIconsSlug: theweatherchannel
+logo: logos/the-weather-channel.svg
+aliases:
+  - weather-channel-premium
+  - the_weather_channel
+  - weather.com
+  - The Weather Channel Premium
