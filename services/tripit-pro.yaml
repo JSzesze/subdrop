@@ -1,0 +1,18 @@
+id: tripit-pro
+name: TripIt Pro
+category: productivity
+plan: Pro (annual)
+priceUsd: 49
+billing: year
+monthlyUsd: 4.08
+url: "https://www.tripit.com/web/pro"
+sourceUrl: "https://www.tripit.com/web/pro"
+priceCheckedAt: 2026-11-03
+domain: tripit.com
+blurb: TripIt's premium travel organizer tier with real-time flight alerts, check-in and gate reminders, seat tracking, alternate flight search, and fare and points tracking. US$49/yr after a 30-day free trial.
+color: "#0782C5"
+logo: logos/tripit-pro.svg
+aliases:
+  - tripit
+  - tripit_pro
+  - TripIt Pro
