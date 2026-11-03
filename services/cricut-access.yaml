@@ -1,0 +1,18 @@
+id: cricut-access
+name: Cricut Access
+category: design
+plan: Standard (monthly)
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://cricut.com/en-us/join-cricut-access"
+sourceUrl: "https://cricut.com/blog/what-is-cricut-access/"
+priceCheckedAt: 2026-11-03
+domain: cricut.com
+blurb: Cricut's Design Space membership with premium images, fonts, and ready-to-make projects plus 10% off cricut.com purchases. Standard is US$9.99/mo billed monthly or $7.99/mo billed annually ($95.88/yr); Premium is annual-only.
+color: "#1EB487"
+logo: logos/cricut-access.svg
+aliases:
+  - cricut
+  - cricut_access
+  - Cricut Access Standard
