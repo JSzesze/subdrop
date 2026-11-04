@@ -1,0 +1,17 @@
+id: business-insider
+name: Business Insider
+category: news
+plan: Annual
+priceUsd: 149
+billing: year
+monthlyUsd: 12.42
+url: "https://www.businessinsider.com/subscription"
+sourceUrl: "https://www.businessinsider.com/subscription"
+priceCheckedAt: 2026-11-04
+domain: businessinsider.com
+blurb: Unlimited access to Business Insider's subscriber-only reporting, investigations, and tools like its salary database. Annual renews at US$149/yr (first year $49 promo). A 14-day trial plan renews at $12.95 every 4 weeks.
+color: "#002AFF"
+logo: logos/business-insider.svg
+aliases:
+  - businessinsider
+  - business_insider
