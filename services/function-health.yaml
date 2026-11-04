@@ -1,0 +1,18 @@
+id: function-health
+name: Function Health
+category: fitness
+plan: Membership (annual)
+priceUsd: 365
+billing: year
+monthlyUsd: 30.42
+url: "https://www.functionhealth.com"
+sourceUrl: "https://www.functionhealth.com/"
+priceCheckedAt: 2026-11-04
+domain: functionhealth.com
+blurb: Annual lab-testing membership with 160+ blood tests a year, follow-up testing, and clinician insights. US$365/yr ("$1 per day"), charged annually. Not available in New York or New Jersey.
+color: "#616867"
+logo: logos/function-health.svg
+aliases:
+  - functionhealth
+  - function_health
+  - Function Health Membership
