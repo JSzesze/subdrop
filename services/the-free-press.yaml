@@ -1,0 +1,17 @@
+id: the-free-press
+name: The Free Press
+category: news
+plan: Full Access (annual)
+priceUsd: 100
+billing: year
+monthlyUsd: 8.33
+url: "https://www.thefp.com"
+sourceUrl: "https://www.thefp.com/subscribe"
+priceCheckedAt: 2026-11-04
+domain: thefp.com
+blurb: Bari Weiss's independent news outlet on Substack, with investigations, columns, livestreams, and The Forum community. Full Access is US$100/yr ($8.33/mo), or $10 month to month. Premium is name-your-price from $300/yr.
+color: "#161613"
+logo: logos/the-free-press.svg
+aliases:
+  - thefp
+  - the_free_press
