@@ -1,0 +1,18 @@
+id: capture-one
+name: Capture One
+category: design
+plan: Pro (annual)
+priceUsd: 216
+billing: year
+monthlyUsd: 18
+url: "https://www.captureone.com"
+sourceUrl: "https://www.captureone.com/en/pricing/capture-one-pro"
+priceCheckedAt: 2026-11-04
+domain: captureone.com
+blurb: Pro-grade RAW photo editor known for color, tethered shooting, and asset management. Capture One Pro subscription is US$216/yr prepaid ($18/mo), or $28 month to month. A $349 perpetual license is also sold.
+color: "#000000"
+logo: logos/capture-one.svg
+aliases:
+  - captureone
+  - capture_one
+  - Capture One Pro
