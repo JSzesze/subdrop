@@ -1,0 +1,18 @@
+id: owlet360
+name: Owlet360
+category: fitness
+plan: Owlet360
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://owletcare.com/pages/owlet360"
+sourceUrl: "https://owletcare.com/pages/owlet360"
+priceCheckedAt: 2026-11-05
+domain: owletcare.com
+blurb: Owlet's premium membership for the Dream Sock and Dream Sight baby monitors, managed in the Owlet Dream app. US$9.99/mo after a 7-day free trial.
+color: "#A2C3AF"
+logo: logos/owlet360.svg
+aliases:
+  - owlet
+  - owlet-360
+  - owlet_360
