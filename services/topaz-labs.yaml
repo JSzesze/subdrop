@@ -1,0 +1,19 @@
+id: topaz-labs
+name: Topaz Labs
+category: design
+plan: Topaz Studio (annual)
+priceUsd: 399
+billing: year
+monthlyUsd: 33.25
+url: "https://www.topazlabs.com"
+sourceUrl: "https://www.topazlabs.com/pricing"
+priceCheckedAt: 2026-11-05
+domain: topazlabs.com
+blurb: AI photo and video enhancement (upscaling, denoise, sharpen). Topaz Studio bundles all the desktop apps (Topaz Video, Topaz Photo, Gigapixel, and more) for US$399/yr, or $69/mo. Single apps and Topaz for Web plans are sold separately.
+color: "#000000"
+logo: logos/topaz-labs.svg
+aliases:
+  - topaz
+  - topazlabs
+  - topaz_labs
+  - topaz-studio
