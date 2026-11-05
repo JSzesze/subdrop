@@ -1,0 +1,21 @@
+id: home-assistant-link
+name: Home Assistant Link
+category: cloud
+plan: Annual
+priceUsd: 65
+billing: year
+monthlyUsd: 5.42
+url: "https://www.nabucasa.com/link/"
+sourceUrl: "https://www.nabucasa.com/link/"
+priceCheckedAt: 2026-11-05
+domain: nabucasa.com
+blurb: The official Home Assistant subscription from Nabu Casa (formerly Home Assistant Cloud). It adds secure remote access, offsite backups, Alexa and Google Home voice control, and cloud speech processing, and it funds Home Assistant development. US$65/yr ("a year for the price of 10 months"), or $6.50/mo.
+color: "#18BCF2"
+simpleIconsSlug: homeassistant
+logo: logos/home-assistant-link.svg
+aliases:
+  - home-assistant-cloud
+  - home_assistant_cloud
+  - nabu-casa
+  - nabucasa
+  - NABU CASA
