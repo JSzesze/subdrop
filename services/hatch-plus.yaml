@@ -1,0 +1,18 @@
+id: hatch-plus
+name: Hatch+
+category: fitness
+plan: Hatch+
+priceUsd: 5.99
+billing: month
+monthlyUsd: 5.99
+url: "https://www.hatch.co/membership"
+sourceUrl: "https://www.hatch.co/membership"
+priceCheckedAt: 2026-11-05
+domain: hatch.co
+blurb: Hatch's sleep content membership for Restore and Sleep Clock devices. It unlocks the full sound, meditation, and sleep-story library, ad-free, plus unlimited alarms. US$5.99/mo after a first free month.
+color: "#13294B"
+logo: logos/hatch-plus.svg
+aliases:
+  - hatch
+  - hatch_plus
+  - hatch-restore
