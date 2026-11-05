@@ -1,0 +1,18 @@
+id: help-scout
+name: Help Scout
+category: productivity
+plan: Standard
+priceUsd: 30
+billing: month
+monthlyUsd: 30
+url: "https://www.helpscout.com"
+sourceUrl: "https://www.helpscout.com/pricing/"
+priceCheckedAt: 2026-10-19
+domain: helpscout.com
+blurb: Shared inbox, live chat, and knowledge base help desk for small support teams. Standard is $30/user/mo billed monthly ($25/user/mo billed annually); a limited Free plan is also offered.
+color: "#304DDB"
+simpleIconsSlug: helpscout
+logo: logos/help-scout.svg
+aliases:
+  - helpscout
+  - help_scout
