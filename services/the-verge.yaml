@@ -1,0 +1,17 @@
+id: the-verge
+name: The Verge
+category: news
+plan: Annual
+priceUsd: 60
+billing: year
+monthlyUsd: 5
+url: "https://www.theverge.com"
+sourceUrl: "https://www.theverge.com/subscribe"
+priceCheckedAt: 2026-11-05
+domain: theverge.com
+blurb: Vox Media's tech and culture site. A subscription unlocks unlimited articles, subscriber-only newsletters (Installer, Notepad, Optimizer, Regulator, The Stepback), and fewer ads. Annual is US$60/yr ("Best Value", $40 first year), or $7/mo.
+color: "#000000"
+logo: logos/the-verge.svg
+aliases:
+  - theverge
+  - the_verge
