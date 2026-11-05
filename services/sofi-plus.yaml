@@ -1,0 +1,17 @@
+id: sofi-plus
+name: SoFi Plus
+category: finance
+plan: SoFi Plus
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://www.sofi.com/sofi-plus/"
+sourceUrl: "https://www.sofi.com/sofi-plus/"
+priceCheckedAt: 2026-11-05
+domain: sofi.com
+blurb: SoFi's premium membership. Perks include 4.70% APY on up to $20K in SoFi Savings, a 10% cash-back boost on the Unlimited 2% card, a 1% crypto buy match, and a financial planner session. The paid subscription fee is US$10, billed monthly from the sign-up date.
+color: "#00A2C7"
+logo: logos/sofi-plus.svg
+aliases:
+  - sofi_plus
+  - SOFI PLUS
