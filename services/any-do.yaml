@@ -1,0 +1,18 @@
+id: any-do
+name: Any.do
+category: productivity
+plan: Premium
+priceUsd: 59.88
+billing: year
+monthlyUsd: 4.99
+url: "https://www.any.do"
+sourceUrl: "https://www.any.do/pricing"
+priceCheckedAt: 2026-11-06
+domain: any.do
+blurb: To-do list, calendar, and planner with Premium power features like recurring tasks, WhatsApp and location reminders, and AI tools. Premium is $4.99/mo when billed annually ($7.99/mo month-to-month).
+color: "#0183FF"
+logo: logos/any-do.svg
+aliases:
+  - anydo
+  - any_do
+  - any.do
