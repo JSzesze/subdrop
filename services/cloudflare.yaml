@@ -1,0 +1,18 @@
+id: cloudflare
+name: Cloudflare
+category: software
+plan: Pro
+priceUsd: 20
+billing: month
+monthlyUsd: 20
+url: "https://www.cloudflare.com"
+sourceUrl: "https://www.cloudflare.com/plans/"
+priceCheckedAt: 2026-11-06
+domain: cloudflare.com
+blurb: CDN, DNS, WAF, and performance tooling for websites. Pro is $20/mo when billed annually ($25/mo month-to-month) for professional sites that need more rules and bot protection than Free.
+color: "#F38020"
+simpleIconsSlug: cloudflare
+logo: logos/cloudflare.svg
+aliases:
+  - cloudflare-pro
+  - cloudflare_pro
