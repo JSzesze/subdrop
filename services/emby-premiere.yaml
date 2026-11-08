@@ -1,0 +1,18 @@
+id: emby-premiere
+name: Emby Premiere
+category: streaming
+plan: Monthly
+priceUsd: 4.99
+billing: month
+monthlyUsd: 4.99
+url: "https://emby.media"
+sourceUrl: "https://emby.media/premiere.html"
+priceCheckedAt: 2026-10-16
+domain: emby.media
+blurb: Paid tier for the Emby personal media server (DVR, offline sync, hardware transcoding, premium apps). Monthly is $4.99/mo recurring; 1 Year is $54 and Lifetime is a $119 one-time purchase.
+color: "#52B54B"
+simpleIconsSlug: emby
+logo: logos/emby-premiere.svg
+aliases:
+  - emby
+  - emby_premiere
