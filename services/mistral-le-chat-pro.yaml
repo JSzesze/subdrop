@@ -1,0 +1,19 @@
+id: mistral-le-chat-pro
+name: Mistral Le Chat Pro
+category: ai
+plan: Pro
+priceUsd: 14.99
+billing: month
+monthlyUsd: 14.99
+url: "https://mistral.ai/pricing"
+sourceUrl: "https://mistral.ai/pricing"
+priceCheckedAt: 2026-11-09
+domain: mistral.ai
+blurb: Mistral AI's consumer plan for Le Chat with more messages, web searches, image generation and Vibe coding access. $14.99/mo excluding taxes.
+color: "#FA520F"
+simpleIconsSlug: mistralai
+logo: logos/mistral-le-chat-pro.svg
+aliases:
+  - Mistral AI
+  - Mistral
+  - Le Chat
