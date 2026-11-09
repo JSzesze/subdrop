@@ -1,0 +1,18 @@
+id: yahoo-finance-premium
+name: Yahoo Finance Premium
+category: finance
+plan: Silver
+priceUsd: 239.4
+billing: year
+monthlyUsd: 19.95
+url: "https://finance.yahoo.com/subscriptions/"
+sourceUrl: "https://finance.yahoo.com/subscriptions/"
+priceCheckedAt: 2026-11-09
+domain: finance.yahoo.com
+blurb: Yahoo Finance's paid investing tiers. Silver ("most popular") adds expert stock picks, Morningstar ratings, and research reports. Bronze is $95.40/yr and Gold is $479.40/yr.
+color: "#6001D2"
+simpleIconsSlug: yahoo
+logo: logos/yahoo-finance-premium.svg
+aliases:
+  - Yahoo Finance
+  - YAHOO FINANCE PLUS
