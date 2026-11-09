@@ -1,0 +1,17 @@
+id: rumble-premium
+name: Rumble Premium
+category: streaming
+plan: Monthly
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://rumble.com/premium"
+sourceUrl: "https://rumble.com/premium"
+priceCheckedAt: 2026-11-09
+domain: rumble.com
+blurb: Ad-free viewing on Rumble with exclusive creator content. $9.99/mo, or $99/yr annual.
+color: "#85C742"
+simpleIconsSlug: rumble
+logo: logos/rumble-premium.svg
+aliases:
+  - Rumble
