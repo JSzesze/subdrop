@@ -1,0 +1,14 @@
+id: beeper
+name: Beeper
+category: productivity
+plan: Plus
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://www.beeper.com"
+sourceUrl: "https://www.beeper.com/pricing"
+priceCheckedAt: 2026-11-10
+domain: beeper.com
+blurb: All-in-one chat inbox for WhatsApp, iMessage, Signal and more, from Automattic. Beeper Plus is US$9.99/mo after a 7-day free trial and adds unlimited accounts, message scheduling and more.
+color: "#0D4FFB"
+logo: logos/beeper.svg
