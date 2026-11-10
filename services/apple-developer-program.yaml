@@ -1,0 +1,17 @@
+id: apple-developer-program
+name: Apple Developer Program
+category: developer
+plan: Individual / Organization
+priceUsd: 99
+billing: year
+monthlyUsd: 8.25
+url: "https://developer.apple.com/programs/"
+sourceUrl: "https://developer.apple.com/programs/whats-included/"
+priceCheckedAt: 2026-11-10
+domain: developer.apple.com
+blurb: Annual Apple membership for building and distributing apps on Apple platforms. US$99 per membership year.
+color: "#000000"
+simpleIconsSlug: apple
+logo: logos/apple-developer-program.svg
+aliases:
+  - apple-developer
