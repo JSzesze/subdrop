@@ -1,0 +1,15 @@
+id: nextdns
+name: NextDNS
+category: security
+plan: Pro (monthly)
+priceUsd: 1.99
+billing: month
+monthlyUsd: 1.99
+url: "https://nextdns.io"
+sourceUrl: "https://nextdns.io/pricing"
+priceCheckedAt: 2026-11-12
+domain: nextdns.io
+blurb: Cloud DNS filter that blocks ads, trackers, and malicious domains on every device. Pro (personal and close family use) is US$1.99/mo with unlimited queries, or $19.90/yr; the free tier caps at 300,000 queries a month.
+color: "#007BFF"
+simpleIconsSlug: nextdns
+logo: logos/nextdns.svg
