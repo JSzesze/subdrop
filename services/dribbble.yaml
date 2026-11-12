@@ -1,0 +1,17 @@
+id: dribbble
+name: Dribbble
+category: design
+plan: Standard (annual)
+priceUsd: 96
+billing: year
+monthlyUsd: 8
+url: "https://dribbble.com"
+sourceUrl: "https://dribbble.com/pro"
+priceCheckedAt: 2026-11-12
+domain: dribbble.com
+blurb: Designer portfolio and hiring network. The Standard plan (marked Most Popular) is advertised at US$8/mo billed yearly ($96/yr); Lite is $4/mo billed yearly and Plus is $99/mo billed yearly.
+color: "#EA4C89"
+simpleIconsSlug: dribbble
+logo: logos/dribbble.svg
+aliases:
+  - dribbble-pro
