@@ -1,0 +1,15 @@
+id: bitly
+name: Bitly
+category: productivity
+plan: Core (annual)
+priceUsd: 120
+billing: year
+monthlyUsd: 10
+url: "https://bitly.com"
+sourceUrl: "https://bitly.com/pages/pricing"
+priceCheckedAt: 2026-11-18
+domain: bitly.com
+blurb: Link shortener and QR code platform. Core is $10/mo, annual-only ($120 charged yearly); Growth is $29/mo billed annually.
+color: "#EE6123"
+simpleIconsSlug: bitly
+logo: logos/bitly.svg
