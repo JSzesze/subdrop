@@ -1,0 +1,17 @@
+id: tunein
+name: TuneIn Premium
+category: music
+plan: Premium (monthly)
+priceUsd: 9.99
+billing: month
+monthlyUsd: 9.99
+url: "https://tunein.com"
+sourceUrl: "https://tunein.com/premium/"
+priceCheckedAt: 2026-11-18
+domain: tunein.com
+blurb: Commercial-free live radio, news and sports talk. Premium is $9.99/mo after a 7-day trial, or $79.99/yr.
+color: "#14D8CC"
+simpleIconsSlug: tunein
+logo: logos/tunein.svg
+aliases:
+  - tunein-premium
