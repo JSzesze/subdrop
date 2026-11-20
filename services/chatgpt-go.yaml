@@ -1,0 +1,17 @@
+id: chatgpt-go
+name: ChatGPT Go
+category: ai
+plan: Go
+priceUsd: 8
+billing: month
+monthlyUsd: 8
+url: "https://chatgpt.com"
+sourceUrl: "https://openai.com/index/introducing-chatgpt-go/"
+priceCheckedAt: 2026-11-20
+domain: chatgpt.com
+blurb: OpenAI's low-cost ChatGPT tier between Free and Plus. $8/month in the US.
+color: "#000000"
+simpleIconsSlug: openai
+logo: logos/chatgpt-plus.svg
+aliases:
+  - chatgpt_go
