@@ -1,0 +1,17 @@
+id: newspapers-com
+name: Newspapers.com
+category: news
+plan: Basic (monthly)
+priceUsd: 12.99
+billing: month
+monthlyUsd: 12.99
+url: "https://www.newspapers.com"
+sourceUrl: "https://www.newspapers.com/plans/"
+priceCheckedAt: 2026-11-23
+domain: newspapers.com
+blurb: Searchable historic newspaper archive. Basic is $12.99/month (plus tax), or $54.99 per 6 months; Publisher Extra is $21.99/month.
+color: "#231F20"
+logo: logos/newspapers-com.svg
+aliases:
+  - NEWSPAPERS.COM
+  - Newspapers com
