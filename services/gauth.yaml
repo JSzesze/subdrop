@@ -1,0 +1,14 @@
+id: gauth
+name: Gauth
+category: education
+plan: Plus (monthly)
+priceUsd: 11.99
+billing: month
+monthlyUsd: 11.99
+url: "https://www.gauth.io"
+sourceUrl: "https://www.gauth.io/pricing"
+priceCheckedAt: 2026-11-23
+domain: gauth.io
+blurb: AI homework helper with unlimited step-by-step answers. Plus is $11.99/month (3-day free trial); quarterly and yearly plans are also offered.
+color: "#FF003E"
+logo: logos/gauth.svg
