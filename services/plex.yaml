@@ -13,7 +13,7 @@ blurb: Personal media server extras. Monthly Plex Pass is the advertised US defa
 rank: 22
 color: "#EBAF00"
 simpleIconsSlug: plex
-logo: logos/plex.svg
+logo: logos/plex.png
 aliases:
   - plex_pass
   - plex-pass

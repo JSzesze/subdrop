@@ -12,6 +12,6 @@ domain: chatgpt.com
 blurb: OpenAI's low-cost ChatGPT tier between Free and Plus. $8/month in the US.
 color: "#000000"
 simpleIconsSlug: openai
-logo: logos/chatgpt-plus.svg
+logo: logos/chatgpt-plus.png
 aliases:
   - chatgpt_go

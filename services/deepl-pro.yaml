@@ -12,7 +12,7 @@ domain: deepl.com
 blurb: AI translation for individuals — unlimited text, documents, and DeepL Write.
 color: "#0F2B46"
 simpleIconsSlug: deepl
-logo: logos/deepl-pro.svg
+logo: logos/deepl-pro.png
 aliases:
   - deepl_pro
   - deepl

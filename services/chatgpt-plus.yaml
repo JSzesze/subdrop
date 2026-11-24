@@ -13,6 +13,6 @@ blurb: Priority access to OpenAI’s latest models, plus tools and higher limits
 rank: 95
 color: "#000000"
 simpleIconsSlug: openai
-logo: logos/chatgpt-plus.svg
+logo: logos/chatgpt-plus.png
 aliases:
   - chatgpt_plus

@@ -12,7 +12,7 @@ domain: streamlabs.com
 blurb: Streamlabs' premium plan for live streamers, with multistreaming, thousands of overlays and widget themes, and Pro versions of Cross Clip, Talk Studio, and Podcast Editor. US$189/yr billed annually (advertised as "starting at $15.75/mo"), or US$27/mo monthly.
 color: "#80F5D2"
 simpleIconsSlug: streamlabs
-logo: logos/streamlabs-ultra.svg
+logo: logos/streamlabs-ultra.png
 aliases:
   - streamlabs
   - streamlabs-prime

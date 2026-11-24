@@ -12,7 +12,7 @@ domain: intuit.com
 blurb: Cloud bookkeeping for solo owners. Simple Start is the advertised US entry plan (1 user); list price, not the intro promo.
 color: "#2CA01C"
 simpleIconsSlug: quickbooks
-logo: logos/quickbooks-online.svg
+logo: logos/quickbooks-online.png
 aliases:
   - quickbooks
   - QBO

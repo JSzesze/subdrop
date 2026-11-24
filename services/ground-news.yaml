@@ -11,7 +11,7 @@ priceCheckedAt: 2026-10-19
 domain: ground.news
 blurb: News aggregator that compares left, center, and right coverage with bias and factuality ratings. Vantage is the advertised plan at $8.33/mo billed annually ($99.99/yr); Pro and Premium are cheaper tiers.
 color: "#262626"
-logo: logos/ground-news.svg
+logo: logos/ground-news.png
 aliases:
   - groundnews
   - ground_news

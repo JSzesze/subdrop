@@ -11,6 +11,6 @@ priceCheckedAt: 2026-09-09
 domain: proton.me
 blurb: End-to-end encrypted password manager. Pass Plus for new users is $2.99/mo on a 12-month plan ($35.88/yr) per official Proton announcement (pricing page is JS-gated).
 color: "#6D4AFF"
-logo: logos/proton-pass.svg
+logo: logos/proton-pass.png
 aliases:
   - Proton Pass Plus

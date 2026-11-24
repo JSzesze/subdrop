@@ -12,7 +12,7 @@ domain: target.com
 blurb: Paid Target membership with unlimited same-day delivery, free fast shipping, and monthly freebies.
 color: "#CC0000"
 simpleIconsSlug: target
-logo: logos/target-circle-360.svg
+logo: logos/target-circle-360.png
 aliases:
   - target_circle_360
   - circle-360

@@ -11,7 +11,7 @@ priceCheckedAt: 2026-09-10
 domain: nytimes.com
 blurb: Standalone Wordle, Crossword, Spelling Bee, and more (also in NYT All Access).
 color: "#6AAA64"
-logo: logos/nyt-games.svg
+logo: logos/nyt-games.png
 aliases:
   - nyt-crossword
   - nyt_games

@@ -12,7 +12,7 @@ domain: snapchat.com
 blurb: Exclusive, experimental, and pre-release Snapchat features with custom app icons and badges.
 color: "#FFFC00"
 simpleIconsSlug: snapchat
-logo: logos/snapchat-plus.svg
+logo: logos/snapchat-plus.png
 aliases:
   - snapchat_plus
   - snapchat+

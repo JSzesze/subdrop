@@ -13,6 +13,6 @@ blurb: Inline code completion and chat in the editor, billed through GitHub.
 rank: 80
 color: "#000000"
 simpleIconsSlug: githubcopilot
-logo: logos/github-copilot.svg
+logo: logos/github-copilot.png
 aliases:
   - github_copilot

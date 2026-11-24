@@ -12,7 +12,7 @@ domain: finance.yahoo.com
 blurb: Yahoo Finance's paid investing tiers. Silver ("most popular") adds expert stock picks, Morningstar ratings, and research reports. Bronze is $95.40/yr and Gold is $479.40/yr.
 color: "#6001D2"
 simpleIconsSlug: yahoo
-logo: logos/yahoo-finance-premium.svg
+logo: logos/yahoo-finance-premium.png
 aliases:
   - Yahoo Finance
   - YAHOO FINANCE PLUS

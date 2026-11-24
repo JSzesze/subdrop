@@ -15,8 +15,35 @@ from yaml_lite import load  # noqa: E402
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 LOGO_RE = re.compile(r"^logos/[a-z0-9._-]+\.(svg|png|webp)$")
+LOGO_RASTER_RE = re.compile(r"^logos/[a-z0-9._-]+\.(png|webp)$")
 FORBIDDEN_KEYS = {"logoUrl", "homepage"}
 URL_PREFIXES = ("http://", "https://", "//")
+PNG_SIG = b"\x89PNG\r\n\x1a\n"
+
+
+def validate_logo_bytes(path: Path) -> str | None:
+    """Return an error string if the file bytes do not match the extension."""
+    data = path.read_bytes()
+    if not data:
+        return f"logo file {path.relative_to(ROOT)} is empty"
+    suffix = path.suffix.lower()
+    if suffix == ".png":
+        if not (data.startswith(PNG_SIG) and len(data) >= 33 and data[12:16] == b"IHDR"):
+            return (
+                f"logo file {path.relative_to(ROOT)} is not a PNG "
+                "(extension must match the file bytes; JPEG/ICO named .png is not allowed)"
+            )
+    elif suffix == ".webp":
+        if not (data[:4] == b"RIFF" and data[8:12] == b"WEBP"):
+            return f"logo file {path.relative_to(ROOT)} is not a WebP"
+    elif suffix == ".svg":
+        try:
+            text = data.decode("utf-8")
+        except UnicodeDecodeError:
+            return f"logo file {path.relative_to(ROOT)} is not UTF-8 SVG"
+        if "<svg" not in text.lower():
+            return f"logo file {path.relative_to(ROOT)} is not an SVG"
+    return None
 
 
 def load_json_schema() -> dict:
@@ -118,6 +145,20 @@ def validate_service(
             errors.append(f"{path}: logo must be a relative path, not a URL")
         elif not LOGO_RE.match(logo):
             errors.append(f"{path}: logo must match logos/<file>.(svg|png|webp)")
+        else:
+            # iOS consumers (expo-image) cannot decode SVG. Service logo: must be raster.
+            if not LOGO_RASTER_RE.match(logo):
+                errors.append(
+                    f"{path}: logo must be a raster (logos/<file>.png or .webp) "
+                    "so iOS consumers can render it; keep an official SVG alongside if available"
+                )
+            logo_path = ROOT / logo
+            if not logo_path.is_file():
+                errors.append(f"{path}: logo file {logo} does not exist")
+            else:
+                byte_err = validate_logo_bytes(logo_path)
+                if byte_err:
+                    errors.append(f"{path}: {byte_err}")
 
     billing_month = data.get("billingMonth")
     if billing_month is not None:

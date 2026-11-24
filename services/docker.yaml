@@ -12,4 +12,4 @@ domain: docker.com
 blurb: Docker Desktop, Hub, and Scout for container development. Pro is US$9/mo billed yearly (US$11 month-to-month).
 color: "#2496ED"
 simpleIconsSlug: docker
-logo: logos/docker.svg
+logo: logos/docker.png

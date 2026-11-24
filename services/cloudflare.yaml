@@ -12,7 +12,7 @@ domain: cloudflare.com
 blurb: CDN, DNS, WAF, and performance tooling for websites. Pro is $20/mo when billed annually ($25/mo month-to-month) for professional sites that need more rules and bot protection than Free.
 color: "#F38020"
 simpleIconsSlug: cloudflare
-logo: logos/cloudflare.svg
+logo: logos/cloudflare.png
 aliases:
   - cloudflare-pro
   - cloudflare_pro

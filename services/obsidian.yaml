@@ -13,6 +13,6 @@ blurb: End-to-end encrypted note sync across devices. The Obsidian app itself is
 rank: 8
 color: "#7C3AED"
 simpleIconsSlug: obsidian
-logo: logos/obsidian.svg
+logo: logos/obsidian.png
 aliases:
   - obsidian_sync

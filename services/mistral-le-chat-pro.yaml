@@ -12,7 +12,7 @@ domain: mistral.ai
 blurb: Mistral AI's consumer plan for Le Chat with more messages, web searches, image generation and Vibe coding access. $14.99/mo excluding taxes.
 color: "#FA520F"
 simpleIconsSlug: mistralai
-logo: logos/mistral-le-chat-pro.svg
+logo: logos/mistral-le-chat-pro.png
 aliases:
   - Mistral AI
   - Mistral

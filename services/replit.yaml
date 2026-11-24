@@ -12,7 +12,7 @@ domain: replit.com
 blurb: AI coding workspace with Agent and cloud compute. Core is the advertised US personal paid plan at $20/mo (annual billing lower on the pricing page).
 color: "#F26207"
 simpleIconsSlug: replit
-logo: logos/replit.svg
+logo: logos/replit.png
 aliases:
   - replit-core
   - REPLIT.COM

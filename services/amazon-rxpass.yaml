@@ -12,7 +12,7 @@ domain: amazon.com
 blurb: Amazon Pharmacy's add-on for Prime members that covers 50+ common generic medications, delivered, for one flat US$5/mo no matter how many eligible meds you take. Requires Prime and isn't available in every state.
 color: "#FF9900"
 simpleIconsSlug: amazon
-logo: logos/amazon-rxpass.svg
+logo: logos/amazon-rxpass.png
 aliases:
   - rxpass
   - amazon_rxpass
