@@ -1,0 +1,14 @@
+id: khanmigo
+name: Khanmigo
+category: education
+plan: Monthly
+priceUsd: 4
+billing: month
+monthlyUsd: 4
+url: "https://www.khanmigo.ai"
+sourceUrl: "https://www.khanmigo.ai/learners"
+priceCheckedAt: 2026-11-24
+domain: khanmigo.ai
+blurb: Khan Academy's AI tutor for learners. $4/month, or $44/year, on the official page.
+color: "#14BF96"
+logo: logos/khanmigo.svg
