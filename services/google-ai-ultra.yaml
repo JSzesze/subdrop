@@ -12,7 +12,7 @@ domain: one.google.com
 blurb: Highest Google AI tier (20× Pro usage) with 30TB storage; Ultra 5x is $100/mo.
 color: "#8E75B2"
 simpleIconsSlug: googlegemini
-logo: logos/google-ai-ultra.svg
+logo: logos/google-ai-ultra.png
 aliases:
   - google_ai_ultra
   - gemini-ultra

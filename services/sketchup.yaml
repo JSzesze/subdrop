@@ -12,7 +12,7 @@ domain: sketchup.com
 blurb: 3D modeling software from Trimble. SketchUp Pro is US$33.25/mo billed annually (US$399/yr); Go is US$10.75/mo billed annually and Studio is US$71.58/mo billed annually.
 color: "#005F9E"
 simpleIconsSlug: sketchup
-logo: logos/sketchup.svg
+logo: logos/sketchup.png
 aliases:
   - sketchup-pro
   - trimble-sketchup

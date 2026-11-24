@@ -11,7 +11,7 @@ priceCheckedAt: 2026-10-21
 domain: tesla.com
 blurb: Tesla's in-car cellular data plan, with live traffic, satellite-view maps, Sentry Mode live camera, and music and video streaming over cellular. $9.99/mo or $99/yr plus tax.
 color: "#CC0000"
-logo: logos/tesla-premium-connectivity.svg
+logo: logos/tesla-premium-connectivity.png
 aliases:
   - tesla_premium_connectivity
   - Tesla Connectivity

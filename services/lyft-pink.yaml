@@ -12,7 +12,7 @@ domain: lyft.com
 blurb: Lyft rideshare membership with member pricing and Priority Pickup. Monthly is the starting paid plan.
 color: "#FF00BF"
 simpleIconsSlug: lyft
-logo: logos/lyft-pink.svg
+logo: logos/lyft-pink.png
 aliases:
   - lyft_pink
   - lyftpink

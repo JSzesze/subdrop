@@ -12,6 +12,6 @@ domain: claude.ai
 blurb: Anthropic's top individual Claude tier for people who use Claude all day. Everything in Pro plus 5x or 20x Pro's usage, billed monthly; Max 5x is the advertised "From $100" entry plan.
 color: "#D97757"
 simpleIconsSlug: claude
-logo: logos/claude-max.svg
+logo: logos/claude-max.png
 aliases:
   - claude_max

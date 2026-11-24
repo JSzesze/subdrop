@@ -12,7 +12,7 @@ domain: yahoo.com
 blurb: Paid Yahoo Mail tier with ad-free email, 200 GB of storage, up to 500 temporary email addresses, auto-forwarding, and an account that never expires for inactivity.
 color: "#6001D2"
 simpleIconsSlug: yahoo
-logo: logos/yahoo-mail-plus.svg
+logo: logos/yahoo-mail-plus.png
 aliases:
   - yahoo_mail_plus
   - yahoo-mail-pro

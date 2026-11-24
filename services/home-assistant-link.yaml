@@ -12,7 +12,7 @@ domain: nabucasa.com
 blurb: The official Home Assistant subscription from Nabu Casa (formerly Home Assistant Cloud). It adds secure remote access, offsite backups, Alexa and Google Home voice control, and cloud speech processing, and it funds Home Assistant development. US$65/yr ("a year for the price of 10 months"), or $6.50/mo.
 color: "#18BCF2"
 simpleIconsSlug: homeassistant
-logo: logos/home-assistant-link.svg
+logo: logos/home-assistant-link.png
 aliases:
   - home-assistant-cloud
   - home_assistant_cloud

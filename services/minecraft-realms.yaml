@@ -12,7 +12,7 @@ domain: minecraft.net
 blurb: Always-online private Minecraft server for you + 2 friends on Bedrock.
 rank: 100
 color: "#62B47A"
-logo: logos/minecraft-realms.svg
+logo: logos/minecraft-realms.png
 aliases:
   - minecraft_realms
   - realms

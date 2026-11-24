@@ -12,7 +12,7 @@ When adding or updating a service:
 2. **Set `sourceUrl`** — the official page you used to verify the listed price (homepage or pricing page).
 3. **Set `priceCheckedAt`** — ISO date (`YYYY-MM-DD`) when you verified the price.
 4. **Keep prices faithful** — use advertised US prices; do not silently "fix" rounding in `monthlyUsd`.
-5. **Use relative logos** — `logo: logos/netflix.svg`. Never add `logoUrl`, `homepage`, or preview URLs to source YAML.
+5. **Use relative raster logos** — `logo: logos/netflix.png` (PNG or WebP). Official SVGs may be committed next to the PNG, but `logo:` must be a raster so iOS consumers can render it. Never add `logoUrl`, `homepage`, or preview URLs to source YAML.
 6. **`billingMonth` (optional)** — only for **yearly** plans when you can cite a typical calendar charge month (1–12). Omit for anniversary-billed yearly plans and when unknown.
 7. **`aliases` (optional)** — array of strings for legacy ids, merchant descriptors, or common misspellings that should resolve to this service (e.g. `youtube_premium` → `youtube-premium`). Do not add generic catch-alls like `apple.com/bill` unless the charge clearly identifies this product.
 
@@ -46,7 +46,7 @@ When adding or updating a service:
 | `billing` | `month`, `year`, or `week` |
 | `billingMonth` | Optional; yearly only; 1–12 |
 | `monthlyUsd` | Normalized monthly equivalent |
-| `logo` | Relative path under `logos/` |
+| `logo` | Relative raster path: `logos/<file>.png` or `.webp` (file must exist; bytes must match the extension) |
 | `aliases` | Optional; legacy ids, merchant strings, misspellings |
 
 See [docs/PRD.md](docs/PRD.md) for product context and the public API contract.

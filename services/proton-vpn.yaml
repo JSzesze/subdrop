@@ -12,7 +12,7 @@ domain: protonvpn.com
 blurb: Swiss no-logs VPN from Proton. VPN Plus is US$9.99/mo month to month; the pricing page leads with a 2-year deal at $3.49/mo (billed $83.76 for 24 months, then $83.88/yr).
 color: "#66DEB1"
 simpleIconsSlug: protonvpn
-logo: logos/proton-vpn.svg
+logo: logos/proton-vpn.png
 aliases:
   - protonvpn
   - proton_vpn

@@ -12,6 +12,6 @@ domain: chatgpt.com
 blurb: Highest ChatGPT usage tier (20× Plus). A $100 Pro 5× option is also advertised.
 color: "#000000"
 simpleIconsSlug: openai
-logo: logos/chatgpt-pro.svg
+logo: logos/chatgpt-pro.png
 aliases:
   - chatgpt_pro

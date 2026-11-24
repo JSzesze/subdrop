@@ -12,7 +12,7 @@ domain: nba.com
 blurb: Live and on-demand NBA games out-of-market. League Pass is the standard monthly plan.
 color: "#C8102E"
 simpleIconsSlug: nba
-logo: logos/nba-league-pass.svg
+logo: logos/nba-league-pass.png
 aliases:
   - nba_league_pass
   - league-pass

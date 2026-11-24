@@ -12,7 +12,7 @@ domain: letterboxd.com
 blurb: Ad-free film diary with stats and streaming filters. Pro is the advertised US App Store annual plan at $18.99/yr (web list price is JS-gated).
 color: "#00E054"
 simpleIconsSlug: letterboxd
-logo: logos/letterboxd-pro.svg
+logo: logos/letterboxd-pro.png
 aliases:
   - letterboxd
   - letterboxd_pro

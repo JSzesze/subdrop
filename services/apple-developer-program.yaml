@@ -12,6 +12,6 @@ domain: developer.apple.com
 blurb: Annual Apple membership for building and distributing apps on Apple platforms. US$99 per membership year.
 color: "#000000"
 simpleIconsSlug: apple
-logo: logos/apple-developer-program.svg
+logo: logos/apple-developer-program.png
 aliases:
   - apple-developer

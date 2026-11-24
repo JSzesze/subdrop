@@ -12,7 +12,7 @@ domain: rockstargames.com
 blurb: Rockstar Games' premium membership for GTA Online, with GTA$500,000 monthly, member perks, and the GTA+ Games Library. US$7.99/mo on PC, PS5, and Xbox Series X|S.
 color: "#FCAF17"
 simpleIconsSlug: rockstargames
-logo: logos/gta-plus.svg
+logo: logos/gta-plus.png
 aliases:
   - gtaplus
   - gta_plus

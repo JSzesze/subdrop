@@ -12,4 +12,4 @@ domain: heroku.com
 blurb: Salesforce's app platform for deploying web apps without managing servers. Eco is the entry dyno plan at US$5/mo.
 color: "#430098"
 simpleIconsSlug: heroku
-logo: logos/heroku.svg
+logo: logos/heroku.png

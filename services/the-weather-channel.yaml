@@ -12,7 +12,7 @@ domain: weather.com
 blurb: The Weather Channel's ad-free Premium tier with advanced radar and map layers, extended hourly forecasts, and partner perks. US$29.99/yr (advertised as $2.50/mo billed yearly) after a 7-day free trial; an ad-free Standard plan is $9.99/yr.
 color: "#003399"
 simpleIconsSlug: theweatherchannel
-logo: logos/the-weather-channel.svg
+logo: logos/the-weather-channel.png
 aliases:
   - weather-channel-premium
   - the_weather_channel
