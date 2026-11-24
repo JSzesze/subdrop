@@ -1,0 +1,14 @@
+id: excalidraw-plus
+name: Excalidraw+
+category: productivity
+plan: Plus (monthly)
+priceUsd: 7
+billing: month
+monthlyUsd: 7
+url: "https://plus.excalidraw.com"
+sourceUrl: "https://plus.excalidraw.com/pricing"
+priceCheckedAt: 2026-11-24
+domain: excalidraw.com
+blurb: Excalidraw's paid collaborative whiteboard workspace. $7/month per user billed monthly; the page shows $6/month per user on annual billing.
+color: "#6965DB"
+logo: logos/excalidraw-plus.svg
