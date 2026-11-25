@@ -1,0 +1,15 @@
+id: pc-game-pass
+name: PC Game Pass
+category: gaming
+plan: PC Game Pass (monthly)
+priceUsd: 13.99
+billing: month
+monthlyUsd: 13.99
+url: "https://www.xbox.com/en-US/xbox-game-pass/pc-game-pass"
+sourceUrl: "https://news.xbox.com/en-us/2026/04/21/xbox-game-pass-update/"
+priceCheckedAt: 2026-11-25
+domain: xbox.com
+blurb: Xbox library of 300+ PC games. $13.99/mo after the April 2026 price drop.
+color: "#107C10"
+simpleIconsSlug: xbox
+logo: logos/pc-game-pass.png
