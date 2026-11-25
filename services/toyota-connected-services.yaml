@@ -1,0 +1,15 @@
+id: toyota-connected-services
+name: Toyota Connected Services
+category: automotive
+plan: Remote Connect (monthly)
+priceUsd: 8
+billing: month
+monthlyUsd: 8
+url: "https://www.toyota.com"
+sourceUrl: "https://www.toyota.com/connected-services"
+priceCheckedAt: 2026-11-25
+domain: toyota.com
+blurb: Toyota's connected-car plans. Remote Connect is $8/mo, Premium $15/mo, Wi-Fi Connect $25/mo.
+color: "#EB0A1E"
+simpleIconsSlug: toyota
+logo: logos/toyota-connected-services.png
