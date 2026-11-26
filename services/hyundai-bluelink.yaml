@@ -1,0 +1,15 @@
+id: hyundai-bluelink
+name: Hyundai Bluelink
+category: automotive
+plan: Bluelink package (yearly)
+priceUsd: 99
+billing: year
+monthlyUsd: 8.25
+url: "https://www.hyundaiusa.com"
+sourceUrl: "https://owners.hyundaiusa.com/us/en/bluelink-highlights"
+priceCheckedAt: 2026-11-26
+domain: hyundaiusa.com
+blurb: Hyundai's connected-car service. After the trial, each of the Connected Care, Remote and Guidance packages is $99/yr or $9.90/mo.
+color: "#002C5E"
+simpleIconsSlug: hyundai
+logo: logos/hyundai-bluelink.png
