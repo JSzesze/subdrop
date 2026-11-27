@@ -1,0 +1,17 @@
+id: tesla-fsd-supervised
+name: Tesla Full Self-Driving (Supervised)
+category: automotive
+plan: FSD (Supervised) subscription
+priceUsd: 99
+billing: month
+monthlyUsd: 99
+url: "https://www.tesla.com"
+sourceUrl: "https://www.tesla.com/support/full-self-driving-subscriptions"
+priceCheckedAt: 2026-11-26
+domain: tesla.com
+blurb: Tesla's driver-assist subscription, available for $99/mo on eligible vehicles.
+color: "#CC0000"
+simpleIconsSlug: tesla
+logo: logos/tesla-fsd-supervised.png
+aliases:
+  - tesla-fsd
