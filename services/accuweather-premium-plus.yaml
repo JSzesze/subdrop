@@ -7,7 +7,7 @@ billing: year
 monthlyUsd: 2.5
 url: "https://www.accuweather.com"
 sourceUrl: "https://www.accuweather.com/g-account/offerings"
-priceCheckedAt: 2026-11-25
+priceCheckedAt: 2026-11-26
 domain: accuweather.com
 blurb: Ad-free weather app with AccuWeather Alerts and 90-day forecasts. Individual plan is $29.99/yr; Family plan up to six accounts.
 color: "#F05514"
