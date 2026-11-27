@@ -1,0 +1,15 @@
+id: etsy-plus
+name: Etsy Plus
+category: shopping
+plan: Etsy Plus (monthly)
+priceUsd: 10
+billing: month
+monthlyUsd: 10
+url: "https://www.etsy.com"
+sourceUrl: "https://help.etsy.com/hc/en-us/articles/360001589928-What-is-Etsy-Plus"
+priceCheckedAt: 2026-11-26
+domain: etsy.com
+blurb: Seller subscription with listing credits, Etsy Ads credit and shop customization. $10/mo.
+color: "#F1641E"
+simpleIconsSlug: etsy
+logo: logos/etsy-plus.png
