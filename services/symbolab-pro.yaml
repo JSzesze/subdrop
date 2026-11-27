@@ -1,0 +1,15 @@
+id: symbolab-pro
+name: Symbolab Pro
+category: education
+plan: Pro (annual)
+priceUsd: 39.95
+billing: year
+monthlyUsd: 3.33
+url: "https://www.symbolab.com"
+sourceUrl: "https://www.symbolab.com/registration"
+priceCheckedAt: 2026-11-26
+domain: symbolab.com
+blurb: Step-by-step math solver and AI chat. Pro is $39.95 billed every 12 months, $32.95 every 6 months, or $9.95 monthly.
+color: "#DB3F59"
+simpleIconsSlug: symbolab
+logo: logos/symbolab-pro.png
