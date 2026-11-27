@@ -6,8 +6,8 @@ priceUsd: 99
 billing: month
 monthlyUsd: 99
 url: "https://www.tesla.com"
-sourceUrl: "https://www.tesla.com/fsd"
-priceCheckedAt: 2026-11-25
+sourceUrl: "https://www.tesla.com/support/full-self-driving-subscriptions"
+priceCheckedAt: 2026-11-26
 domain: tesla.com
 blurb: Tesla's driver-assist subscription, available for $99/mo on eligible vehicles.
 color: "#CC0000"
