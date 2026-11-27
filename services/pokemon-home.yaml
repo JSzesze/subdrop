@@ -1,0 +1,14 @@
+id: pokemon-home
+name: Pokémon HOME
+category: gaming
+plan: Premium Plan (12 months)
+priceUsd: 15.99
+billing: year
+monthlyUsd: 1.33
+url: "https://home.pokemon.com"
+sourceUrl: "https://home.pokemon.com/en-us/"
+priceCheckedAt: 2026-11-26
+domain: pokemon.com
+blurb: Cloud storage and transfer hub for Pokémon. Premium Plan is $15.99 for 12 months (also $2.99 for 1 month, $4.99 for 3 months), before tax.
+color: "#ED1E24"
+logo: logos/pokemon-home.png
