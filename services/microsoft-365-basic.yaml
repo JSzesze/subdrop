@@ -1,0 +1,17 @@
+id: microsoft-365-basic
+name: Microsoft 365 Basic
+category: productivity
+plan: Basic (annual)
+priceUsd: 19.99
+billing: year
+monthlyUsd: 1.67
+url: "https://www.microsoft.com/microsoft-365"
+sourceUrl: "https://www.microsoft.com/en-us/microsoft-365/onedrive/compare-onedrive-plans"
+priceCheckedAt: 2026-11-27
+domain: microsoft.com
+blurb: 100 GB of OneDrive cloud storage and ad-free Outlook email for one person.
+color: "#00A4EF"
+simpleIconsSlug: microsoft
+logo: logos/microsoft-365-mark.png
+aliases:
+  - Microsoft 365 Basic
