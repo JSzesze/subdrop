@@ -1,15 +1,15 @@
 id: adobe-lightroom
 name: Adobe Lightroom
 category: design
-plan: Lightroom 1TB (annual, prepaid)
-priceUsd: 119.88
-billing: year
-monthlyUsd: 9.99
+plan: "Lightroom 1TB (annual, billed monthly)"
+priceUsd: 11.99
+billing: month
+monthlyUsd: 11.99
 url: "https://www.adobe.com/products/photoshop-lightroom.html"
-sourceUrl: "https://helpx.adobe.com/lightroom/desktop/kb/lightroom-1tb-plan-faq.html"
-priceCheckedAt: 2026-11-25
+sourceUrl: "https://www.adobe.com/products/photoshop-lightroom/plans.html"
+priceCheckedAt: 2026-11-26
 domain: adobe.com
-blurb: Lightroom plan with 1TB cloud storage. $119.88/yr prepaid, or $11.99/mo on an annual contract billed monthly.
+blurb: "Lightroom plan with 1TB cloud storage, plus Lightroom Classic. $11.99/mo on an annual contract billed monthly."
 color: "#31A8FF"
 simpleIconsSlug: adobelightroom
 logo: logos/adobe-lightroom.png
