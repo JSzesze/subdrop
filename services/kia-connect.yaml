@@ -1,0 +1,18 @@
+id: kia-connect
+name: Kia Connect
+category: automotive
+plan: Care (monthly)
+priceUsd: 5.99
+billing: month
+monthlyUsd: 5.99
+url: "https://www.kia.com/us"
+sourceUrl: "https://owners.kia.com/us/en/uvo-compare-packages.html"
+priceCheckedAt: 2026-11-26
+domain: kia.com
+blurb: Kia's connected-car service. Lite is complimentary; Care is $5.99/mo ($59/yr), Plus $14.99/mo, Ultimate $19.99/mo.
+color: "#05141F"
+simpleIconsSlug: kia
+logo: logos/kia-connect.png
+aliases:
+  - kia-uvo
+  - uvo
